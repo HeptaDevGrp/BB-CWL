@@ -1,5 +1,5 @@
 from selenium import webdriver
-from crawler_helper import headless_mode_initialization
+from crawler_helper import *
 from time import sleep
 from login import login
 
@@ -26,7 +26,8 @@ announcements_button = driver.find_element_by_xpath('/html/body/div[5]/div/div/d
 announcements_button.click()
 
 # retrieve the form
-print(driver.page_source)
+form = page_form_extract(driver)
+print(form)
 
 # wait for next command
 sleep(100)

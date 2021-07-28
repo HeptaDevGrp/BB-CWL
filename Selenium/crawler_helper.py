@@ -26,3 +26,8 @@ def headless_mode_initialization():
     chrome_options.add_argument("--headless")
     # chrome_options.headless = True # also works
     return chrome_options
+
+
+def page_form_extract(driver):
+    form = driver.find_element_by_id('announcementList').text
+    return form
