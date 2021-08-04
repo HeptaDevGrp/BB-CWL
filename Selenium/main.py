@@ -32,7 +32,8 @@ driver.get("https://learn.intl.zju.edu.cn/")
 
 # read again and clean the data
 content = read_file('products/raw_data.txt')
-content_clean = data_cleaner(content)
+data_cleaner = data_cleaner(content)
+content_clean = data_cleaner.data_cleaner_process()
 write_file('products/clean_data.txt', content_clean)
 
 # feedback and exit
