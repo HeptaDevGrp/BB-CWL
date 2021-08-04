@@ -1,0 +1,765 @@
+Getting your MT2 papers
+Posted on: Friday, May 28, 2021 7:37:31 PM CST
+Dear all,
+If you want to get your MT2 paper, please come to library café 13:00-14:30 tomorrow (May 29th Sat).
+
+Thanks,
+
+CS 225 faculty
+Posted by: 熊能 (Xiong Neng) ZJU-UIUC Institute
+Posted to: CS225:DataStructures-LEC-1439(20-21)
+Teaching Assistants Sought
+Posted on: Saturday, May 22, 2021 3:55:16 PM CST
+If you are interested in becoming a Teaching Assistant next semester for MATH 213 Discrete Mathematics, send an e-mail to me. An official call for TAs from ZJUI will come soon.
+Posted by: Klaus-Dieter Schewe ZJU-UIUC Institute
+Posted to: CS225:DataStructures-LEC-1439(20-21)
+Final Exam Model Answers
+Posted on: Saturday, May 22, 2021 3:51:39 PM CST
+Model answers for the final exam will be available tomorrow. Just take a look at BB.
+Posted by: Klaus-Dieter Schewe ZJU-UIUC Institute
+Posted to: CS225:DataStructures-LEC-1439(20-21)
+Final
+Posted on: Friday, May 21, 2021 3:00:38 PM CST
+The final exam is open book and partly computer-based.
+You need to bring a laptop. You may use a tablet.
+You may bring any paper-based learning material (lecture slides, textbooks, printed model answers of assignments, additional texts, handwritten notes).
+Cell phones are forbidden.
+You may access stored e-books on your laptop or tablet.
+Apart from access to Blackboard for download of the exam script and templates for programming exercises and upload of answers the use of communication software (WeChat, email, QQ, WebEx, zoom, web search, etc.) is not allowed.
+You may use BB to access any of the uploaded material for this course.
+For anything not covered by the list above ask one of the proctors during the exam.
+Posted by: 江凤清 (Jiang Fengqing) ZJU-UIUC Institute
+Posted to: CS225:DataStructures-LEC-1439(20-21)
+Presentation Schedule
+Posted on: Monday, May 17, 2021 2:46:30 PM CST
+Pay attention to your group time slot, for both presenter group and grader group. Each group would help to evaluate another group's presentation, make sure your group be ready for both.  
+And come a bit early than your slot (maybe about 10 mins). Absence or late may get punishment since we value both your time and the staffs'.
+Posted by: 江凤清 (Jiang Fengqing) ZJU-UIUC Institute
+Posted to: CS225:DataStructures-LEC-1439(20-21)
+Last Lectures
+Posted on: Saturday, May 15, 2021 8:56:11 AM CST
+The lectures on Tuesday, May 18 and on Wednesday, May 19 (as much as necessary) will be dedicated to a revision as preparation for the final exam. The lecture on Monday, May 17 will round up Section 11.
+The final exam will contain 8 conceptual questions (10 points each) and 3 programming questions (20 points each). If you reach 60 points, this will be counted as 100%.
+Apart from Sections 1 and 11 all other sections are covered in the exam; some sections are covered by more than one question. In Section 10 only Subsection 10.1 is covered.
+
+Posted by: Klaus-Dieter Schewe ZJU-UIUC Institute
+Posted to: CS225:DataStructures-LEC-1439(20-21)
+CA2 Ex.4
+Posted on: Friday, May 14, 2021 8:11:48 AM CST
+It looks like Ex.4 in CA2 causes lots of problems, mainly problems to understand what to do. As the end of the semester is near, we cannot shift the deadline. So we take Ex.4 out of CA2. If you have already done this Exercise, we may give you some bonus for it. For now we stop the discussion of CA2.
+Posted by: Klaus-Dieter Schewe ZJU-UIUC Institute
+Posted to: CS225:DataStructures-LEC-1439(20-21)
+Course Feedback
+Posted on: Thursday, May 13, 2021 9:07:37 AM CST
+As every semester you are invited to provide feedback on the course. The questionnaire is available at
+https://forms.office.com/Pages/ResponsePage.aspx?id=xSAmKRCuU0Wsz2jsgDJQCOnMVLQF6hhIhjqiVXqkhG1UNExTN1U5OFZXUUNQWUtHWFM1OTgxWVVaUi4u
+
+Alternatively, you may also use the QR course placed under Content/Feedback.
+Please return your feedback by May 16.
+Please also answer questions Q15 "How much time did you spend on lectures, labs, homework assignments, literature study and exam preparation?" Give a realistic picture, so it can help to adjust future instances of this course." and Q16 "Describe, which aspects of the course you found challenging, and which aspects were rather simple. Which topics should be emphasized more, which less?".
+Posted by: Klaus-Dieter Schewe ZJU-UIUC Institute
+Posted to: CS225:DataStructures-LEC-1439(20-21)
+CA2 deadline
+Posted on: Tuesday, May 11, 2021 8:06:44 AM CST
+In addition to the message postage by Fengqing Jiang do you very best on this computing assignment, even if you feel that it is not perfect. We will NOT extend this deadline. 
+Posted by: Klaus-Dieter Schewe ZJU-UIUC Institute
+Posted to: CS225:DataStructures-LEC-1439(20-21)
+Graphs in CA2
+Posted on: Tuesday, May 11, 2021 8:02:51 AM CST
+Ignore the last sentence in CA2 concerning graphs. It does not make sense.
+Posted by: Klaus-Dieter Schewe ZJU-UIUC Institute
+Posted to: CS225:DataStructures-LEC-1439(20-21)
+Submission of MT2
+Posted on: Tuesday, April 27, 2021 11:02:09 PM CST
+Please submit the empty coding template of MT2 even if you didn't try it so that we could assign your grade on BB. Otherwise, you cannot get any score for MT2.
+For those who already submitted something for MT2, please ignore this message.
+Thanks!
+Posted by: 李翔 (Li Xiang) ZJU-UIUC Institute
+Posted to: CS225:DataStructures-LEC-1439(20-21)
+New policy
+Posted on: Monday, April 26, 2021 5:27:04 PM CST
+According to a new policy of ZJUI extra hours spent for midterm exams shall be compensated. Therefore, the last four lectures of the semester (not counting revision sections) will be optional. These last lectures will be given, but attendance is voluntary, and the lecture material will not be part of any assessment.
+Posted by: Klaus-Dieter Schewe ZJU-UIUC Institute
+Posted to: CS225:DataStructures-LEC-1439(20-21)
+Final Presentations -- Schedule
+Posted on: Monday, April 26, 2021 5:24:14 PM CST
+The schedule for the final presentations in the labs on May 17 and 19 is available on BB (Labs 13/14).
+Besides their own presentation each team will be involved in the assessment of one other team. The assessment form is also available on BB.
+Posted by: Klaus-Dieter Schewe ZJU-UIUC Institute
+Posted to: CS225:DataStructures-LEC-1439(20-21)
+Final Exam
+Posted on: Monday, April 26, 2021 5:14:15 PM CST
+The final exam is scheduled for May 22, 9:00-12:00. It will be conducted in the same way as the midterms with a mixture of conceptual and programming exercises.
+The last two lectures of the semester (May 18 and 19) will be reserved for revision and questions concerning the final exam.
+Posted by: Klaus-Dieter Schewe ZJU-UIUC Institute
+Posted to: CS225:DataStructures-LEC-1439(20-21)
+Midterm 1 Paper
+Posted on: Monday, April 19, 2021 2:29:17 PM CST
+Dear all,
+We would deliver back your midterm 1 paper back in today's discussion, please come to your assigned discussion room to get yours.
+
+Posted by: 江凤清 (Jiang Fengqing) ZJU-UIUC Institute
+Posted to: CS225:DataStructures-LEC-1439(20-21)
+Midterm 2
+Posted on: Monday, April 19, 2021 10:26:29 AM CST
+The second midterm is scheduled for April 27, 20:00-22:00 in LTW 102 and LTE 102. The room arrangement is as follows:
+LTW 102: groups 1-18
+LTE 102: groups 19-31
+Despite some requests there will be no sample available. There was no MT2 last year. In addition, to avoid another disaster we will implement a few changes:
+1) There will be fewer programming tasks. The additional time needed for dealing even with simple problems in C++ is far too high and risky.
+2) Instead, we will have questions that ask you to apply the basic algorithms taught in the course on specific examples.
+3) The midterm is to cover the sections 6, 8 and 9 (until April 23) with a strong focus on Sections 8 and 9. B- and B+-trees will not be covered.
+
+Posted by: Klaus-Dieter Schewe ZJU-UIUC Institute
+Posted to: CS225:DataStructures-LEC-1439(20-21)
+B+ Tree (Definition and Confusion)
+Posted on: Monday, April 19, 2021 10:14:07 AM CST
+There have been some confusing posts concerning the notion of B+-tree. There are indeed different definitions in the literature. In the lectures we used the definition commonly employed in the context of databases, the most prominent and decisive application case for B+-trees. According to this definition not all keys appear in the tree nodes, and pointers from leave do not point to the stored record with the given key, but to blocks. The reason for adopting such a definition is that otherwise there would be a lot or reorganisation effort needed in the B+-tree.
+The are definitions in the literature, where the real data records are de facto ignored, and all keys appear in the leaves. This is just a simplification, which could be used, when the data is not kept in secondary storage.
+Unfortunately, no full implementation in C++ is available for the advanced notion of B+-tree; CS225 last year provided a Python implementation. You may simplify your handling of B+-trees by adopting one of the available simplified implementations, i.e. you may dispense with secondary storage issues.
+Posted by: Klaus-Dieter Schewe ZJU-UIUC Institute
+Posted to: CS225:DataStructures-LEC-1439(20-21)
+Lab 9 and Programming Assignment 2
+Posted on: Saturday, April 10, 2021 1:28:38 PM CST
+Lab 9 deals with B-trees and B+trees and even their combined use. It turns out to be impossible to provide a fresh implementation in time; this is just too complex. Instead use a C++ implementation from github---there are several available.
+Do the same for Programming Assignment 2, but indicate where you got the code. Integrating the github code with your code from Programming Assignment 1 and extending it with some non-trivial queries is difficult enough.
+Posted by: Klaus-Dieter Schewe ZJU-UIUC Institute
+Posted to: CS225:DataStructures-LEC-1439(20-21)
+Assignment 6, Ex. 3
+Posted on: Wednesday, March 24, 2021 12:27:17 PM CST
+As the recursive implementation of insert and delete has already been provided, the exercise has been modified. You only need to sketch the iterative implementations and discuss the differences. No coding is required. This should also compensate for the hassle with Assignment 5.
+Nonetheless, you are still encouraged to explore iterative versions of the insert, find and delete operations on AVL trees, but they they are not part of the assignment.
+Posted by: Klaus-Dieter Schewe ZJU-UIUC Institute
+Posted to: CS225:DataStructures-LEC-1439(20-21)
+Assignment 5
+Posted on: Sunday, March 21, 2021 4:02:14 PM CST
+In view of the misunderstanding the deadline of Assignment 5 is shifted by 2 days.
+Posted by: Klaus-Dieter Schewe ZJU-UIUC Institute
+Posted to: CS225:DataStructures-LEC-1439(20-21)
+Assignment 5, Ex. 1
+Posted on: Saturday, March 20, 2021 6:55:04 PM CST
+There seems to be a big misunderstanding here. This exercise was meant to be conceptual: describe the implementation, but don't implement it in C++.
+Fibonacci heaps appear in the programming assignment 1; that suffices.
+Posted by: Klaus-Dieter Schewe ZJU-UIUC Institute
+Posted to: CS225:DataStructures-LEC-1439(20-21)
+Midterm 1 -- Note on Cheating (Important)
+Posted on: Wednesday, March 17, 2021 8:32:14 AM CST
+The rule was clear: no communication with WeChat or similar means is permitted. Nonetheless, some students violated this rule. Those who did will receive 0 for the midterm.
+In addition, cheating students are warned that any further cheating in this course will lead to a grade F. This in in accordance with Item 12 in the syllabus. According to the policy of ZJUI further actions by the institute cannot be excluded.
+Posted by: Klaus-Dieter Schewe ZJU-UIUC Institute
+Posted to: CS225:DataStructures-LEC-1439(20-21)
+Assignment 3
+Posted on: Wednesday, March 10, 2021 2:18:47 PM CST
+The model answer for Assignment 3, Ex. 4(ii) has been modified. The previously given hint is misleading and does not work. The trouble the exercises caused will be taken into consideration in the grading.
+Posted by: Klaus-Dieter Schewe ZJU-UIUC Institute
+Posted to: CS225:DataStructures-LEC-1439(20-21)
+More on Midterm 1
+Posted on: Monday, March 8, 2021 1:58:21 PM CST
+Organisation. Concerning the organisation of midterm 1, the conceptual question will be paper-based to avoid the necessity of scanning. Computing questions will need to be uploaded.
+You will need your laptop. As power outlets are limited in LTW and LTE please ensure that your laptop is fully charged to survive the two hours exam. Should your battery be already so old that it cannot last for 2 hours, you better bring some long enough power cable.
+Scope. Concerning the scope, the exam covers what we have dealt with in the lectures and labs, i.e. sequence data structures and associated algorithms, priority queues and a bit of hashing. You are of course allowed to use the code that has been provided in the labs, as we do not expect that this can all be re-implemented with only 2 hours.
+The provided sample midterm exam script from last year gives you some hints what to expect. Of course, you will be expected to use C++ instead of Python. Further note that last year priority queues were only dealt with later in the lectures, so they did not appear in the first midterm. This year, however, we have not yet handled tries or binary search trees, so questions in this direction are of course not part of the midterm.
+Posted by: Klaus-Dieter Schewe ZJU-UIUC Institute
+Posted to: CS225:DataStructures-LEC-1439(20-21)
+Assignment 3
+Posted on: Sunday, March 7, 2021 12:25:55 PM CST
+As everyone seemed to have some problem with Ex.4, we shift the deadline by one day.
+Posted by: Klaus-Dieter Schewe ZJU-UIUC Institute
+Posted to: CS225:DataStructures-LEC-1439(20-21)
+Hint for Ass.3, Ex. 4(ii)
+Posted on: Sunday, March 7, 2021 12:23:22 PM CST
+Due to multiple requests here's a bit more help for this exercise.
+Use a divide and conquer approach. That is, when you add k new elements to a heap, add them at the end (equivalently, add them as new tree leaves). The heap is a binary tree, so you actually add k_1 elements to the left subtree of the root and k_2 new elements to the right subtree, with k_1 + k_2 = k. Proceed recursively until you get to trees of height ≤ 2. Whenever you have insert k_1 (k_2) elements into the subtrees, you only need to sift down the root to obtain a heap. Then you can use induction for the proof of the complexity statement. For the induction base you have to explore multiple cases for trees of height ≤ 2, for which you can minimize the number of swap to be just k+1.
+Posted by: Klaus-Dieter Schewe ZJU-UIUC Institute
+Posted to: CS225:DataStructures-LEC-1439(20-21)
+More on Midterm 1
+Posted on: Wednesday, March 3, 2021 1:39:47 PM CST
+As the question came up, both midterm exams will be computer-based comprising a mixture of conceptual and programming exercises. You need to bring your laptop. You need to be able to access BB, as the exam script will become visible on BB right in time for the exam. Upload of answers is done in the same way as for all homework assignments. The exam is open book, so you can also bring all your lecture material, textbooks, etc. For the programming exercises you will be requested to extend or modify existing codes, so make sure that all sample code is available.
+Posted by: Klaus-Dieter Schewe ZJU-UIUC Institute
+Posted to: CS225:DataStructures-LEC-1439(20-21)
+quarantine?
+Posted on: Sunday, February 28, 2021 6:30:28 PM CST
+I have no information if any student spent time in a medium- or high-risk area and therefore needs to spend some time in quarantine. If that is the case, please let me know asap. I set up a zoom meeting (see details below) in case we need to give students in quarantine the chance to participate. The zoom meeting times are the same as the lecture times.
+Topic: CS 225 (temporary)
+Time: This is a recurring meeting
+Join Zoom Meeting
+https://zoom.us/j/94378167366?pwd=bE1wdTVDZ1hhTVgwSVJqRitCeEdZUT09
+Meeting ID: 943 7816 7366
+Passcode: 071769
+
+Posted by: Klaus-Dieter Schewe ZJU-UIUC Institute
+Posted to: CS225:DataStructures-LEC-1439(20-21)
+Midterm Exams
+Posted on: Friday, February 19, 2021 10:43:17 AM CST
+The dates for the two midterm exams have been fixed.
+MIDTERM 1: Tuesday, March 16, 20:00-22:00 (2 hours)
+Rooms for Midterm 1 are LTE 102/103 (Groups 1-15) and LTW 102/103 (Groups 16-32).
+MIDTERM 2: Tuesday, April 27, 20:00-22:00 (2 hours)
+Rooms for Midterm 1 are LTE 102/103 (Groups 1-15) and LTW 102/103 (Groups 16-32).
+
+Posted by: Klaus-Dieter Schewe ZJU-UIUC Institute
+Posted to: CS225:DataStructures-LEC-1439(20-21)
+Assignment 3 and Programming Assignment 1
+Posted on: Monday, January 25, 2021 2:39:20 PM CST
+The first programming assignment has been released on BB. It is centred around priority queues, a subject that will be treated mainly after the winter break. The deadline is April 4.
+Also Assignment 3 has been released. Please don't forget that its deadline is the same as the one of Assignment 2 (March 7), so use your time wisely.
+Posted by: Klaus-Dieter Schewe ZJU-UIUC Institute
+Posted to: CS225:DataStructures-LEC-1439(20-21)
+Assignment 2 deadline
+Posted on: Tuesday, January 19, 2021 9:35:57 AM CST
+Due to multiple requests the deadline for Assignment 2 has been changed to the end of the first week after the winter break.
+However, this will be also the deadline for Assignment 3. So we strongly advise that you do as much as possible on Assignment 2 before the break in order not to run into time problems in the first week after the break.
+Posted by: Klaus-Dieter Schewe ZJU-UIUC Institute
+Posted to: CS225:DataStructures-LEC-1439(20-21)
+Office Hours / Groups / Labs
+Posted on: Thursday, January 7, 2021 9:29:53 AM CST
+Office Hours: Wednesday 15:00-17:00 (except in winter vacation)
+Groups: See the previous announcement. So far not many groups have been formed. Please let me know your group members asap. I will let you know the number of your group.
+Labs: Labs start on Monday, January 11. There are four lab groups, each supervised by two teaching assistants. All labs are on Mondays, 18:00-20:00. Afterwards you can continue as long as you are allowed to remain in the room.
+Lab1 (Li Xiang, He Shilan) is held in LTN-B304
+Lab2 (Wu Mingzhou, Yuan Xinkai) is held in LTN-B404
+Lab3 (Jiang Fengqing, Chen Yize) is held in LTN-B434
+Lab4 (Xiong Neng, Zhou Qinren) is held in LTN-B333
+If your group number is n, then take k = n mod 4. You are supposed to be in lab group k. This applies from week 2 onwards. In week 1 (dedicated to C++ introduction) choose any of the four lab rooms, but make sure that no more than 30 students are in one lab.
+Posted by: Klaus-Dieter Schewe ZJU-UIUC Institute
+Posted to: CS225:DataStructures-LEC-1439(20-21)
+Welcome to CS 225
+Posted on: Monday, January 4, 2021 11:57:38 AM CST
+Dear students,
+Welcome to the course CS 225 "Data Structures", which will begin next week on January 11. We will have the first lecture and the first labs both on the first Monday.
+All assignments, programming assignments and the final presentations this semester will be group assignments. For this you need to form groups of 3 or 4 students. Please send the names of your group members by email to me, so I can set up the groups in BB and allocate the TAs and lab groups.
+If you have problems to find classmates to form a group together with you, you can launch a search for classmates in Piazza or send a message to me, so we can bring you together with other students. Group formation has to be completed before the deadline of the first assignment.
+The grouping does not apply to the first lab on January 11, which is dedicated to C++. Please choose one of the lab rooms (B304, B404, B434, B333), but make sure that in every room there are no more than 30 students.
+kind regards
+KD Schewe
+Posted by: Klaus-Dieter Schewe ZJU-UIUC Institute
+Posted to: CS225:DataStructures-LEC-1439(20-21)
+New test
+Posted on: Friday, April 9, 2021 12:30:00 PM CST
+The following test has been made available in Content: Week8 Quiz.
+Posted by: 林妙蓉 社会学
+Posted to: GCL200:FrameworksforInequality-LEC-1518(20-21)
+Important announcement regarding the final assessments for IE2
+Posted on: Saturday, May 16, 2020 12:25:10 PM CST
+Dear Students,
+This message will give details about the final Listening and Reading exam, final Wiring exam for ZJE students and the final Spoken Presentation assessment. 
+After consideration and discussion with the Center for Academic Affairs, it has been decided that the final Listening and Reading exam and the Writing exam for ZJE students will be postponed until all students return to campus in time for the Fall/Autumn semester in September.
+The reason for this decision relates to the broader decision by Academic Affairs for all courses to only give exams that can be carried out online. Exams and assessments which cannot be done online will instead be delayed until sometime in September. 
+For Integrated English 2 this means that the final Listening & Reading exam and the Writing exam will not take place on May 25th as originally planned.
+This has no effect on the final speaking assessment which remains the same.
+We understand that this may cause some concern for those students who worry about how this delay will affect their GPA. However, this is something that can be discussed with the Center for Academic Affairs and your institute at a later date.
+For now, you just need to know that in your IE2 class, the last major task of this semester is to complete your final presentation and submit it before the deadline on the 22nd of May.
+In the summer vacation period, you should dedicate a little time each week to practice for TOEFL or IELTS tests to prepare for the final exams in September.
+If you have further questions about the final assessments, please use the QnA forum here on blackboard and we will try to answer you as soon as possible.
+  All the best,
+Your integrated English Instructors
+Posted by: Robert Holmes Liberal Arts&Science college
+Posted to: Integrated English Ⅱ
+Welcome to mid-terms!
+Posted on: Monday, April 13, 2020 2:25:53 AM CST
+In a few hours, the Week 9 content folders will open and it will be ready for your mid-term presentation. The *only* required activity is your midterm presentation in the Speaking/Week 9 folder. This will be your first graded activity in this course.
+
+You are strongly encouraged to go back to previous weeks and review lectures, reading tasks, and the reading task responses of your classmates before recording your video.
+
+If you have questions, first review the Q&A forum to search if your question has already been answered. If not, you can post a new question.
+
+Plan ahead and do not wait until the last minute to submit your presentation. Expect technical difficulties and for the network to be slow. The scores of late submissions will be reduced by 5% per day that it is late.
+
+As always, you are allowed multiple submissions up to the deadline.
+Posted by: William Denny 浙江大学国际联合学院
+Posted to: Integrated English Ⅱ
+Reminder: Homework submissions
+Posted on: Wednesday, March 11, 2020 4:31:57 AM CST
+Dear students,
+After the first few weeks, I have some additional tips and reminders to help the course run more smoothly for all of us.
+1) Do the assigned pre-reading and watch the lesson videos before you do your presentation or writing assignment for the week. Your feedback will be given assuming that you've learned from the lesson materials, so to avoid the embarassment and waste of your time, please prepare yourself appropriately. If it's clear that you did not pay attention to weekly lessons, you will not receive credit for that week's work until you do.
+2) Submit your homework in the correct place. If it is an assignment for Week 4, it belongs in the assignment submission for week 4 and not week 3. If you want credit for your work, it must be in the right place. Please note, also, that your homework submissions are "SUBMISSIONS" and not "COMMENTS." It is important to pay attention to where you put your work for it to be managed efficiently. See the image below if you are not sure about the differences between these two terms.
+2.1) Concerning presentation submissions for all students, starting week 5 with Presentation 2, ALL submissions must be via OneDrive with the link as described in this important announcement from week 3. It takes far too long for us to download videos that are submitted as an attachment. Starting week 5, any uploaded/attached presentations will receive an automatic zero until you submit it correctly  by uploading it to OneDrive and linking it. We appreciate your flexibility and support in this. I understand this will be unfamiliar to some of you. Please take the time to familiarize yourself with the education tools your campus provides. I have curated some documentation (in both English and Mandarin) for you to review on a recent Q&A thread. If you need further help with this, please contact IT services for help.
+2.2) Concerning writing submissions for ZJE students, feel free to continue attaching Word documents if this works better for you.
+3) If you experience any technical difficulties, such as not being able to submit an assignment in the right place, let us know immediately via the WeChat group or email, and wait to submit it in the correct place. Many students are submitting work in other, incorrect, weeks/folders without telling us about the problem. This will result in no participation credit for the missing week's material until it is submitted correctly. For example, homework for Week 4 speaking needs to be submitted in the week 4 speaking assignment. If you put it anywhere else, it will get lost and uncounted.
+If you have any questions or concerns, you may email me at william@intl.zju.edu.cn or contact any of us on the WeChat group. The Q&A forum still works, but the other options often receive a faster response.
+Thanks, and keep up the consistent work!
+Will
+Posted by: William Denny 浙江大学国际联合学院
+Posted to: Integrated English Ⅱ
+Integrated English 2 WeChat Group
+Posted on: Monday, February 17, 2020 5:31:15 PM CST
+I've opened up a WeChat group for all sections of Integrated English 2 combined. We will continue to use Blackboard as much as possible for submissions, but, this WeChat group will be a more familiar way to connect with us and get support if you have any questions or problems with the course materials or Blackboard.
+Join us:
+This should largely replace the Q&A forum, but I suspect all of you will be much more comfortable with WeChat.
+
+Posted by: William Denny 浙江大学国际联合学院
+Posted to: Integrated English Ⅱ
+Submission errors
+Posted on: Monday, February 17, 2020 4:40:31 PM CST
+Some of you may be experiencing an error ("failure to save message") when you submit discussion forum posts. We urge you to contact ITS to resolve this. However, I can offer a tip to make sure you don't lose your writing when errors like this happen.
+Compose your response in another app, like Notepad, first, and then copy it over when you're ready. Many things can happen that might erase the information in a webpage textbox, and not all browsers are designed to save what you type.
+Hopefully, ITS can provide a solution soon.
+P.S., a couple of things to remember
+A) When asking us, or anyone for that matter, for assistance, please provide enough information for us to understand the problem. We are powerful and magical creatures, but alas we cannot yet read minds. That goes for literally every person you need to ask for assistance: ITS, other professors, your bank,  etc.
+B) If it is not urgent or personal, use the Q&A forum, please! It's much easier to answer a question once and let all students read the question and response than it is to respond to the same issue hundreds of times.
+Posted by: William Denny 浙江大学国际联合学院
+Posted to: Integrated English Ⅱ
+Welcome to Spring Semester 2020
+Posted on: Sunday, February 16, 2020 3:05:35 PM CST
+Dear Undergraduate Students,
+  Welcome to the new semester and to Integrated English 2. As you know, this semester the university will be running all courses online. I know this adds extra challenges to your studies, but I'm confident that we can make the most of it.
+  Integrated English 2 this semester is going to make use of a range of online tools and methods to deliver English teaching content and training tasks. These are designed specifically for you to improve and practice the English skills you need for academic success.
+  There are a few important things to know about this online course and several points you should consider about.
+How you will interact with the online course
+Most of the online course will be delivered via blackboard. There are three main ways you will interact with the course materials:
+The speaking course this semester focuses on Presentation skills.
+The writing course is about Science report writing.
+  Each week you will have a new set of online tasks to complete. These will include a video lecture to watch. These will be around 20 minutes.
+You will usually have reading or listening tasks to do; this is similar to last semester but this time you will have to post your answers to tasks on blackboard.
+ZJE students will also have extra instruction each week for science writing and will be given a writing practice task each week.
+We have discussion forums on Blackboard for you to post your answers to tasks. We can then read your responses and where appropriate offer feedback and advice on your English.
+  The discussion forums will be an important point of interaction with your English professors. Through the forum you can ask questions about the course, questions about individual tasks, and you can interact with other students. You can see other students’ work and read feedback from professors. This should help everyone learn things about their English as well as stay in touch with what’s happening with the course.
+How you will be assessed
+This semester is a very special case and the assessments might have to change as a result.
+Speaking: Right now, the plan is to have you complete two speaking assessments online by recording and uploading video recorded spoken presentations. One short talk and one longer presentation with visuals.
+Over the course of the semester, you will submit 3 non-graded practice presentations. You must record these as video files to submit on Blackboard. Instructions on how to do this will be provided.
+For assessment you will submit 1 graded mid-term recorded presentation, and for your final speaking assessment you will submit a recorded presentation with visual aids (using PowerPoint slides, etc.).
+  Listening and Reading: Right now, we anticipate that by the end of the semester, everyone will have returned to campus and be able to sit the final exam as normal. If that is not the case then we will have to find an alternative way to run the final listening and reading exam online. But this has not been decided yet. So, for now do not worry as much about this test.
+ZJE Writing: As was the case last semester, ZJE students will also take the extra writing component of Integrated English 2. The situation for the writing exam is the same as for listening and speaking above
+Now, throughout the semester it is very important that you pay attention to your emails and blackboard announcements and keep track of the tasks and work you are doing to improve your English. Whenever you are unsure what to do, you can ask using blackboard or by sending an email.
+    Head over to the Content section of blackboard and access the week one speaking practice materials to get started.
+  All the best for this unusual and interesting new semester.
+  Sincerely,
+Your English Professors.
+ 
+Course Link/Content/Speaking lessons/Week 1: February 17, 2020 -- February 21, 2020
+Posted by: Robert Holmes Liberal Arts&Science college
+Posted to: Integrated English Ⅱ
+Math 286 Grades
+Posted on: Monday, June 14, 2021 12:11:53 PM CST
+The Math 286 Grades are now online. Please refer to the column "Final Score" for your total numerical score (0-100), from which the final letter grade (the one which counts at the end of the day) is computed according to a scheme similar to last semester's Math 241. (This scheme will be published soon.)
+I am sorry that yesterday evening, due to upload errors, some inconsistent data may have been on BB. The column "Total", if anything, contained the wrong data.
+The final exam is now rated as 45+7 (full score 45 marks, exactly corresponding to its weight of 45%, and 7 optional marks). Details on this will be published in a revised version of the solutions file. Extra credits are traded in for 5% of the final exam score (whichever relative score is better), and similarly for the homework. The exact spreadsheet formula for the final score is
+40*(E/45)+M+MAX(25*E/45,H)+L+MAX(5*E/45,C)
+(E final exam, M midterm, H homework, L lab, C extra credit)
+Happy Dragon Boat Festival!
+TH
+Posted by: Thomas Honold 国际联合学院(海宁国际校区)
+Posted to: MATH286:Introto Differential EqPlus-LEC-1370(20-21)
+Math 286 Course Evaluation
+Posted on: Tuesday, June 1, 2021 3:16:16 PM CST
+Dear Math 286 students,
+please do me a favor and complete the Math286 course evaluation at
+https://forms.office.com/Pages/ResponsePage.aspx?id=xSAmKRCuU0Wsz2jsgDJQCOnMVLQF6hhIhjqiVXqkhG1UNExTN1U5OFZXUUNQWUtHWFM1OTgxWVVaUi4u
+within 3 days from now, if you haven't done yet. Your feedback is very important for detecting strenghts/weeknesses of this year's course and improving the course next semester. The last two questions are:
+Q15: Which topic in the course did you find most/least interesting?
+Q16: Where there any prerequisites for the course that you think you didn't have; if ``yes'', which are these?
+Many thanks, TH
+Posted by: Thomas Honold 国际联合学院(海宁国际校区)
+Posted to: MATH286:Introto Differential EqPlus-LEC-1370(20-21)
+Deadline for TA application for Calculus III in Fall 2021
+Posted on: Sunday, May 30, 2021 3:39:45 PM CST
+You can submit your application for a TA position in Calculus III (Math241) in Fall 2021 until Mon May 31 (tomorrow); see Slide 74 of lecture55-56_handout.pdf for more details.
+TH
+
+Posted by: Thomas Honold 国际联合学院(海宁国际校区)
+Posted to: MATH286:Introto Differential EqPlus-LEC-1370(20-21)
+Solutions to the final exam
+Posted on: Sunday, May 30, 2021 3:32:00 PM CST
+Solutions to the final examination have been uploaded to the usual place. This will be complemented by additional remarks on student solutions (like alternative solutions or common errors) after the grading is done. The marks distribution will also be fixed at that time.
+TH
+Posted by: Thomas Honold 国际联合学院(海宁国际校区)
+Posted to: MATH286:Introto Differential EqPlus-LEC-1370(20-21)
+Information about the Final Examination
+Posted on: Friday, May 21, 2021 12:54:29 PM CST
+The final examination in Math286 will be held on Fri May 28, 9-12am, in LTW 102, 201, 204. The rules are the same as for the Calculus III final exam last semester; see also Slide 72 of lecture55-46_handout.pdf
+Weight: 45% of the total score; 5% can be replaced by extra credits (if the relative extra-credit score is higher)
+Topics: All topics covered in Lectures 1-54 (no questions on PDE's). There will be no dedicated questions on LInear Algebra and Complex Numbers, but you may need to use knowledge in these fields when answering questions about ODE's.
+Office hours:  Before the exam I will have office hours on Wed May 26, 10:30 - 12:00, in ZJUI 1C-415. Their purpose is to resolve questions (if any) about the course material you have encountered during (or before) the review period, not to answer any examination-specific questions. (Those should be asked on piazza.com.)
+Several of our TA's are conducting Math286 review sessions for their discussion group next week - you are very much encouraged to attend. Date/time/venue will be the same as for the TA office hours (see announcement of Jan 16), unless they have informed you otherwise. If the schedule conflicts with other exams, you are free to switch to another TA.
+This year's exam will be similar to (but also different from) those in previous years. The two sample final exams I've put in the folder "Exams" certainly serve as good preparatory exercises for a major portion of this year's exam. Solutions will be uploaded on the weekend.
+Good luck!
+TH
+
+
+Posted by: Thomas Honold 国际联合学院(海宁国际校区)
+Posted to: MATH286:Introto Differential EqPlus-LEC-1370(20-21)
+About Lectures 55, 56
+Posted on: Friday, May 21, 2021 11:49:12 AM CST
+The lecture slides for Lecture 55 and 56 contain 3 important slides at the end, which especially students who didn't attend Lecture 56 should note:
+1. Information on the final exam: The rules will be the same as for the Calculus III final exam; see Slide 72.
+2. Course evaluation: Please do us a favor and complete the online course evaluation form for Math286 this Spring. Click the link on Slide 73 and note the additional questions Q15, Q16.
+3. Call for TA's for my Calculus III course in Fall 2021; see Slide 74.
+Since attendance during the last week was low, I have decided not to ask a question about PDE's in the final exam. But be prepared for a question about the material in Lectures 53, 54.
+TH
+Posted by: Thomas Honold 国际联合学院(海宁国际校区)
+Posted to: MATH286:Introto Differential EqPlus-LEC-1370(20-21)
+About lab presentations today, 5:00 - 8:20 p.m.
+Posted on: Tuesday, May 18, 2021 2:28:01 PM CST
+The time limit of 10 min per work group will be enforced strictly today. Please try to make your presentation short, focus only on selected parts from the report (which you can always quote if necessary), and let only 1or 2 work group members do the presentation.
+Nevertheless expect the later talks to be delayed by a certain time, since switching between groups takes a few minutes (based on the experience yesterday). Please avoid such delays, if possible, i.e., by having your USB stick ready if it's your turn or uploading the presentation file in advance.
+TH
+Posted by: Thomas Honold 国际联合学院(海宁国际校区)
+Posted to: MATH286:Introto Differential EqPlus-LEC-1370(20-21)
+Lab Presentation Schedule
+Posted on: Wednesday, May 12, 2021 4:36:48 PM CST
+Lab presentations are scheduled for Mon May 17, 4-6 pm and Tue May 18, 5-8 pm, in LTN-B 424.  Time slots are per discussion group as follows:
+Group 1 (Niu Yiqun): May 17, 4-5pm
+Group 2 (Yu Chengting): May 17, 5-6pm
+Group 3 (Yuan Yue): May 18, 5-6pm
+Group 4 (Chen Shengjian): May 18, 6-7pm
+Group 5 (Qin Tianzuo): May 18, 7-8pm
+The TA's will make the actual presentation schedule. Each work group has 10 min presentation time. You need to be present in LTN-B 424 only for the presentation of your work group. Should there be some conflict with another assignment, get in touch with your TA early and ask for rescheduling the presentation. Work groups can select a single presenter or switch presenters during their talk. The presentation score (5 marks) is always per work group, and likewise for the lab report score (10 marks).
+Before your presentation you have to hand in the lab report of 6-8 pages (excluding computer printouts). We won't impose the page limit strictly - since it depends on the format -, but obvious breaches of the rule (such as using double-spaced typesetting to reduce the effective length to 2.5 pages, or writing as densely as on the cheating sheet for our final exam in Calculus 3;-) will be penalized.
+Be sure to name all group members and their student id's on the first page of the report, and - this represents a new requirement! - please include the following honorary statement on the first page, signed by each group member:
+We declare that this report is our own original work, and every work group member has a fair share in this work. For the preparation of the report we have not used any other resources than the Math 286 lecture material and the references cited in the report.
+The lab problems and basic suggestions for designing your presentation/report can be found in the file lab.pdf in the Math286 root folder. Here is some further advice: Conceive your presentation for someone who has attended Math286 but has no background in numerical solutions of ODE's. That is, you should explain (in a lucid way) the ideas behind the three methods and the key parameters (order, step size, local/global truncation error, etc.). The remaining time can be used for presenting your solution to one or both of the lab problems (for the presentation one problem is enough) and maybe discuss some related aspects of your choice. For the lab report it is mandatory to solve (or at least attempt to solve) both lab problems. Here you should give full details of your solutions, describe the software used, provide a basic error analysis, etc. On the other hand you can reference anything in Chapter 8 of our textbook in the report and need not explain the numerical methods from scratch.
+Best wishes, TH
+
+Posted by: Thomas Honold 国际联合学院(海宁国际校区)
+Posted to: MATH286:Introto Differential EqPlus-LEC-1370(20-21)
+Sample final exams
+Posted on: Wednesday, May 12, 2021 3:35:46 PM CST
+Two final exam samples have been put online (in the folder "Exams"). Solutions will be published 1 week before this year's final exam, which is on May 28.
+TH
+Posted by: Thomas Honold 国际联合学院(海宁国际校区)
+Posted to: MATH286:Introto Differential EqPlus-LEC-1370(20-21)
+About Homework 13
+Posted on: Friday, May 7, 2021 3:39:04 PM CST
+The former exercise H84 in Homework 13 has been replaced by a new (shorter) exercise about the characteristic polynomial of similar matrices. The old exercise, which requires the material on stability of linear systems discussed only in the 2nd half of next week, is now optional (H87).
+The latest version of Homework 13 contains notes on H81 and H82 b) at the end, which for their solution require material from next week's lectures. My apologies for this oversight!
+TH
+Posted by: Thomas Honold 国际联合学院(海宁国际校区)
+Posted to: MATH286:Introto Differential EqPlus-LEC-1370(20-21)
+Deadline for Homework 11
+Posted on: Wednesday, April 28, 2021 2:55:55 PM CST
+Because of the heavy workload this week (with midterms on Tue) you can hand in H69 - H72 of Homework 11 together wit Homework 12 on May 6. The TA's will be advised to select for presentation during tomorrow's discussion session only exercises from H66 - H68. Once a solution to an exercise has been presented, however, it is not possible to hand in your own solution to this exercise later.
+I hope this eases the situation a bit. The remaining homework (2 assignments) will be made available soon, so that you can better plan the semester finish. To give you more time, lab presentations will be scheduled only in the last week of the semester (on May 17, 18).
+TH
+Posted by: Thomas Honold 国际联合学院(海宁国际校区)
+Posted to: MATH286:Introto Differential EqPlus-LEC-1370(20-21)
+Next lecture(s)
+Posted on: Tuesday, April 27, 2021 8:21:22 PM CST
+In the lectures on Wed April 28 and Fri April 30 we will start discussing 1st-order ODE systems and the significance of eigenvectors/eigenvalues for their solution. These are core topics of Math 286, and hence for students who have recently missed some lectures a good "opportunity" (rather I should say, an obligation) to return to class.
+TH
+Posted by: Thomas Honold 国际联合学院(海宁国际校区)
+Posted to: MATH286:Introto Differential EqPlus-LEC-1370(20-21)
+Lecture Slides on LInear Algebra
+Posted on: Tuesday, April 27, 2021 8:22:05 PM CST
+The slides on Linear Algebra (lecture42-45_handout.pdf) contain much more material than we have actually discussed in the lecture. Students who didn't attend one of these lectures should note the relevant topics:
+The only fields of interest for Math286 are Q, R, C.
+You are expected to understand the basic Linear Algebra concepts (vector space, linear combination, generating set, linear independence, basis, dimension, subspaces, linear map) in the non-standard setting. Particularly instructive in this regard are the Problem on Slide 27 ff and the example on Slide 32 ff.
+You should know the Fundamental Theorem of Linear Algebra, the dimension formula for subspaces, direct sums, the dimension formula for linear maps (including "kernel of a linear map"), coordinate vectors and change-of-basis matrices.
+TH
+Posted by: Thomas Honold 国际联合学院(海宁国际校区)
+Posted to: MATH286:Introto Differential EqPlus-LEC-1370(20-21)
+About Homework 11
+Posted on: Tuesday, April 27, 2021 3:36:05 PM CST
+A new version of Homework 11 has been uploaded. This contains a new optional exercise, H75, on the Laplace transform, a correction and an additional hint to H72, and a clarification of the limit in H69 (the real variable s or, more generally, for a complex variable the real part Re(s) should tend to +infinity).
+TH
+Posted by: Thomas Honold 国际联合学院(海宁国际校区)
+Posted to: MATH286:Introto Differential EqPlus-LEC-1370(20-21)
+About late HW submissons
+Posted on: Thursday, April 15, 2021 11:06:19 AM CST
+It has come to my attention that some students are notoriously late with their homework submission. This is against our rules ("late homework will not be accepted") and also conflicts with the timely publication of our sample solutions after the deadline. Hence I have advised our TA's to inforce the HW deadline strictly from now on and impose a penalty of at least 50% of the corresponding score in case of violation.
+Thanks for your understanding, TH
+Posted by: Thomas Honold 国际联合学院(海宁国际校区)
+Posted to: MATH286:Introto Differential EqPlus-LEC-1370(20-21)
+Lab Project
+Posted on: Thursday, April 15, 2021 10:56:05 AM CST
+The details of the lab project have been fixed and announced. Look for a file "Lab project" in the root folder. TA's will give you more information in today's discussion session, in which also the lab work groups will be formed.
+Please note that homework assignments (with somewhat reduced work load) will continue until the end of the semester. So you should manage your time accordingly and start working on the lab project early. Lab work groups can meet anywhere at any time.
+TH
+Posted by: Thomas Honold 国际联合学院(海宁国际校区)
+Posted to: MATH286:Introto Differential EqPlus-LEC-1370(20-21)
+Discussion Group 1 (Niu Yiqun) moved to a later date
+Posted on: Thursday, April 8, 2021 3:44:42 PM CST
+Discussion Group 1 (Niu Yiqun) today is cancelled and will be moved to a later date. Students of Group 1 should hand in their homework today in LTN A-426 (Qin Tianzuo). About date/time/venue of the makeup session you will be notified by Niu Yiqun on WeChat.
+TH
+Posted by: Thomas Honold 国际联合学院(海宁国际校区)
+Posted to: MATH286:Introto Differential EqPlus-LEC-1370(20-21)
+Information about the midterm
+Posted on: Tuesday, March 30, 2021 12:30:18 PM CST
+As you know the midterm will be held this Thu April 1, 4:15 - 5:15 pm
+Venues:          ECE students: LTE 102/103;         all others: LTW 102/103
+Format: Multiple choice, 15 questions, strictly CLOSED BOOK (no electronic devices, no notes, no cheating sheet, etc., only a pen is allowed)
+Weight: 15 % of the total score
+Topics: All topics discussed so far in the lecture and homework. The last relevant topic is "Euler equations" (discussed today). The rather technical question whether solutions of Euler equations on (0,oo) can be extended to the whole real line (skipped in today's lecture) will not be required.
+Good luck!
+TH
+
+Posted by: Thomas Honold 国际联合学院(海宁国际校区)
+Posted to: MATH286:Introto Differential EqPlus-LEC-1370(20-21)
+About Homework 6
+Posted on: Tuesday, March 16, 2021 3:24:12 PM CST
+The knowledge of higher-order linear ODE's with constant coefficients required to solve the exercises of Homework 6 is contained in lecture21-24 and will be completely available only after Lecture 24 on Mon Mar 22. However, I am planning to change the order of the material discussed (examples and the homogeneous case on Wed, inhomogeneous case on Fri, proofs and more background on Mon), so that you can do at least the mandatory exercises (except H39 perhaps) after the lecture on Fri.
+TH
+Posted by: Thomas Honold 国际联合学院(海宁国际校区)
+Posted to: MATH286:Introto Differential EqPlus-LEC-1370(20-21)
+Piazza Math 286 Class
+Posted on: Sunday, March 14, 2021 12:10:15 PM CST
+Now we have a piazza class for Math 286 in Spring 2021. For enrolment please go to
+https://piazza.com/intl.zju.edu.cn/spring2021/math286
+All students are very much encouraged to enrol and ask course related questions there (which you can do anonymously, if you want). You can find the link also in the BB content folder for Math 286 (look for "Piazza").
+TH
+Posted by: Thomas Honold 国际联合学院(海宁国际校区)
+Posted to: MATH286:Introto Differential EqPlus-LEC-1370(20-21)
+Midterm date
+Posted on: Thursday, March 4, 2021 10:27:32 PM CST
+The midterm exam of Math 286 will be held on Thu Apr 1, 4.15 - 5.15 pm.                                                
+Weight: 15% of the total score                                                
+                                                                               
+Form: Multiple Choice Test (15 questions), strictly CLOSED BOOK           
+There will be no discussion sessions on Apr 1, but you have to hand in your homework as usual.                                                                            
+TH
+
+Posted by: Thomas Honold 国际联合学院(海宁国际校区)
+Posted to: MATH286:Introto Differential EqPlus-LEC-1370(20-21)
+Remote Learning
+Posted on: Monday, March 1, 2021 3:20:52 PM CST
+Dear Students,
+a happy and healthy New Lunar Year of the Buffalo to all of you!
+I am not quite sure whether all of you are already back on Campus and able to follow the Math 286 Lectures in person. For those who are not yet allowed to come back I have made the lecture videos of last year (back then the course was taught online) available; cf. link in the root folder. Last year's lectures were slightly different, and with different breaks between lectures, but nevertheless they provide a viable alternative route to studying the current material if you can't attend the lecture. Our present topic "uniform convergence" (lecture11-13_handout.pdf, covered in Lectures 11-14 until Wed), was discussed last year in Lectures 10-13 (starting at Minute 16 in Lecture 10 and ending at Minute 32 in Lecture 13). The material at the end of lecture11-13_handout.pdf (new for this year) is optional and can be studied directly from the slides.
+If for the same reason you can't submit your homework in person, you should notify your TA well in advance of your situation. In such cases we will then allow electronic submission until the restriction is lifted.
+Best wishes, TH
+
+
+Posted by: Thomas Honold 国际联合学院(海宁国际校区)
+Posted to: MATH286:Introto Differential EqPlus-LEC-1370(20-21)
+Homework 3
+Posted on: Sunday, January 31, 2021 11:52:23 AM CST
+Homework 3 (due in the week after the holidays) is online now. If you intend to work on it during the next few days, you should download it now, because Blackboard will be unavailable from tomorrow Feb 1 until at least Feb 4.
+Happy and healthy Spring Festival holidays!
+TH
+Posted by: Thomas Honold 国际联合学院(海宁国际校区)
+Posted to: MATH286:Introto Differential EqPlus-LEC-1370(20-21)
+About Homework 2
+Posted on: Monday, January 18, 2021 3:39:16 PM CST
+Homework 2 is already online. It is a bit lengthy (because of H9) and you are advised to start working on it as soon as you have finished Homework 1. After tomorrow's (Tue) lecture the necessary prerequisites for solving the exercises in Homework 2 will be available, with the exception of H10.
+TH
+Posted by: Thomas Honold 国际联合学院(海宁国际校区)
+Posted to: MATH286:Introto Differential EqPlus-LEC-1370(20-21)
+Office hours
+Posted on: Saturday, January 16, 2021 11:25:16 AM CST
+Professor and TA's have weekly office hours.
+Thomas Honold, Mon 4-5 pm, ZJUI Building (1C) 415
+Yuan Yue, Mon 8-9 pm, LIbrary Cafe
+Qin Tianzuo, Tue 6-7 pm, Library Cafe
+Chen Shengjian, Tue 7-8 pm, Library Cafe
+Yu Chengting, Tue 8-9 pm, Library Cafe
+Niu Yiqun, Sat 1-2 pm, Library Cafe
+Office hours start next week. You can turn with questions to either of us, i.e., it is not necessary to visit the TA of your discussion session.
+TH
+
+Posted by: Thomas Honold 国际联合学院(海宁国际校区)
+Posted to: MATH286:Introto Differential EqPlus-LEC-1370(20-21)
+Math 286 discussion groups
+Posted on: Wednesday, January 13, 2021 2:47:15 PM CST
+DISCUSSION GROUPS for MATH 286 IN Spring 2021
+------------------------------------------------------
+
+Date/Time/Venue/TA:
+
+Group 1, Thu 4-5pm, LTN-A 226, Niu Yiqun
+Group 2, Thu 4-5pm, LTN-A 301, Yu Chengting
+Group 3, Thu 4-5pm, LTN-A 325, Yuan Yue
+Group 4, Thu 4-5pm, LTN-A 401, Chen Shengjian
+Group 5, Thu 4-5pm, LTN-A 426, Qin Tianzuo
+
+The spreadsheet "list of discussion groups" in the root folder shows in which group you are.
+The groups meet weekly, starting on Jan 14 with an introduction of your TA.
+
+Purpose of the Groups:
+
+- Hand in your present homework to the respective TA, who will mark it
+- Get back the previous homework
+- Present solutions of previous homework exercises
+- Q/A, announcements, further explanation of particular lecture topics
+  by TA, etc.
+TH
+Posted by: Thomas Honold 国际联合学院(海宁国际校区)
+Posted to: MATH286:Introto Differential EqPlus-LEC-1370(20-21)
+Phys213 prelabs
+Posted on: Tuesday, April 6, 2021 10:03:46 AM CST
+Phys213 has prelabs, please finish it before class.
+Posted by: 夏焕新 国际联合学院(海宁国际校区)
+Posted to: PHYS213:Univ PhysicsThermal Physics-Lab
+Updated notes
+Posted on: Saturday, May 8, 2021 8:58:22 AM CST
+Notes for Lecture 12 were updated
+Posted by: Oleksiy Penkov ZJU-UIUC Institute
+Posted to: PHYS213:UnivPhysics:ThermalPhysics-LEC-1396(20-21)
+Correction for Midterm Location
+Posted on: Sunday, April 25, 2021 5:40:47 PM CST
+LTW 102  Discussion sections 4,5
+LTW 201 Discussion section 6
+LTE 102 Discussion sections 1-3
+Posted by: Oleksiy Penkov ZJU-UIUC Institute
+Posted to: PHYS213:UnivPhysics:ThermalPhysics-LEC-1396(20-21)
+Midterm's and lectures schedule
+Posted on: Sunday, April 25, 2021 5:41:38 PM CST
+Midterm will he held this Sunday, April 25th, starting 6 pm. Duration - 2 hours.
+Locations:
+LTE 102   - Discussion groups  1-3,
+LTW 102 -  Discussion groups  4-5,
+LTW 201 -  Discussion group  6
+Lecture are rescheduled as follows:
+  Friday, April 23rd - Q/A session, optional
+  Monday, April 26th       - No class
+  Wednesday, April 28th - Lecture 10
+  Friday, April 30th          - Lecture 11
+Posted by: Oleksiy Penkov ZJU-UIUC Institute
+Posted to: PHYS213:UnivPhysics:ThermalPhysics-LEC-1396(20-21)
+About Midterm
+Posted on: Thursday, April 15, 2021 5:21:52 PM CST
+Date and time of Midterm exam will be decided today during Discussion sessions.
+Posted by: Oleksiy Penkov ZJU-UIUC Institute
+Posted to: PHYS213:UnivPhysics:ThermalPhysics-LEC-1396(20-21)
+Regrding the Formula Sheet(s)
+Posted on: Thursday, April 8, 2021 3:29:06 PM CST
+In this course, every student is allowed to create and use HIS OWN hand-written formula sheet (A4, 1 side) during quizzes and exams.
+The standard Formula sheet will not be provided.
+
+Posted by: Oleksiy Penkov ZJU-UIUC Institute
+Posted to: PHYS213:UnivPhysics:ThermalPhysics-LEC-1396(20-21)
+Lectures schedule arrangement
+Posted on: Thursday, April 1, 2021 5:50:10 PM CST
+Attention! For the next to weeks, the lectures are scheduled as follows:
+Friday, April 2nd - No lecture
+Wednesday, April 7th - Lecture 3
+Friday, April 9th - Lecture 4
+Don't forget to complete pre-lectures and checkpoints at Smart.Physics in time.
+Posted by: Oleksiy Penkov ZJU-UIUC Institute
+Posted to: PHYS213:UnivPhysics:ThermalPhysics-LEC-1396(20-21)
+Lectures begin
+Posted on: Friday, March 26, 2021 2:44:27 PM CST
+Lectures start next Monday, March 29
+East Hall, 10:00-11:00
+
+
+Posted by: Oleksiy Penkov ZJU-UIUC Institute
+Posted to: PHYS213:UnivPhysics:ThermalPhysics-LEC-1396(20-21)
+classroom of phys214 lab1
+Posted on: Friday, January 15, 2021 2:56:12 PM CST
+Dear all,
+Phys214 lab1 will be in room E417 of lab building, please note.
+The rest 3 lessons will be in E521/E519.
+Posted by: 夏焕新 国际联合学院(海宁国际校区)
+Posted to: PHYS214:Univ Physics-Quantum Physics
+Class schedule of phys214 lab
+Posted on: Friday, January 15, 2021 11:18:29 AM CST
+Dear all,
+
+The first lab lesson will be on next week, please note.
+
+No prelabs for phys214 lab.
+Course Link/Content/phys214 lab class schedule
+Posted by: 夏焕新 国际联合学院(海宁国际校区)
+Posted to: PHYS214:Univ Physics-Quantum Physics
+Bonus Points for Final Exam-If you finish the task below
+Posted on: Wednesday, May 12, 2021 7:50:41 PM CST
+Dear ALL,
+Please help finish the course evaluation through the link below.
+https://forms.office.com/Pages/ResponsePage.aspx?id=xSAmKRCuU0Wsz2jsgDJQCOnMVLQF6hhIhjqiVXqkhG1UNExTN1U5OFZXUUNQWUtHWFM1OTgxWVVaUi4u
+Anyone who finishes the evaluation and send the screen shot (after you finish it) to your Teaching Assistant through email (only email is acceptable, other ways, such as wechat or others are not acceptable ), will get 0.5 extra point for your final exam. The deadline is 16 May, 5pm.
+Thanks
+Wenchao CHEN
+Posted by: 陈文超 国际联合学院(海宁国际校区)
+Posted to: PHYS214:UnivPhysics:QuantumPhysics-LEC-1409(20-21)
+Final Exam
+Posted on: Sunday, April 18, 2021 9:00:10 PM CST
+Dear All,
+The final exam is scheduled on   April 23, 6pm-8pm. 
+Exam rooms and seats are arranged as in the attached file (in the "content"), please find your room and seat number.
+For those who have conflicts, I already contact you individually to secure another time slot. 
+There are some tips/rules for you.
+1.No cheating sheet, no draft paper are allowed. I will prepare the formula sheet for you.
+2. No electronics besides calculator. 
+3. Don't be late. There will be no make-up exam. If you don't come, it will be considered as you give up.
+4.Final exam example is also posted for you reference.
+If you have any question, contact me through wenchaochen@zju.edu.cn
+Wenchao CHEN
+Posted by: 陈文超 国际联合学院(海宁国际校区)
+Posted to: PHYS214:UnivPhysics:QuantumPhysics-LEC-1409(20-21)
+Tentative Schedule of PHY 214 Final Exam
+Posted on: Friday, April 2, 2021 2:17:11 PM CST
+Dear ALL,
+Since some of you have conflicts on   April 16th. We have to tentatively reschedule the final exam on April 23, 6pm-8pm. If you have any conflict, please contact me through wenchaochen@zju.edu.cn.
+Thanks
+Wenchao CHEN
+Posted by: 陈文超 国际联合学院(海宁国际校区)
+Posted to: PHYS214:UnivPhysics:QuantumPhysics-LEC-1409(20-21)
+Final EXAM
+Posted on: Monday, March 29, 2021 3:17:18 PM CST
+Dear ALL,
+The final exam is tentatively scheduled on April 16th, Friday, from 6:00pm to 8:00pm. If you have any conflicts, contact me before April 2ed through wenchaochen@zju.edu.cn
+Thanks
+Wenchao CHEN
+Posted by: 陈文超 国际联合学院(海宁国际校区)
+Posted to: PHYS214:UnivPhysics:QuantumPhysics-LEC-1409(20-21)
+Reminder: Midterm Exam will be on Friday 6pm-7:20pm
+Posted on: Thursday, March 18, 2021 10:49:04 AM CST
+Dear ALL
+The midterm will be on Friday 6-7:20pm. Please attend on time. If you don't attend, that will be considered as "you give up the midterm exam", and no make-up exam will be made.
+Thanks
+Wenchao Chen
+Posted by: 陈文超 国际联合学院(海宁国际校区)
+Posted to: PHYS214:UnivPhysics:QuantumPhysics-LEC-1409(20-21)
+Midterm Term Exam on March 19, 6pm-7:20pm
+Posted on: Friday, March 12, 2021 11:11:57 AM CST
+Dear ALL,
+The midterm is scheduled on March 19, 6pm-7:20pm, in Lecture Theater East 102; 201; 204. Midterm exam covers Lecture 1-12.
+Good Luck.
+Wenchao CHEN
+Posted by: 陈文超 国际联合学院(海宁国际校区)
+Posted to: PHYS214:UnivPhysics:QuantumPhysics-LEC-1409(20-21)
+Midterm Term Exam on March 19, 6pm-7:20pm
+Posted on: Friday, March 5, 2021 11:46:51 AM CST
+Dear All,
+Midterm Term Exam is scheduled on March 19,Friday, 6pm-7:20pm, which covers Lecture 1- 12, Location will be announced later.
+Posted by: 陈文超 国际联合学院(海宁国际校区)
+Posted to: PHYS214:UnivPhysics:QuantumPhysics-LEC-1409(20-21)
+Smart Physics System:https://smart.physics.illinois.edu/
+Posted on: Monday, January 11, 2021 5:48:14 PM CST
+Dear ALL,
+Please log into: https://smart.physics.illinois.edu/
+Check whether you are enrolled in PHY214 or not. If you have problem, contact me before Wednesday.
+Email: wenchaochen@zju.edu.cn
+Wenchao CHEN
+Posted by: 陈文超 国际联合学院(海宁国际校区)
+Posted to: PHYS214:UnivPhysics:QuantumPhysics-LEC-1409(20-21)
+survey for conflicts of Final Exam
+Posted on: Tuesday, April 13, 2021 10:12:10 PM CST
+Dear students,
+Please fill the form through
+https://f.wps.cn/w/cXci677W/  or  with the link in the Wechat group.
+If you have class on the evening of April 23.
+Thanks
+
+Posted by: 许欢 (Xu Huan) ZJU-UIUC Institute
+Posted to: PHYS214:UnivPhysics:QuantumPhysics-LEC-1409(20-21)
+Office Hour
+Posted on: Wednesday, January 20, 2021 11:29:02 AM CST
+Office hour is from 4pm to 4:40 pm on Monday. Send an email before you come in case I am not in office.
+Office: ZJUI Building B 410
+Posted by: 陈文超 国际联合学院(海宁国际校区)
+Posted to: PHYS214:UnivPhysics:QuantumPhysics-LEC-1409(20-21)
+Discussion material
+Posted on: Wednesday, January 13, 2021 9:08:45 PM CST
+Dear all,
+Please print the discussion material before the discussion session or use your tablet.
+Thank you.
+Posted by: 许欢 (Xu Huan) ZJU-UIUC Institute
+Posted to: PHYS214:UnivPhysics:QuantumPhysics-LEC-1409(20-21)
+最后提醒：https://smart.physics.illinois.edu/
+Posted on: Wednesday, January 13, 2021 11:14:51 AM CST
+如果你登录系统有问题，找不到课程尽快联系我 https://smart.physics.illinois.edu/
+提供你的名字，uiuc NetID，发我邮箱。
+Email: wenchaochen@zju.edu.cn
+这周五以后不再受理！
+Wenchao CHEN
+
+Posted by: 陈文超 国际联合学院(海宁国际校区)
+Posted to: PHYS214:UnivPhysics:QuantumPhysics-LEC-1409(20-21)
+Residential College online course collection just open up!
+Posted on: Tuesday, February 25, 2020 9:20:21 AM CST
+Hi there, we residential college starts our online course now.
+Here, you can view virous interesting courses related to RC, hope you can enjoy it and don't hesitate to reserve and give us a thumb up :)
+Posted by: 谢佳妮 后勤集团
+Posted to: Residential College
