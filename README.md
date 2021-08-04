@@ -2,11 +2,11 @@
 
 ## Project Faculty Distribution
 
-![项目人员架构](Graphs/项目人员架构.png)
+![项目人员架构](Doc/Graphs/项目人员架构.png)
 
 ## Project Layout
 
-![项目解决方案](Graphs/项目解决方案.png)
+![项目解决方案](Doc/Graphs/项目解决方案.png)
 
 ## Project Progress
 
