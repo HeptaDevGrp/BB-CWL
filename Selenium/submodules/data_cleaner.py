@@ -18,8 +18,23 @@ class data_cleaner:
                 self.clean_data += line + '\n'
         return
 
+    def add_titles(self):
+        self.temp_data = ''
+        counter = 0
+        for line in self.clean_data.splitlines():
+            if counter == 0:
+                self.temp_data += 'Title: ' + line + '\n'
+            else:
+                if line == '':
+                    self.temp_data += '\nTitle: ' + line
+                else:
+                    self.temp_data += line + '\n'
+            counter += 1
+        self.clean_data = self.temp_data
+
     def data_cleaner_process(self):
         self.delete_blank_lines()
         self.add_blank_lines()
+        self.add_titles()
 
         return self.clean_data
