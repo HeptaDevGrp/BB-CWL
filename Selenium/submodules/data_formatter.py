@@ -23,4 +23,16 @@ def format_data(data):
             else:
                 result_dict['Stipulate'][-1] += line + '\n'
 
+    # delete redundancies
+    result_dict['Title'].pop()
+    result_dict['Stipulate'].pop()
+
+    # # unit tests
+    # print()
+    # print(len(result_dict['Title']))
+    # print(len(result_dict['Posted On']))
+    # print(len(result_dict['Posted By']))
+    # print(len(result_dict['Posted To']))
+    # print(len(result_dict['Stipulate']))
+
     return result_dict
