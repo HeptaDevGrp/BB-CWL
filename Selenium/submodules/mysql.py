@@ -2,9 +2,12 @@ import MySQLdb
 
 
 def read_into_mysql(data):
-    db = MySQLdb.connect("localhost", "testuser", "test123", "TESTDB", charset='utf8')
+    # note the port you want to use for connection
+    db = MySQLdb.connect("localhost", "user_name", "password", "database_name", charset='utf8')
     cursor = db.cursor()
 
+    # Lyon: YOUR CODE STARTS HERE
+    # You need to dump products/formatted_data.json into the MySQL database
     for line in data.splitlines():
         # 使用execute方法执行SQL语句
         cursor.execute("SELECT VERSION()")
@@ -13,5 +16,4 @@ def read_into_mysql(data):
         print("Database version : %s " % data)
 
     db.close()
-
     return
