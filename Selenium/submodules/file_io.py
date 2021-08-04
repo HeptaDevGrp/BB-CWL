@@ -7,7 +7,7 @@ def write_file(filename="default.txt", content=None, m_type='txt'):
             f.write(content)
     if m_type == 'json':
         with open(filename, "w") as f:
-            json.dump(content, f)
+            json.dump(content, f, indent=4, ensure_ascii=False)
     return
 
 
