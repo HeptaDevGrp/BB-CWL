@@ -2,11 +2,11 @@
 
 ## Project Faculty Distribution
 
-![项目人员架构](http://jacklovespictures.oss-cn-beijing.aliyuncs.com/2021-07-31-074900.png)
+![项目人员架构](Graphs/项目人员架构.png)
 
 ## Project Layout
 
-![项目解决方案](http://jacklovespictures.oss-cn-beijing.aliyuncs.com/2021-07-31-074915.png)
+![项目解决方案](Graphs/项目解决方案.png)
 
 ## Project Progress
 
