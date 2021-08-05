@@ -21,7 +21,7 @@ def format_data(data):
             result_dict['Title'].append(line.replace('Title: ', ''))
         elif 'Posted on: ' in line:
             line = line.replace('Posted On: ', '')  # strip prefix
-            line = time_reformat(line)
+            # line = time_reformat(line)
             result_dict['Posted On'].append(line)
         elif 'Posted by: ' in line:
             stipulate_ending_flag = True
