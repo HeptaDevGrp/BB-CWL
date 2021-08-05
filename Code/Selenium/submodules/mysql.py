@@ -14,7 +14,7 @@ def read_into_mysql(data):
     try:  
         for i in range(len(data['Title'])):
             course_code = MySQLdb.escape_string(data['Posted To'][i])
-            announcement = MySQLdb.escape_string(data['Title'][i])
+            announcement = MySQLdb.escape_string(data['Stipulate'][i])
             # the date needed to be transformed into YYYY-MM-DD HH:MM:SS (Null able)
             date = MySQLdb.escape_string(data['Posted On'][i])
             who = MySQLdb.escape_string(data['Posted By'][i])
