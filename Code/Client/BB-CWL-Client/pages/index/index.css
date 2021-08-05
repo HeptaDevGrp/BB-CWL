@@ -1,0 +1,8 @@
+.back{
+	position: relative;
+	left: 0rpx;
+	top: 0rpx;
+	padding: 234rpx;
+	background-image: url("../../static/blue_back.png");
+	overflow: auto;
+}
