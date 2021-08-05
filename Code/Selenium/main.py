@@ -1,3 +1,4 @@
+#%%
 from selenium import webdriver
 from submodules.crawler_helper import *
 from time import sleep
@@ -6,6 +7,7 @@ from submodules.file_io import *
 from submodules.data_cleaner import data_cleaner
 # from submodules.mysql import *
 from submodules.data_formatter import *
+#%%
 
 # set up chrome
 chrome_options = headless_mode_initialization()
