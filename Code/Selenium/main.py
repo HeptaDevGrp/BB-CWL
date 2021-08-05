@@ -46,9 +46,11 @@ write_file('products/formatted_data.json', format_data, 'json')
 
 # import data to MySQL database
 # content = read_file('products/clean_data.txt')
+#%%
 content = read_json_file('products/formatted_data.json')
 # read_into_mysql(content)
 read_into_mysql(content)
+#%%
 
 # feedback and exit
 print("All functionalities work.")
