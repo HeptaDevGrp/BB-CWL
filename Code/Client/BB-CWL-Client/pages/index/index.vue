@@ -16,12 +16,15 @@
 		
 		</view>
 		<view class="announcementstatic">
-
+			<view class="announcementedge"></view>
+			<view class="announcementco1"></view>
+			<view class="announcementco2"></view>
+			<text class="announcementcotext">Announcements</text>
 		</view>
-		<view class="clockbox">
+		<view class="clockbutton">
 			
 		</view>
-		<view class="calendarbox">
+		<view class="calendarbutton">
 
 		</view>
 		<view class="todo">
@@ -44,6 +47,7 @@
 				
 			</view>
 		</view>
+		<view class="bottom"></view>
 	</view>
 </template>
 
