@@ -3,7 +3,7 @@ from submodules.crawler_helper import *
 from submodules.login import *
 from submodules.file_io import *
 from submodules.data_cleaner import data_cleaner
-from submodules.mysql import *
+# from submodules.mysql import read_into_mysql
 from submodules.data_formatter import *
 
 
@@ -46,7 +46,7 @@ write_file('products/formatted_data.json', format_data, 'json')
 
 # import data to MySQL database
 content = read_file('products/formatted_data.json', 'json')
-read_into_mysql(content)
+# read_into_mysql(content)
 
 # feedback and exit
 print("All functionalities work.")
