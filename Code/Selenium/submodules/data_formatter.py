@@ -1,3 +1,14 @@
+def time_reformat(line):
+    """
+    If you don't want to reformat the data, just ignore this function.
+    :param line: "Friday, May 28, 2021 7:37:31 PM CST"
+    :return: line: "YYYY-MM-DD HH:mm:ss"
+    """
+    cutoff = line.replace(',', '').split(' ')
+    line = list([cutoff[3], cutoff[1], cutoff[2], cutoff[4], cutoff[5]])
+    return line
+
+
 def format_data(data):
     # transform the data from .txt to .json
     result_dict = {'Title': [], 'Posted On': [], 'Posted By': [], 'Posted To': [],
@@ -7,14 +18,16 @@ def format_data(data):
     for line in data.splitlines():
         if 'Title: ' in line:
             stipulate_ending_flag = False
-            result_dict['Title'].append(line.strip('Title: '))
+            result_dict['Title'].append(line.replace('Title: ', ''))
         elif 'Posted on: ' in line:
-            result_dict['Posted On'].append(line.strip('Posted On: '))
+            line = line.replace('Posted On: ', '')  # strip prefix
+            line = time_reformat(line)
+            result_dict['Posted On'].append(line)
         elif 'Posted by: ' in line:
             stipulate_ending_flag = True
-            result_dict['Posted By'].append(line.strip('Posted By: '))
+            result_dict['Posted By'].append(line.replace('Posted By: ', ''))
         elif 'Posted to: ' in line:
-            result_dict['Posted To'].append(line.strip('Posted To: '))
+            result_dict['Posted To'].append(line.replace('Posted To: ', ''))
         else:
             # arrive the stipulate part of the file
             counter += 1
