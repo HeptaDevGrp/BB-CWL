@@ -20,14 +20,14 @@ def format_data(data):
             stipulate_ending_flag = False
             result_dict['Title'].append(line.replace('Title: ', ''))
         elif 'Posted on: ' in line:
-            line = line.replace('Posted On: ', '')  # strip prefix
+            line = line.replace('Posted on: ', '')  # strip prefix
             # line = time_reformat(line)
             result_dict['Posted On'].append(line)
         elif 'Posted by: ' in line:
             stipulate_ending_flag = True
-            result_dict['Posted By'].append(line.replace('Posted By: ', ''))
+            result_dict['Posted By'].append(line.replace('Posted by: ', ''))
         elif 'Posted to: ' in line:
-            result_dict['Posted To'].append(line.replace('Posted To: ', ''))
+            result_dict['Posted To'].append(line.replace('Posted to: ', ''))
         else:
             # arrive the stipulate part of the file
             counter += 1
