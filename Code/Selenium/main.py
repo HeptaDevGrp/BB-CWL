@@ -1,11 +1,11 @@
 from selenium import webdriver
 from submodules.crawler_helper import *
-from time import sleep
 from submodules.login import *
 from submodules.file_io import *
 from submodules.data_cleaner import data_cleaner
-# from submodules.mysql import *
+from submodules.mysql import *
 from submodules.data_formatter import *
+
 
 # set up chrome
 chrome_options = headless_mode_initialization()
@@ -31,7 +31,7 @@ announcements_button.click()
 
 # retrieve the form
 form = page_form_extract(driver)
-write_file('raw_data.txt', form, 'txt')  # ''raw_data.txt extant or not, this will always execute
+write_file('./products/raw_data.txt', form, 'txt')  # ''raw_data.txt extant or not, this will always execute
 
 # read again and clean the data
 content = read_file('products/raw_data.txt', 'txt')
@@ -45,12 +45,8 @@ format_data = format_data(clean_data)
 write_file('products/formatted_data.json', format_data, 'json')
 
 # import data to MySQL database
-# content = read_file('products/clean_data.txt')
-#%%
-content = read_json_file('products/formatted_data.json')
-# read_into_mysql(content)
+content = read_file('products/formatted_data.json', 'json')
 read_into_mysql(content)
-#%%
 
 # feedback and exit
 print("All functionalities work.")
