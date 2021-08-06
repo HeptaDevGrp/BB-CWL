@@ -15,4 +15,7 @@ def read_file(filename="default.txt", m_type='txt'):
     if m_type == 'txt':
         with open(filename, 'r') as f:
             content = f.read()
+    if m_type == 'json':
+        with open(filename, 'r', encoding='utf8') as fp:
+            content = json.load(fp)
     return content
