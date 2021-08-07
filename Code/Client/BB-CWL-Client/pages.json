@@ -1,5 +1,18 @@
 {
+	"tabBar": {
+		"color": "#d6d6d6",
+		"selectedColor": "#d6d6d6",
+		"borderStyle": "black",
+		"backgroundColor": "#f6f6f6",
+		"iconWidth":"50rpx",
+		"list": [{
+			"pagePath": "pages/tabbar/index",
+			"iconPath": "static/account_icon.png",
+			"selectedIconPath": "static/account_icon.png"
+		}],
+		"z-index":999
 
+	},
 	"pages": [ //pages数组中第一项表示应用启动页，参考：https://uniapp.dcloud.io/collocation/pages
 		{
 			"path": "pages/tabbar/index",
@@ -12,10 +25,13 @@
 	],
 	"globalStyle": {
 		"navigationBarTitleText": "BB-CWL",
-		"navigationStyle":"custom",
+		"navigationStyle":"default",
 		"navigationBarBackgroundColor": "#1485ee",
 		"backgroundColor": "#F6F6F6",
-		"navigationBarTextStyle": "white"
+		"navigationBarTextStyle": "white",
+		"app-plus":{
+			"titleNView":false
+		}
 	}
 	
 
