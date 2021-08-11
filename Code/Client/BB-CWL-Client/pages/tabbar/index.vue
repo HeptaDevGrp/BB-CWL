@@ -10,8 +10,10 @@
 				<view class="announcementco1"></view>
 				<view class="announcementco2"></view>
 				<view class="announcementcotext">Announcements</view>
+				<view class="announcementbubble"></view>
+				<view class="announcementmorebutton">More...</view>
 			</view>
-			<view class="clockbutton">
+			<view class="updatebutton">
 				<view class="clockicon">
 					<view class="clockco1"></view>
 					<view class="clockco2"></view>
@@ -56,7 +58,11 @@
 	export default {
 		data() {
 			return {
-				
+				new_announcements_count:10,
+				AnnouncementShowList:[],
+				TodayShowList:[],
+				TomorrowShowList:[],
+				FutureShowList:[]
 			}
 		},
 		onLoad() {

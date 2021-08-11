@@ -50,8 +50,30 @@
 	color : #FFFFFF;
 	color : rgb(255, 255, 255);
 }
-
-.clockbutton{
+.announcementbubble{
+		position: absolute;
+		left:570rpx;
+		top:469rpx;
+		background : #1485EE;
+		background : rgba(20, 133, 238, 1);
+		width : 16px;
+		height : 16px;
+}
+.announcementmorebutton{
+	position: absolute;
+	left:620rpx;
+	top:469rpx;
+	font-family : Berlin Sans FB Demi;
+	font-weight : normal;
+	font-size : 1rpx;
+	letter-spacing : 0.5rpx;
+	color : #717171;
+	color : rgb(109, 109, 109);
+}
+.announcementmorebutton:hover{
+	color:rgb(0, 85, 255);
+}
+.updatebutton{
 	position: absolute;
 	left:24rpx;
 	top:536rpx;
@@ -66,7 +88,26 @@
 	filter: progid:DXImageTransform.Microsoft.dropshadow(OffX=0, OffY=0, Color='#000000') ;
 }
 .clockco1{
-
+		border-style : Solid;
+		border-color : #777777;
+		border-color : rgba(119, 119, 119, 1);
+		border-width : 10rpx;
+		position : absolute ;
+		left : 52rpx;
+		top : 74rpx;
+		width : 76rpx;
+		height : 74rpx;
+}
+.clockco2{
+		border-style : Solid;
+		border-color : #1485EE;
+		border-color : rgba(20, 133, 238, 1);
+		border-width : 8rpx;
+		position : absolute ;
+		left : 68rpx;
+		top : 88rpx;
+		width : 60rpx;
+		height : 60rpx;
 }
 .calendarbutton{
 	position: absolute;
@@ -360,4 +401,10 @@
 	box-shadow : 0rpx 0rpx 10rpx rgba(0, 0, 0, 0.14);
 	filter: progid:DXImageTransform.Microsoft.dropshadow(OffX=0, OffY=0, Color='#000000') ;
 	z-index: -1;
+}
+.updatebutton:hover{
+	background: #F1F1F1;
+}
+.calendarbutton:hover{
+	background: #F1F1F1;
 }

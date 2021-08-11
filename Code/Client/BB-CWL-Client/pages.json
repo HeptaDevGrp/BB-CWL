@@ -7,8 +7,18 @@
 		"iconWidth":"50rpx",
 		"list": [{
 			"pagePath": "pages/tabbar/index",
+			"iconPath": "static/institution_icon.png",
+			"selectedIconPath": "static/institution_icon_chosen.png"
+		},
+		{
+			"pagePath": "pages/courses/courses",
+			"iconPath": "static/courses_icon.png",
+			"selectedIconPath": "static/courses_icon_chosen.png"
+		},
+		{
+			"pagePath": "pages/my/my",
 			"iconPath": "static/account_icon.png",
-			"selectedIconPath": "static/account_icon.png"
+			"selectedIconPath": "static/account_icon_chosen.png"
 		}],
 		"z-index":999
 
@@ -16,6 +26,22 @@
 	"pages": [ //pages数组中第一项表示应用启动页，参考：https://uniapp.dcloud.io/collocation/pages
 		{
 			"path": "pages/tabbar/index",
+			"style": {
+				"navigationBarTitleText": "BB-CWL",
+				"navigationBarBackgroundColor": "#1485ee"
+				
+			}
+		},
+		{
+			"path": "pages/courses/courses",
+			"style": {
+				"navigationBarTitleText": "BB-CWL",
+				"navigationBarBackgroundColor": "#1485ee"
+				
+			}
+		},
+		{
+			"path": "pages/my/my",
 			"style": {
 				"navigationBarTitleText": "BB-CWL",
 				"navigationBarBackgroundColor": "#1485ee"
