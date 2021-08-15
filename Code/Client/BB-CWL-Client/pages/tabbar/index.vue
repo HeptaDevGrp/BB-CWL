@@ -55,6 +55,7 @@
 </template>
 
 <script>
+	import json from '../../../../Node/client_helper/import_data.js';
 	export default {
 		data() {
 			return {
@@ -66,7 +67,7 @@
 			}
 		},
 		onLoad() {
-
+			let data=json.data;
 		},
 		methods: {
 

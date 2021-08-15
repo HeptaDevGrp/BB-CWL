@@ -2,12 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="15f32976-6f48-4af0-93b1-d9cf1bc85c53" name="默认变更列表" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/BB-CWL.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/BB-CWL.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Code/Client/BB-CWL-Client/pages/tabbar/index.vue" beforeDir="false" afterPath="$PROJECT_DIR$/Code/Client/BB-CWL-Client/pages/tabbar/index.vue" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Code/Selenium/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Code/Selenium/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Doc/Graphs/项目解决方案.drawio" beforeDir="false" afterPath="$PROJECT_DIR$/Doc/Graphs/项目解决方案.drawio" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Doc/Graphs/项目解决方案.png" beforeDir="false" afterPath="$PROJECT_DIR$/Doc/Graphs/项目解决方案.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Code/Selenium/submodules/file_io.py" beforeDir="false" afterPath="$PROJECT_DIR$/Code/Selenium/submodules/file_io.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,5 +58,8 @@
       <updated>1629001811253</updated>
     </task>
     <servers />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.js" />
   </component>
 </project>
