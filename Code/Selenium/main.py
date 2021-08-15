@@ -43,6 +43,7 @@ write_file('products/clean_data.txt', content_clean, 'txt')
 clean_data = read_file('products/clean_data.txt', 'txt')
 format_data = format_data(clean_data)
 write_file('products/formatted_data.json', format_data, 'json')
+write_file('../Node/data/formatted_data.json', format_data, 'json')
 
 # import data to MySQL database
 content = read_file('products/formatted_data.json', 'json')
