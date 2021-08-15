@@ -68,6 +68,7 @@
 		},
 		onLoad() {
 			let data=json.data;
+			console.log(data)
 		},
 		methods: {
 
