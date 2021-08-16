@@ -43,7 +43,9 @@ write_file('products/clean_data.txt', content_clean, 'txt')
 # read again and format the data
 clean_data = read_file('products/clean_data.txt', 'txt')
 format_data = format_data(clean_data)
-write_file('products/formatted_data.json', format_data, 'json')
+write_file('products/formatted_data.json', format_data, 'json')  # json copy for Selenium
+write_file('../Node/data/formatted_data.json', format_data, 'json')  # json copy for Node
+write_file('../Node/client_helper/import_data.js', format_data, 'js')  # javascript copy for Node
 
 # import data to MySQL database
 content = read_file('products/formatted_data.json', 'json')
