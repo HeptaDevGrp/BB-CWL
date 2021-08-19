@@ -23,7 +23,7 @@ def headless_mode_initialization():
     chrome_options.add_argument("--disable-extensions")
     # chrome_options.add_argument("--disable-gpu")
     # chrome_options.add_argument("--no-sandbox") # linux only
-    chrome_options.add_argument("--headless")
+    # chrome_options.add_argument("--headless")
     # chrome_options.headless = True # also works
     return chrome_options
 

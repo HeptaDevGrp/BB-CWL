@@ -1,56 +1,14 @@
-# from selenium import webdriver
-# from submodules.crawler_helper import *
-# from submodules.login import *
-from submodules.file_io import *
-from submodules.mysql import read_into_mysql
-from submodules.data_cleaner import data_cleaner
-from submodules.data_formatter import *
-
-
-
-# set up chrome
-chrome_options = headless_mode_initialization()
-driver = webdriver.Chrome(options=chrome_options)
-
-# open the Blackboard Website
-driver.implicitly_wait(10)
-driver.get("https://learn.intl.zju.edu.cn/")
-
-# set up the login process
-login_object = login(driver)
-login_object.login_caller()
-
-# click the "agree & continue" button
-driver.implicitly_wait(10)
-agree_button = driver.find_element_by_xpath('/html/body/div[8]/div/div/div/div/div/div/div[2]/button')
-agree_button.click()
-
-# click "announcements"
-driver.implicitly_wait(10)
-announcements_button = driver.find_element_by_xpath('/html/body/div[5]/div/div/div[2]/div/div/div/div/div[1]/div[1]/div[2]/ul/li[1]/a')
-announcements_button.click()
-
-# retrieve the form
-form = page_form_extract(driver)
-write_file('./products/raw_data.txt', form, 'txt')  # ''raw_data.txt extant or not, this will always execute
-
-# read again and clean the data
-content = read_file('products/raw_data.txt', 'txt')
-data_cleaner = data_cleaner(content)
-content_clean = data_cleaner.data_cleaner_process()
-write_file('products/clean_data.txt', content_clean, 'txt')
-
-# read again and format the data
-clean_data = read_file('products/clean_data.txt', 'txt')
-format_data = format_data(clean_data)
-write_file('products/formatted_data.json', format_data, 'json')  # json copy for Selenium
-write_file('../Node/data/formatted_data.json', format_data, 'json')  # json copy for Node
-write_file('../Node/client_helper/import_data.js', format_data, 'js')  # javascript copy for Node
-
-# import data to MySQL database
-content = read_file('products/formatted_data.json', 'json')
-read_into_mysql(content)
-
-# feedback and exit
-print("All functionalities work.")
-driver.quit()
+from bb_cwl import BB_CWL_retrieve_data
+import threading
+# assume there are 16 people
+user_number=2
+threading_array=[]
+if __name__=='__main__':
+    # create the thread and make it as protect process
+    for i in range(user_number):
+        son_thread=threading.Thread(target=BB_CWL_retrieve_data,args=('_'+str(i),))
+        threading_array.append(son_thread)
+        threading_array[i].start()
+    for son_thread in threading_array:
+        son_thread.join()
+print("======end of the main programme=======")

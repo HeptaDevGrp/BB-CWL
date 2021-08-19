@@ -29,8 +29,14 @@ class login:
             '/html/body/div/form[1]/div/div/div[2]/div[1]/div/div/div/div/div/div[3]/div/div/div/div[2]/div[2]/div/input[1]')
         account_input_box.send_keys(self.account)
         account_input_box.send_keys(Keys.ENTER)
-
-        # enter the password and confirm
+        
+        # # choose the kind of account, if the account has some error
+        # self.driver.implicitly_wait(10)
+        # kind_button = self.driver.find_element_by_xpath(
+        #     '/html/body/div/form[1]/div/div/div[2]/div[1]/div/div/div/div/div/div[3]/div/div/div/div[2]/div[1]')
+        # kind_button.click()
+        
+        # enter the password and confirm [bug:doesn't find the element, Session info: headless chrome=92.0.4515.159]
         self.driver.implicitly_wait(10)
         password_input_box = self.driver.find_element_by_xpath(
             '/html/body/div/form[1]/div/div/div[2]/div[1]/div/div/div/div/div/div[3]/div/div[2]/div/div[2]/div/div[2]/input')
