@@ -34,11 +34,13 @@ def BB_CWL_retrieve_data(file_postfix = ''):
                 agree_button.click()
                 break
             except:
+                # refresh the page
                 driver.refresh()
                 max_try_number += 1
                 if(max_try_number == 3):    
                     print("didn't find the agree & continue after 3 times")
                     return
+            
         # click "announcements"
         driver.implicitly_wait(10)
         announcements_button = driver.find_element_by_xpath('/html/body/div[5]/div/div/div[2]/div/div/div/div/div[1]/div[1]/div[2]/ul/li[1]/a')
@@ -70,12 +72,11 @@ def BB_CWL_retrieve_data(file_postfix = ''):
         # content = read_file('products/formatted_data.json', 'json')
         # read_into_mysql(content)
         
-        # feedback and exit
-        # print("All functionalities work.")
-        
-        # because of the google browser's character, the get function will go to the main manu rather than login if not quit
+        # pause the function
         time.sleep(10)
         count += 1
-        # print("--------end of son thread"+file_postfix+"--------------")
+        
+        # feedback and exit
+        print("All functionalities work.")
         driver.quit()
     return
