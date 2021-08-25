@@ -47,8 +47,52 @@
 				"navigationBarBackgroundColor": "#1485ee"
 				
 			}
-		}
-	],
+		},
+		{
+			"path": "pages/announcement/announcement",
+			"style": {
+				"navigationBarTitleText": "BB-CWL",
+				"navigationBarBackgroundColor": "#1485ee"
+				
+			}
+		},
+		{
+            "path" : "pages/more/moretoday",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "",
+                "enablePullDownRefresh": false
+            }
+            
+        },
+		{
+            "path" : "pages/more/moretomorrow",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "",
+                "enablePullDownRefresh": false
+            }
+            
+        },
+		{
+            "path" : "pages/more/morefuture",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "",
+                "enablePullDownRefresh": false
+            }
+            
+        },
+		{
+            "path" : "pages/more/moreannouncement",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+    ],
 	"globalStyle": {
 		"navigationBarTitleText": "BB-CWL",
 		"navigationStyle":"default",
