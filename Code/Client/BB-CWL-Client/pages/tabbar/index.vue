@@ -57,6 +57,9 @@
 				<view class="tomorrowtodo"></view>
 				<view class="futuretodo"></view>
 			</view>
+			<view class="clock">
+			    <view>{{a}} {{b}}</view>
+			</view>
 			<view class="announcementinfo">
 				<view @click="AnnouncementClick(0)" class="announcementinfo1">
 					<view>{{AnnouncementShowList[0]["Title"]}}</view>
@@ -84,12 +87,18 @@
 	export default {
 		data() {
 			return {
+				a:'',
+				b:'',
 				new_announcements_count:10,
 				AnnouncementShowList:[],
 				TodayShowList:[],
 				TomorrowShowList:[],
 				FutureShowList:[]
 			}
+		},
+		created(){
+			this.setTime()
+			this.setDate()
 		},
 		onLoad() {
 			let data=json.data;
@@ -113,6 +122,48 @@
 					this.AnnouncementShowList.push(announcement);
 				}
 				console.log(this.AnnouncementShowList)
+			},
+			setDate(){
+				var date=new Date()
+				var year=date.getFullYear();
+				var month=date.getMonth()+1;
+				var day=date.getUTCDate();
+				var datepage=year+"/"+month+"/"+day
+				this.a=datepage
+				this.goTime()
+			},
+			setTime(){
+				var time=new Date()
+				var hours=time.getHours()
+				var minute=time.getMinutes()
+				var second=time.getSeconds()
+				var daytime;
+				if(minute==0){
+					daytime=hours+":"+'00'
+				}
+				if(minute>0&&minute<10){
+					daytime=hours+":"+'0'+minute
+				}
+				if(minute>=10){
+					daytime=hours+":"+minute
+				}
+				if(second==0){
+					daytime=daytime+":"+'00'
+				}
+				if(second>0&&second<10){
+					daytime=daytime+":"+'0'+second
+				}
+				if(second>=10){
+					daytime=daytime+":"+second
+				}
+				this.b=daytime
+				this.goTime()
+			},
+			goTime(){
+				setInterval(()=>{
+					this.setDate()
+					this.setTime()
+				},1000)
 			},
 			AnnouncementClick(AncNum){
 				uni.navigateTo({

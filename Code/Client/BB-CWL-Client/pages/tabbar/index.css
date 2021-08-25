@@ -509,3 +509,9 @@
 	top: 50px;
 	left: 200px;
 }
+.clock{
+	position: absolute;
+	top: 30px;
+	left: 200px;
+	font-size: 20rpx;
+}
