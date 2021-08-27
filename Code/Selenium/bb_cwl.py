@@ -2,10 +2,11 @@ from selenium import webdriver
 from submodules.crawler_helper import *
 from submodules.login import *
 from submodules.file_io import *
-from submodules.mysql import read_into_mysql
 from submodules.data_cleaner import data_cleaner
 from submodules.data_formatter import *
 import time
+# from submodules.mysql import read_into_mysql
+
 def BB_CWL_retrieve_data(file_postfix = ''):
     
     # count the each function's run time
@@ -13,9 +14,13 @@ def BB_CWL_retrieve_data(file_postfix = ''):
     while(True):
         print(" this is "+str(count)+" time of thread"+file_postfix)
         
-        # set up chrome
-        chrome_options = headless_mode_initialization()
-        driver = webdriver.Chrome(options=chrome_options)
+        # # set up chrome
+        # chrome_options = chrome_headless_mode_initialization()
+        # driver = webdriver.Chrome(options=chrome_options)
+        
+        # set up firefox
+        firefox_options = firefox_headless_mode_initialization()
+        driver = webdriver.Firefox(options = firefox_options)
         
         # open the Blackboard Website
         driver.implicitly_wait(10)
@@ -27,20 +32,21 @@ def BB_CWL_retrieve_data(file_postfix = ''):
         
         # click the "agree & continue" button
         max_try_number=0
-        while(max_try_number<3):
+        while(max_try_number <= login_object.refresh_limit_number):
             try:
-                driver.implicitly_wait(10)
-                agree_button = driver.find_element_by_xpath('/html/body/div[8]/div/div/div/div/div/div/div[2]/button')
+                # driver.implicitly_wait(10)
+                # agree_button = driver.find_element_by_xpath('/html/body/div[8]/div/div/div/div/div/div/div[2]/button')
+                agree_button = WebDriverWait(driver,10).until(lambda d:d.find_element_by_xpath('/html/body/div[8]/div/div/div/div/div/div/div[2]/button'))
                 agree_button.click()
                 break
             except:
                 # refresh the page
                 driver.refresh()
                 max_try_number += 1
-                if(max_try_number == 3):    
-                    print("didn't find the agree & continue after 3 times")
-                    return
-            
+        if(max_try_number > login_object.refresh_limit_number):
+            print("fail to click agree & continue button")
+            return
+
         # click "announcements"
         driver.implicitly_wait(10)
         announcements_button = driver.find_element_by_xpath('/html/body/div[5]/div/div/div[2]/div/div/div/div/div[1]/div[1]/div[2]/ul/li[1]/a')
@@ -73,10 +79,10 @@ def BB_CWL_retrieve_data(file_postfix = ''):
         # read_into_mysql(content)
         
         # pause the function
-        time.sleep(10)
-        count += 1
         
         # feedback and exit
         print("All functionalities work.")
         driver.quit()
+        count += 1
+        time.sleep(120)
     return

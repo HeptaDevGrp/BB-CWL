@@ -1,8 +1,10 @@
 from selenium.webdriver.common.keys import Keys
+from selenium.webdriver.support.wait import WebDriverWait
 import configparser
 
 
 class login:
+    refresh_limit_number = 100
     def __init__(self, driver=None):
         # local variable initialization
         self.driver = driver
@@ -19,46 +21,97 @@ class login:
 
     def logging_in_process(self):
         # click on "INTL ID"
-        self.driver.implicitly_wait(10)
-        INTL_ID_button = self.driver.find_element_by_xpath("/html/body/div[2]/div/div[1]/a/img")
+        # self.driver.implicitly_wait(10)
+        # INTL_ID_button = self.driver.find_element_by_xpath("/html/body/div[2]/div/div[1]/a/img")
+        INTL_ID_button = WebDriverWait(self.driver,10).until(lambda d:d.find_element_by_xpath("/html/body/div[2]/div/div[1]/a/img"))
         INTL_ID_button.click()
 
         # enter the account name
-        self.driver.implicitly_wait(10)
-        account_input_box = self.driver.find_element_by_xpath(
-            '/html/body/div/form[1]/div/div/div[2]/div[1]/div/div/div/div/div/div[3]/div/div/div/div[2]/div[2]/div/input[1]')
-        account_input_box.send_keys(self.account)
-        account_input_box.send_keys(Keys.ENTER)
-        
-        # # choose the kind of account, if the account has some error
-        # self.driver.implicitly_wait(10)
-        # kind_button = self.driver.find_element_by_xpath(
-        #     '/html/body/div/form[1]/div/div/div[2]/div[1]/div/div/div/div/div/div[3]/div/div/div/div[2]/div[1]')
-        # kind_button.click()
-        
-        # enter the password and confirm [bug:doesn't find the element, Session info: headless chrome=92.0.4515.159]
-        self.driver.implicitly_wait(10)
-        password_input_box = self.driver.find_element_by_xpath(
-            '/html/body/div/form[1]/div/div/div[2]/div[1]/div/div/div/div/div/div[3]/div/div[2]/div/div[2]/div/div[2]/input')
-        password_input_box.send_keys(self.password)
-        password_input_box.send_keys(Keys.ENTER)
+        max_refresh_number=0
+        while(True):
+            if(max_refresh_number > self.refresh_limit_number):
+                print("fail to enter account name")
+                return
+            else:
+                try:
+                    # self.driver.implicitly_wait(10)
+                    # account_input_box = self.driver.find_element_by_xpath(
+                    #     '/html/body/div/form[1]/div/div/div[2]/div[1]/div/div/div/div/div/div[3]/div/div/div/div[2]/div[2]/div/input[1]')
+                    account_input_box = WebDriverWait(self.driver,10).until(lambda d:d.find_element_by_xpath('/html/body/div/form[1]/div/div/div[2]/div[1]/div/div/div/div/div/div[3]/div/div/div/div[2]/div[2]/div/input[1]'))
+                    account_input_box.send_keys(self.account)
+                    account_input_box.send_keys(Keys.ENTER)
+                    break
+                except:
+                    max_refresh_number += 1
 
+        # enter the password and confirm
+        max_refresh_number = 0
+        while(max_refresh_number <= self.refresh_limit_number):
+            try:
+                # self.driver.implicitly_wait(10)
+                # password_input_box = self.driver.find_element_by_xpath(
+                #     '/html/body/div/form[1]/div/div/div[2]/div[1]/div/div/div/div/div/div[3]/div/div[2]/div/div[2]/div/div[2]/input')
+                password_input_box = WebDriverWait(self.driver,10).until(lambda d:d.find_element_by_xpath('/html/body/div/form[1]/div/div/div[2]/div[1]/div/div/div/div/div/div[3]/div/div[2]/div/div[2]/div/div[2]/input'))
+                password_input_box.send_keys(self.password)
+                password_input_box.send_keys(Keys.ENTER)
+                break
+            except:
+                self.driver.refresh()
+                max_refresh_number += 1
+        if(max_refresh_number > self.refresh_limit_number):
+            print("fail to enter password")
+            return
+        
         # click the YES button
-        self.driver.implicitly_wait(10)
-        YES_button = self.driver.find_element_by_xpath(
-            '/html/body/div/form/div/div/div[2]/div[1]/div/div/div/div/div/div/div[1]/div[2]/div/div[2]/div/div[3]/div[2]/div/div/div[2]/input')
-        YES_button.click()
+        max_refresh_number = 0
+        while(max_refresh_number <= self.refresh_limit_number):
+            try:
+                # self.driver.implicitly_wait(10)
+                # YES_button = self.driver.find_element_by_xpath(
+                #     '/html/body/div/form/div/div/div[2]/div[1]/div/div/div/div/div/div/div[1]/div[2]/div/div[2]/div/div[3]/div[2]/div/div/div[2]/input')
+                YES_button = WebDriverWait(self.driver,30).until(lambda d:d.find_element_by_xpath('/html/body/div/form/div/div/div[2]/div[1]/div/div/div/div/div/div/div[1]/div[2]/div/div[2]/div/div[3]/div[2]/div/div/div[2]/input'))
+                YES_button.click()
+                break
+            except:
+                self.driver.refresh()
+                max_refresh_number += 1
+        if(max_refresh_number > self.refresh_limit_number):
+            print("fail to click yes button")
+            return
 
         # click the "click this link" button
-        self.driver.implicitly_wait(10)
-        click_this_link_button = self.driver.find_element_by_xpath('/html/body/div/div/div[3]/p[2]/span/a[1]')
-        click_this_link_button.click()
-
+        max_refresh_number = 0
+        while(max_refresh_number <= self.refresh_limit_number):
+            try:
+                # self.driver.implicitly_wait(10)
+                # click_this_link_button = self.driver.find_element_by_xpath('/html/body/div/div/div[3]/p[2]/span/a[1]')
+                click_this_link_button = WebDriverWait(self.driver,10).until(lambda d:d.find_element_by_xpath('/html/body/div/div/div[3]/p[2]/span/a[1]'))
+                click_this_link_button.click()
+                break
+            except:
+                self.driver.refresh()
+                max_refresh_number += 1
+        if(max_refresh_number > self.refresh_limit_number):
+            print("fail to click this link")
+            return
+        
         # click the "INTL ID" button again
-        self.driver.implicitly_wait(10)
-        INTL_ID_button_second = self.driver.find_element_by_xpath(
-            '/html/body/div/div[3]/div[2]/div/div[2]/div/div[1]/div/div[1]/a/img')
-        INTL_ID_button_second.click()
+        max_refresh_number = 0
+        while(max_refresh_number <= self.refresh_limit_number):
+            if(max_refresh_number > self.refresh_limit_number):
+                print("fail to click INTL ID button again")
+                return
+            else:
+                try:
+                    # self.driver.implicitly_wait(10)
+                    # INTL_ID_button_second = self.driver.find_element_by_xpath(
+                    #     '/html/body/div/div[3]/div[2]/div/div[2]/div/div[1]/div/div[1]/a/img')
+                    INTL_ID_button_second = WebDriverWait(self.driver,10).until(lambda d:d.find_element_by_xpath('/html/body/div/div[3]/div[2]/div/div[2]/div/div[1]/div/div[1]/a/img'))
+                    INTL_ID_button_second.click()
+                    break
+                except:
+                    self.driver.refresh()
+                    max_refresh_number += 1
 
         return
 
