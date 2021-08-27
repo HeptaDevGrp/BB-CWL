@@ -1,10 +1,10 @@
 Title: Getting your MT2 papers
 Posted on: Friday, May 28, 2021 7:37:31 PM CST
 Dear all,
-If you want to get your MT2 paper, please come to library cafÃ© 13:00-14:30 tomorrow (May 29th Sat).
+If you want to get your MT2 paper, please come to library caf¨¦ 13:00-14:30 tomorrow (May 29th Sat).
 Thanks,
 CS 225 faculty
-Posted by: ç†Šèƒ½ (Xiong Neng) ZJU-UIUC Institute
+Posted by: ĞÜÄÜ (Xiong Neng) ZJU-UIUC Institute
 Posted to: CS225:DataStructures-LEC-1439(20-21)
 
 Title: Teaching Assistants Sought
@@ -29,14 +29,14 @@ You may access stored e-books on your laptop or tablet.
 Apart from access to Blackboard for download of the exam script and templates for programming exercises and upload of answers the use of communication software (WeChat, email, QQ, WebEx, zoom, web search, etc.) is not allowed.
 You may use BB to access any of the uploaded material for this course.
 For anything not covered by the list above ask one of the proctors during the exam.
-Posted by: æ±Ÿå‡¤æ¸… (Jiang Fengqing) ZJU-UIUC Institute
+Posted by: ½­·ïÇå (Jiang Fengqing) ZJU-UIUC Institute
 Posted to: CS225:DataStructures-LEC-1439(20-21)
 
 Title: Presentation Schedule
 Posted on: Monday, May 17, 2021 2:46:30 PM CST
 Pay attention to your group time slot, for both presenter group and grader group. Each group would help to evaluate another group's presentation, make sure your group be ready for both.  
 And come a bit early than your slot (maybe about 10 mins). Absence or late may get punishment since we value both your time and the staffs'.
-Posted by: æ±Ÿå‡¤æ¸… (Jiang Fengqing) ZJU-UIUC Institute
+Posted by: ½­·ïÇå (Jiang Fengqing) ZJU-UIUC Institute
 Posted to: CS225:DataStructures-LEC-1439(20-21)
 
 Title: Last Lectures
@@ -80,7 +80,7 @@ Posted on: Tuesday, April 27, 2021 11:02:09 PM CST
 Please submit the empty coding template of MT2 even if you didn't try it so that we could assign your grade on BB. Otherwise, you cannot get any score for MT2.
 For those who already submitted something for MT2, please ignore this message.
 Thanks!
-Posted by: æç¿” (Li Xiang) ZJU-UIUC Institute
+Posted by: ÀîÏè (Li Xiang) ZJU-UIUC Institute
 Posted to: CS225:DataStructures-LEC-1439(20-21)
 
 Title: New policy
@@ -107,7 +107,7 @@ Title: Midterm 1 Paper
 Posted on: Monday, April 19, 2021 2:29:17 PM CST
 Dear all,
 We would deliver back your midterm 1 paper back in today's discussion, please come to your assigned discussion room to get yours.
-Posted by: æ±Ÿå‡¤æ¸… (Jiang Fengqing) ZJU-UIUC Institute
+Posted by: ½­·ïÇå (Jiang Fengqing) ZJU-UIUC Institute
 Posted to: CS225:DataStructures-LEC-1439(20-21)
 
 Title: Midterm 2
@@ -188,7 +188,7 @@ Posted to: CS225:DataStructures-LEC-1439(20-21)
 Title: Hint for Ass.3, Ex. 4(ii)
 Posted on: Sunday, March 7, 2021 12:23:22 PM CST
 Due to multiple requests here's a bit more help for this exercise.
-Use a divide and conquer approach. That is, when you add k new elements to a heap, add them at the end (equivalently, add them as new tree leaves). The heap is a binary tree, so you actually add k_1 elements to the left subtree of the root and k_2 new elements to the right subtree, with k_1 + k_2 = k. Proceed recursively until you get to trees of height â‰¤ 2. Whenever you have insert k_1 (k_2) elements into the subtrees, you only need to sift down the root to obtain a heap. Then you can use induction for the proof of the complexity statement. For the induction base you have to explore multiple cases for trees of height â‰¤ 2, for which you can minimize the number of swap to be just k+1.
+Use a divide and conquer approach. That is, when you add k new elements to a heap, add them at the end (equivalently, add them as new tree leaves). The heap is a binary tree, so you actually add k_1 elements to the left subtree of the root and k_2 new elements to the right subtree, with k_1 + k_2 = k. Proceed recursively until you get to trees of height ¡Ü 2. Whenever you have insert k_1 (k_2) elements into the subtrees, you only need to sift down the root to obtain a heap. Then you can use induction for the proof of the complexity statement. For the induction base you have to explore multiple cases for trees of height ¡Ü 2, for which you can minimize the number of swap to be just k+1.
 Posted by: Klaus-Dieter Schewe ZJU-UIUC Institute
 Posted to: CS225:DataStructures-LEC-1439(20-21)
 
@@ -262,7 +262,7 @@ Posted to: CS225:DataStructures-LEC-1439(20-21)
 Title: New test
 Posted on: Friday, April 9, 2021 12:30:00 PM CST
 The following test has been made available in Content: Week8 Quiz.
-Posted by: æ—å¦™è“‰ ç¤¾ä¼šå­¦
+Posted by: ÁÖÃîÈØ Éç»áÑ§
 Posted to: GCL200:FrameworksforInequality-LEC-1518(20-21)
 
 Title: Important announcement regarding the final assessments for IE2
@@ -280,7 +280,7 @@ If you have further questions about the final assessments, please use the QnA fo
   All the best,
 Your integrated English Instructors
 Posted by: Robert Holmes Liberal Arts&Science college
-Posted to: Integrated English â…¡
+Posted to: Integrated English ¢ò
 
 Title: Welcome to mid-terms!
 Posted on: Monday, April 13, 2020 2:25:53 AM CST
@@ -289,8 +289,8 @@ You are strongly encouraged to go back to previous weeks and review lectures, re
 If you have questions, first review the Q&A forum to search if your question has already been answered. If not, you can post a new question.
 Plan ahead and do not wait until the last minute to submit your presentation. Expect technical difficulties and for the network to be slow. The scores of late submissions will be reduced by 5% per day that it is late.
 As always, you are allowed multiple submissions up to the deadline.
-Posted by: William Denny æµ™æ±Ÿå¤§å­¦å›½é™…è”åˆå­¦é™¢
-Posted to: Integrated English â…¡
+Posted by: William Denny Õã½­´óÑ§¹ú¼ÊÁªºÏÑ§Ôº
+Posted to: Integrated English ¢ò
 
 Title: Reminder: Homework submissions
 Posted on: Wednesday, March 11, 2020 4:31:57 AM CST
@@ -304,16 +304,16 @@ After the first few weeks, I have some additional tips and reminders to help the
 If you have any questions or concerns, you may email me at william@intl.zju.edu.cn or contact any of us on the WeChat group. The Q&A forum still works, but the other options often receive a faster response.
 Thanks, and keep up the consistent work!
 Will
-Posted by: William Denny æµ™æ±Ÿå¤§å­¦å›½é™…è”åˆå­¦é™¢
-Posted to: Integrated English â…¡
+Posted by: William Denny Õã½­´óÑ§¹ú¼ÊÁªºÏÑ§Ôº
+Posted to: Integrated English ¢ò
 
 Title: Integrated English 2 WeChat Group
 Posted on: Monday, February 17, 2020 5:31:15 PM CST
 I've opened up a WeChat group for all sections of Integrated English 2 combined. We will continue to use Blackboard as much as possible for submissions, but, this WeChat group will be a more familiar way to connect with us and get support if you have any questions or problems with the course materials or Blackboard.
 Join us:
 This should largely replace the Q&A forum, but I suspect all of you will be much more comfortable with WeChat.
-Posted by: William Denny æµ™æ±Ÿå¤§å­¦å›½é™…è”åˆå­¦é™¢
-Posted to: Integrated English â…¡
+Posted by: William Denny Õã½­´óÑ§¹ú¼ÊÁªºÏÑ§Ôº
+Posted to: Integrated English ¢ò
 
 Title: Submission errors
 Posted on: Monday, February 17, 2020 4:40:31 PM CST
@@ -323,8 +323,8 @@ Hopefully, ITS can provide a solution soon.
 P.S., a couple of things to remember
 A) When asking us, or anyone for that matter, for assistance, please provide enough information for us to understand the problem. We are powerful and magical creatures, but alas we cannot yet read minds. That goes for literally every person you need to ask for assistance: ITS, other professors, your bank,  etc.
 B) If it is not urgent or personal, use the Q&A forum, please! It's much easier to answer a question once and let all students read the question and response than it is to respond to the same issue hundreds of times.
-Posted by: William Denny æµ™æ±Ÿå¤§å­¦å›½é™…è”åˆå­¦é™¢
-Posted to: Integrated English â…¡
+Posted by: William Denny Õã½­´óÑ§¹ú¼ÊÁªºÏÑ§Ôº
+Posted to: Integrated English ¢ò
 
 Title: Welcome to Spring Semester 2020
 Posted on: Sunday, February 16, 2020 3:05:35 PM CST
@@ -340,7 +340,7 @@ The writing course is about Science report writing.
 You will usually have reading or listening tasks to do; this is similar to last semester but this time you will have to post your answers to tasks on blackboard.
 ZJE students will also have extra instruction each week for science writing and will be given a writing practice task each week.
 We have discussion forums on Blackboard for you to post your answers to tasks. We can then read your responses and where appropriate offer feedback and advice on your English.
-  The discussion forums will be an important point of interaction with your English professors. Through the forum you can ask questions about the course, questions about individual tasks, and you can interact with other students. You can see other studentsâ€™ work and read feedback from professors. This should help everyone learn things about their English as well as stay in touch with whatâ€™s happening with the course.
+  The discussion forums will be an important point of interaction with your English professors. Through the forum you can ask questions about the course, questions about individual tasks, and you can interact with other students. You can see other students¡¯ work and read feedback from professors. This should help everyone learn things about their English as well as stay in touch with what¡¯s happening with the course.
 How you will be assessed
 This semester is a very special case and the assessments might have to change as a result.
 Speaking: Right now, the plan is to have you complete two speaking assessments online by recording and uploading video recorded spoken presentations. One short talk and one longer presentation with visuals.
@@ -356,7 +356,7 @@ Your English Professors.
  
 Course Link/Content/Speaking lessons/Week 1: February 17, 2020 -- February 21, 2020
 Posted by: Robert Holmes Liberal Arts&Science college
-Posted to: Integrated English â…¡
+Posted to: Integrated English ¢ò
 
 Title: Math 286 Grades
 Posted on: Monday, June 14, 2021 12:11:53 PM CST
@@ -367,7 +367,7 @@ The final exam is now rated as 45+7 (full score 45 marks, exactly corresponding 
 (E final exam, M midterm, H homework, L lab, C extra credit)
 Happy Dragon Boat Festival!
 TH
-Posted by: Thomas Honold å›½é™…è”åˆå­¦é™¢(æµ·å®å›½é™…æ ¡åŒº)
+Posted by: Thomas Honold ¹ú¼ÊÁªºÏÑ§Ôº(º£Äş¹ú¼ÊĞ£Çø)
 Posted to: MATH286:Introto Differential EqPlus-LEC-1370(20-21)
 
 Title: Math 286 Course Evaluation
@@ -379,21 +379,21 @@ within 3 days from now, if you haven't done yet. Your feedback is very important
 Q15: Which topic in the course did you find most/least interesting?
 Q16: Where there any prerequisites for the course that you think you didn't have; if ``yes'', which are these?
 Many thanks, TH
-Posted by: Thomas Honold å›½é™…è”åˆå­¦é™¢(æµ·å®å›½é™…æ ¡åŒº)
+Posted by: Thomas Honold ¹ú¼ÊÁªºÏÑ§Ôº(º£Äş¹ú¼ÊĞ£Çø)
 Posted to: MATH286:Introto Differential EqPlus-LEC-1370(20-21)
 
 Title: Deadline for TA application for Calculus III in Fall 2021
 Posted on: Sunday, May 30, 2021 3:39:45 PM CST
 You can submit your application for a TA position in Calculus III (Math241) in Fall 2021 until Mon May 31 (tomorrow); see Slide 74 of lecture55-56_handout.pdf for more details.
 TH
-Posted by: Thomas Honold å›½é™…è”åˆå­¦é™¢(æµ·å®å›½é™…æ ¡åŒº)
+Posted by: Thomas Honold ¹ú¼ÊÁªºÏÑ§Ôº(º£Äş¹ú¼ÊĞ£Çø)
 Posted to: MATH286:Introto Differential EqPlus-LEC-1370(20-21)
 
 Title: Solutions to the final exam
 Posted on: Sunday, May 30, 2021 3:32:00 PM CST
 Solutions to the final examination have been uploaded to the usual place. This will be complemented by additional remarks on student solutions (like alternative solutions or common errors) after the grading is done. The marks distribution will also be fixed at that time.
 TH
-Posted by: Thomas Honold å›½é™…è”åˆå­¦é™¢(æµ·å®å›½é™…æ ¡åŒº)
+Posted by: Thomas Honold ¹ú¼ÊÁªºÏÑ§Ôº(º£Äş¹ú¼ÊĞ£Çø)
 Posted to: MATH286:Introto Differential EqPlus-LEC-1370(20-21)
 
 Title: Information about the Final Examination
@@ -406,7 +406,7 @@ Several of our TA's are conducting Math286 review sessions for their discussion 
 This year's exam will be similar to (but also different from) those in previous years. The two sample final exams I've put in the folder "Exams" certainly serve as good preparatory exercises for a major portion of this year's exam. Solutions will be uploaded on the weekend.
 Good luck!
 TH
-Posted by: Thomas Honold å›½é™…è”åˆå­¦é™¢(æµ·å®å›½é™…æ ¡åŒº)
+Posted by: Thomas Honold ¹ú¼ÊÁªºÏÑ§Ôº(º£Äş¹ú¼ÊĞ£Çø)
 Posted to: MATH286:Introto Differential EqPlus-LEC-1370(20-21)
 
 Title: About Lectures 55, 56
@@ -417,7 +417,7 @@ The lecture slides for Lecture 55 and 56 contain 3 important slides at the end, 
 3. Call for TA's for my Calculus III course in Fall 2021; see Slide 74.
 Since attendance during the last week was low, I have decided not to ask a question about PDE's in the final exam. But be prepared for a question about the material in Lectures 53, 54.
 TH
-Posted by: Thomas Honold å›½é™…è”åˆå­¦é™¢(æµ·å®å›½é™…æ ¡åŒº)
+Posted by: Thomas Honold ¹ú¼ÊÁªºÏÑ§Ôº(º£Äş¹ú¼ÊĞ£Çø)
 Posted to: MATH286:Introto Differential EqPlus-LEC-1370(20-21)
 
 Title: About lab presentations today, 5:00 - 8:20 p.m.
@@ -425,7 +425,7 @@ Posted on: Tuesday, May 18, 2021 2:28:01 PM CST
 The time limit of 10 min per work group will be enforced strictly today. Please try to make your presentation short, focus only on selected parts from the report (which you can always quote if necessary), and let only 1or 2 work group members do the presentation.
 Nevertheless expect the later talks to be delayed by a certain time, since switching between groups takes a few minutes (based on the experience yesterday). Please avoid such delays, if possible, i.e., by having your USB stick ready if it's your turn or uploading the presentation file in advance.
 TH
-Posted by: Thomas Honold å›½é™…è”åˆå­¦é™¢(æµ·å®å›½é™…æ ¡åŒº)
+Posted by: Thomas Honold ¹ú¼ÊÁªºÏÑ§Ôº(º£Äş¹ú¼ÊĞ£Çø)
 Posted to: MATH286:Introto Differential EqPlus-LEC-1370(20-21)
 
 Title: Lab Presentation Schedule
@@ -442,14 +442,14 @@ Be sure to name all group members and their student id's on the first page of th
 We declare that this report is our own original work, and every work group member has a fair share in this work. For the preparation of the report we have not used any other resources than the Math 286 lecture material and the references cited in the report.
 The lab problems and basic suggestions for designing your presentation/report can be found in the file lab.pdf in the Math286 root folder. Here is some further advice: Conceive your presentation for someone who has attended Math286 but has no background in numerical solutions of ODE's. That is, you should explain (in a lucid way) the ideas behind the three methods and the key parameters (order, step size, local/global truncation error, etc.). The remaining time can be used for presenting your solution to one or both of the lab problems (for the presentation one problem is enough) and maybe discuss some related aspects of your choice. For the lab report it is mandatory to solve (or at least attempt to solve) both lab problems. Here you should give full details of your solutions, describe the software used, provide a basic error analysis, etc. On the other hand you can reference anything in Chapter 8 of our textbook in the report and need not explain the numerical methods from scratch.
 Best wishes, TH
-Posted by: Thomas Honold å›½é™…è”åˆå­¦é™¢(æµ·å®å›½é™…æ ¡åŒº)
+Posted by: Thomas Honold ¹ú¼ÊÁªºÏÑ§Ôº(º£Äş¹ú¼ÊĞ£Çø)
 Posted to: MATH286:Introto Differential EqPlus-LEC-1370(20-21)
 
 Title: Sample final exams
 Posted on: Wednesday, May 12, 2021 3:35:46 PM CST
 Two final exam samples have been put online (in the folder "Exams"). Solutions will be published 1 week before this year's final exam, which is on May 28.
 TH
-Posted by: Thomas Honold å›½é™…è”åˆå­¦é™¢(æµ·å®å›½é™…æ ¡åŒº)
+Posted by: Thomas Honold ¹ú¼ÊÁªºÏÑ§Ôº(º£Äş¹ú¼ÊĞ£Çø)
 Posted to: MATH286:Introto Differential EqPlus-LEC-1370(20-21)
 
 Title: About Homework 13
@@ -457,7 +457,7 @@ Posted on: Friday, May 7, 2021 3:39:04 PM CST
 The former exercise H84 in Homework 13 has been replaced by a new (shorter) exercise about the characteristic polynomial of similar matrices. The old exercise, which requires the material on stability of linear systems discussed only in the 2nd half of next week, is now optional (H87).
 The latest version of Homework 13 contains notes on H81 and H82 b) at the end, which for their solution require material from next week's lectures. My apologies for this oversight!
 TH
-Posted by: Thomas Honold å›½é™…è”åˆå­¦é™¢(æµ·å®å›½é™…æ ¡åŒº)
+Posted by: Thomas Honold ¹ú¼ÊÁªºÏÑ§Ôº(º£Äş¹ú¼ÊĞ£Çø)
 Posted to: MATH286:Introto Differential EqPlus-LEC-1370(20-21)
 
 Title: Deadline for Homework 11
@@ -465,14 +465,14 @@ Posted on: Wednesday, April 28, 2021 2:55:55 PM CST
 Because of the heavy workload this week (with midterms on Tue) you can hand in H69 - H72 of Homework 11 together wit Homework 12 on May 6. The TA's will be advised to select for presentation during tomorrow's discussion session only exercises from H66 - H68. Once a solution to an exercise has been presented, however, it is not possible to hand in your own solution to this exercise later.
 I hope this eases the situation a bit. The remaining homework (2 assignments) will be made available soon, so that you can better plan the semester finish. To give you more time, lab presentations will be scheduled only in the last week of the semester (on May 17, 18).
 TH
-Posted by: Thomas Honold å›½é™…è”åˆå­¦é™¢(æµ·å®å›½é™…æ ¡åŒº)
+Posted by: Thomas Honold ¹ú¼ÊÁªºÏÑ§Ôº(º£Äş¹ú¼ÊĞ£Çø)
 Posted to: MATH286:Introto Differential EqPlus-LEC-1370(20-21)
 
 Title: Next lecture(s)
 Posted on: Tuesday, April 27, 2021 8:21:22 PM CST
 In the lectures on Wed April 28 and Fri April 30 we will start discussing 1st-order ODE systems and the significance of eigenvectors/eigenvalues for their solution. These are core topics of Math 286, and hence for students who have recently missed some lectures a good "opportunity" (rather I should say, an obligation) to return to class.
 TH
-Posted by: Thomas Honold å›½é™…è”åˆå­¦é™¢(æµ·å®å›½é™…æ ¡åŒº)
+Posted by: Thomas Honold ¹ú¼ÊÁªºÏÑ§Ôº(º£Äş¹ú¼ÊĞ£Çø)
 Posted to: MATH286:Introto Differential EqPlus-LEC-1370(20-21)
 
 Title: Lecture Slides on LInear Algebra
@@ -482,21 +482,21 @@ The only fields of interest for Math286 are Q, R, C.
 You are expected to understand the basic Linear Algebra concepts (vector space, linear combination, generating set, linear independence, basis, dimension, subspaces, linear map) in the non-standard setting. Particularly instructive in this regard are the Problem on Slide 27 ff and the example on Slide 32 ff.
 You should know the Fundamental Theorem of Linear Algebra, the dimension formula for subspaces, direct sums, the dimension formula for linear maps (including "kernel of a linear map"), coordinate vectors and change-of-basis matrices.
 TH
-Posted by: Thomas Honold å›½é™…è”åˆå­¦é™¢(æµ·å®å›½é™…æ ¡åŒº)
+Posted by: Thomas Honold ¹ú¼ÊÁªºÏÑ§Ôº(º£Äş¹ú¼ÊĞ£Çø)
 Posted to: MATH286:Introto Differential EqPlus-LEC-1370(20-21)
 
 Title: About Homework 11
 Posted on: Tuesday, April 27, 2021 3:36:05 PM CST
 A new version of Homework 11 has been uploaded. This contains a new optional exercise, H75, on the Laplace transform, a correction and an additional hint to H72, and a clarification of the limit in H69 (the real variable s or, more generally, for a complex variable the real part Re(s) should tend to +infinity).
 TH
-Posted by: Thomas Honold å›½é™…è”åˆå­¦é™¢(æµ·å®å›½é™…æ ¡åŒº)
+Posted by: Thomas Honold ¹ú¼ÊÁªºÏÑ§Ôº(º£Äş¹ú¼ÊĞ£Çø)
 Posted to: MATH286:Introto Differential EqPlus-LEC-1370(20-21)
 
 Title: About late HW submissons
 Posted on: Thursday, April 15, 2021 11:06:19 AM CST
 It has come to my attention that some students are notoriously late with their homework submission. This is against our rules ("late homework will not be accepted") and also conflicts with the timely publication of our sample solutions after the deadline. Hence I have advised our TA's to inforce the HW deadline strictly from now on and impose a penalty of at least 50% of the corresponding score in case of violation.
 Thanks for your understanding, TH
-Posted by: Thomas Honold å›½é™…è”åˆå­¦é™¢(æµ·å®å›½é™…æ ¡åŒº)
+Posted by: Thomas Honold ¹ú¼ÊÁªºÏÑ§Ôº(º£Äş¹ú¼ÊĞ£Çø)
 Posted to: MATH286:Introto Differential EqPlus-LEC-1370(20-21)
 
 Title: Lab Project
@@ -504,14 +504,14 @@ Posted on: Thursday, April 15, 2021 10:56:05 AM CST
 The details of the lab project have been fixed and announced. Look for a file "Lab project" in the root folder. TA's will give you more information in today's discussion session, in which also the lab work groups will be formed.
 Please note that homework assignments (with somewhat reduced work load) will continue until the end of the semester. So you should manage your time accordingly and start working on the lab project early. Lab work groups can meet anywhere at any time.
 TH
-Posted by: Thomas Honold å›½é™…è”åˆå­¦é™¢(æµ·å®å›½é™…æ ¡åŒº)
+Posted by: Thomas Honold ¹ú¼ÊÁªºÏÑ§Ôº(º£Äş¹ú¼ÊĞ£Çø)
 Posted to: MATH286:Introto Differential EqPlus-LEC-1370(20-21)
 
 Title: Discussion Group 1 (Niu Yiqun) moved to a later date
 Posted on: Thursday, April 8, 2021 3:44:42 PM CST
 Discussion Group 1 (Niu Yiqun) today is cancelled and will be moved to a later date. Students of Group 1 should hand in their homework today in LTN A-426 (Qin Tianzuo). About date/time/venue of the makeup session you will be notified by Niu Yiqun on WeChat.
 TH
-Posted by: Thomas Honold å›½é™…è”åˆå­¦é™¢(æµ·å®å›½é™…æ ¡åŒº)
+Posted by: Thomas Honold ¹ú¼ÊÁªºÏÑ§Ôº(º£Äş¹ú¼ÊĞ£Çø)
 Posted to: MATH286:Introto Differential EqPlus-LEC-1370(20-21)
 
 Title: Information about the midterm
@@ -523,14 +523,14 @@ Weight: 15 % of the total score
 Topics: All topics discussed so far in the lecture and homework. The last relevant topic is "Euler equations" (discussed today). The rather technical question whether solutions of Euler equations on (0,oo) can be extended to the whole real line (skipped in today's lecture) will not be required.
 Good luck!
 TH
-Posted by: Thomas Honold å›½é™…è”åˆå­¦é™¢(æµ·å®å›½é™…æ ¡åŒº)
+Posted by: Thomas Honold ¹ú¼ÊÁªºÏÑ§Ôº(º£Äş¹ú¼ÊĞ£Çø)
 Posted to: MATH286:Introto Differential EqPlus-LEC-1370(20-21)
 
 Title: About Homework 6
 Posted on: Tuesday, March 16, 2021 3:24:12 PM CST
 The knowledge of higher-order linear ODE's with constant coefficients required to solve the exercises of Homework 6 is contained in lecture21-24 and will be completely available only after Lecture 24 on Mon Mar 22. However, I am planning to change the order of the material discussed (examples and the homogeneous case on Wed, inhomogeneous case on Fri, proofs and more background on Mon), so that you can do at least the mandatory exercises (except H39 perhaps) after the lecture on Fri.
 TH
-Posted by: Thomas Honold å›½é™…è”åˆå­¦é™¢(æµ·å®å›½é™…æ ¡åŒº)
+Posted by: Thomas Honold ¹ú¼ÊÁªºÏÑ§Ôº(º£Äş¹ú¼ÊĞ£Çø)
 Posted to: MATH286:Introto Differential EqPlus-LEC-1370(20-21)
 
 Title: Piazza Math 286 Class
@@ -539,7 +539,7 @@ Now we have a piazza class for Math 286 in Spring 2021. For enrolment please go 
 https://piazza.com/intl.zju.edu.cn/spring2021/math286
 All students are very much encouraged to enrol and ask course related questions there (which you can do anonymously, if you want). You can find the link also in the BB content folder for Math 286 (look for "Piazza").
 TH
-Posted by: Thomas Honold å›½é™…è”åˆå­¦é™¢(æµ·å®å›½é™…æ ¡åŒº)
+Posted by: Thomas Honold ¹ú¼ÊÁªºÏÑ§Ôº(º£Äş¹ú¼ÊĞ£Çø)
 Posted to: MATH286:Introto Differential EqPlus-LEC-1370(20-21)
 
 Title: Midterm date
@@ -550,7 +550,7 @@ Weight: 15% of the total score
 Form: Multiple Choice Test (15 questions), strictly CLOSED BOOK           
 There will be no discussion sessions on Apr 1, but you have to hand in your homework as usual.                                                                            
 TH
-Posted by: Thomas Honold å›½é™…è”åˆå­¦é™¢(æµ·å®å›½é™…æ ¡åŒº)
+Posted by: Thomas Honold ¹ú¼ÊÁªºÏÑ§Ôº(º£Äş¹ú¼ÊĞ£Çø)
 Posted to: MATH286:Introto Differential EqPlus-LEC-1370(20-21)
 
 Title: Remote Learning
@@ -560,7 +560,7 @@ a happy and healthy New Lunar Year of the Buffalo to all of you!
 I am not quite sure whether all of you are already back on Campus and able to follow the Math 286 Lectures in person. For those who are not yet allowed to come back I have made the lecture videos of last year (back then the course was taught online) available; cf. link in the root folder. Last year's lectures were slightly different, and with different breaks between lectures, but nevertheless they provide a viable alternative route to studying the current material if you can't attend the lecture. Our present topic "uniform convergence" (lecture11-13_handout.pdf, covered in Lectures 11-14 until Wed), was discussed last year in Lectures 10-13 (starting at Minute 16 in Lecture 10 and ending at Minute 32 in Lecture 13). The material at the end of lecture11-13_handout.pdf (new for this year) is optional and can be studied directly from the slides.
 If for the same reason you can't submit your homework in person, you should notify your TA well in advance of your situation. In such cases we will then allow electronic submission until the restriction is lifted.
 Best wishes, TH
-Posted by: Thomas Honold å›½é™…è”åˆå­¦é™¢(æµ·å®å›½é™…æ ¡åŒº)
+Posted by: Thomas Honold ¹ú¼ÊÁªºÏÑ§Ôº(º£Äş¹ú¼ÊĞ£Çø)
 Posted to: MATH286:Introto Differential EqPlus-LEC-1370(20-21)
 
 Title: Homework 3
@@ -568,14 +568,14 @@ Posted on: Sunday, January 31, 2021 11:52:23 AM CST
 Homework 3 (due in the week after the holidays) is online now. If you intend to work on it during the next few days, you should download it now, because Blackboard will be unavailable from tomorrow Feb 1 until at least Feb 4.
 Happy and healthy Spring Festival holidays!
 TH
-Posted by: Thomas Honold å›½é™…è”åˆå­¦é™¢(æµ·å®å›½é™…æ ¡åŒº)
+Posted by: Thomas Honold ¹ú¼ÊÁªºÏÑ§Ôº(º£Äş¹ú¼ÊĞ£Çø)
 Posted to: MATH286:Introto Differential EqPlus-LEC-1370(20-21)
 
 Title: About Homework 2
 Posted on: Monday, January 18, 2021 3:39:16 PM CST
 Homework 2 is already online. It is a bit lengthy (because of H9) and you are advised to start working on it as soon as you have finished Homework 1. After tomorrow's (Tue) lecture the necessary prerequisites for solving the exercises in Homework 2 will be available, with the exception of H10.
 TH
-Posted by: Thomas Honold å›½é™…è”åˆå­¦é™¢(æµ·å®å›½é™…æ ¡åŒº)
+Posted by: Thomas Honold ¹ú¼ÊÁªºÏÑ§Ôº(º£Äş¹ú¼ÊĞ£Çø)
 Posted to: MATH286:Introto Differential EqPlus-LEC-1370(20-21)
 
 Title: Office hours
@@ -589,7 +589,7 @@ Yu Chengting, Tue 8-9 pm, Library Cafe
 Niu Yiqun, Sat 1-2 pm, Library Cafe
 Office hours start next week. You can turn with questions to either of us, i.e., it is not necessary to visit the TA of your discussion session.
 TH
-Posted by: Thomas Honold å›½é™…è”åˆå­¦é™¢(æµ·å®å›½é™…æ ¡åŒº)
+Posted by: Thomas Honold ¹ú¼ÊÁªºÏÑ§Ôº(º£Äş¹ú¼ÊĞ£Çø)
 Posted to: MATH286:Introto Differential EqPlus-LEC-1370(20-21)
 
 Title: Math 286 discussion groups
@@ -611,13 +611,13 @@ Purpose of the Groups:
 - Q/A, announcements, further explanation of particular lecture topics
   by TA, etc.
 TH
-Posted by: Thomas Honold å›½é™…è”åˆå­¦é™¢(æµ·å®å›½é™…æ ¡åŒº)
+Posted by: Thomas Honold ¹ú¼ÊÁªºÏÑ§Ôº(º£Äş¹ú¼ÊĞ£Çø)
 Posted to: MATH286:Introto Differential EqPlus-LEC-1370(20-21)
 
 Title: New class schedule
 Posted on: Friday, October 9, 2020 1:39:53 PM CST
 Course Link/Content/New class schedule
-Posted by: å¤ç„•æ–° å›½é™…è”åˆå­¦é™¢(æµ·å®å›½é™…æ ¡åŒº)
+Posted by: ÏÄ»ÀĞÂ ¹ú¼ÊÁªºÏÑ§Ôº(º£Äş¹ú¼ÊĞ£Çø)
 Posted to: PHYS212:University Physics: Elec& Mag-Lab:20-21(1069-1070-1071)
 
 Title: notice of phys212 labs
@@ -629,13 +629,13 @@ Notice:
 4. Tidy up your table before leaving lab.
 5. Check the number and states of the devices before and after class.
 Course Link/Content/prelabs of phys212
-Posted by: å¤ç„•æ–° å›½é™…è”åˆå­¦é™¢(æµ·å®å›½é™…æ ¡åŒº)
+Posted by: ÏÄ»ÀĞÂ ¹ú¼ÊÁªºÏÑ§Ôº(º£Äş¹ú¼ÊĞ£Çø)
 Posted to: PHYS212:University Physics: Elec& Mag-Lab:20-21(1069-1070-1071)
 
 Title: Phys213 prelabs
 Posted on: Tuesday, April 6, 2021 10:03:46 AM CST
 Phys213 has prelabs, please finish it before class.
-Posted by: å¤ç„•æ–° å›½é™…è”åˆå­¦é™¢(æµ·å®å›½é™…æ ¡åŒº)
+Posted by: ÏÄ»ÀĞÂ ¹ú¼ÊÁªºÏÑ§Ôº(º£Äş¹ú¼ÊĞ£Çø)
 Posted to: PHYS213:Univ PhysicsThermal Physics-Lab
 
 Title: Updated notes
@@ -702,7 +702,7 @@ Posted on: Friday, January 15, 2021 2:56:12 PM CST
 Dear all,
 Phys214 lab1 will be in room E417 of lab building, please note.
 The rest 3 lessons will be in E521/E519.
-Posted by: å¤ç„•æ–° å›½é™…è”åˆå­¦é™¢(æµ·å®å›½é™…æ ¡åŒº)
+Posted by: ÏÄ»ÀĞÂ ¹ú¼ÊÁªºÏÑ§Ôº(º£Äş¹ú¼ÊĞ£Çø)
 Posted to: PHYS214:Univ Physics-Quantum Physics
 
 Title: Class schedule of phys214 lab
@@ -711,7 +711,7 @@ Dear all,
 The first lab lesson will be on next week, please note.
 No prelabs for phys214 lab.
 Course Link/Content/phys214 lab class schedule
-Posted by: å¤ç„•æ–° å›½é™…è”åˆå­¦é™¢(æµ·å®å›½é™…æ ¡åŒº)
+Posted by: ÏÄ»ÀĞÂ ¹ú¼ÊÁªºÏÑ§Ôº(º£Äş¹ú¼ÊĞ£Çø)
 Posted to: PHYS214:Univ Physics-Quantum Physics
 
 Title: Bonus Points for Final Exam-If you finish the task below
@@ -722,7 +722,7 @@ https://forms.office.com/Pages/ResponsePage.aspx?id=xSAmKRCuU0Wsz2jsgDJQCOnMVLQF
 Anyone who finishes the evaluation and send the screen shot (after you finish it) to your Teaching Assistant through email (only email is acceptable, other ways, such as wechat or others are not acceptable ), will get 0.5 extra point for your final exam. The deadline is 16 May, 5pm.
 Thanks
 Wenchao CHEN
-Posted by: é™ˆæ–‡è¶… å›½é™…è”åˆå­¦é™¢(æµ·å®å›½é™…æ ¡åŒº)
+Posted by: ³ÂÎÄ³¬ ¹ú¼ÊÁªºÏÑ§Ôº(º£Äş¹ú¼ÊĞ£Çø)
 Posted to: PHYS214:UnivPhysics:QuantumPhysics-LEC-1409(20-21)
 
 Title: Final Exam
@@ -738,7 +738,7 @@ There are some tips/rules for you.
 4.Final exam example is also posted for you reference.
 If you have any question, contact me through wenchaochen@zju.edu.cn
 Wenchao CHEN
-Posted by: é™ˆæ–‡è¶… å›½é™…è”åˆå­¦é™¢(æµ·å®å›½é™…æ ¡åŒº)
+Posted by: ³ÂÎÄ³¬ ¹ú¼ÊÁªºÏÑ§Ôº(º£Äş¹ú¼ÊĞ£Çø)
 Posted to: PHYS214:UnivPhysics:QuantumPhysics-LEC-1409(20-21)
 
 Title: Tentative Schedule of PHY 214 Final Exam
@@ -747,7 +747,7 @@ Dear ALL,
 Since some of you have conflicts on   April 16th. We have to tentatively reschedule the final exam on April 23, 6pm-8pm. If you have any conflict, please contact me through wenchaochen@zju.edu.cn.
 Thanks
 Wenchao CHEN
-Posted by: é™ˆæ–‡è¶… å›½é™…è”åˆå­¦é™¢(æµ·å®å›½é™…æ ¡åŒº)
+Posted by: ³ÂÎÄ³¬ ¹ú¼ÊÁªºÏÑ§Ôº(º£Äş¹ú¼ÊĞ£Çø)
 Posted to: PHYS214:UnivPhysics:QuantumPhysics-LEC-1409(20-21)
 
 Title: Final EXAM
@@ -756,7 +756,7 @@ Dear ALL,
 The final exam is tentatively scheduled on April 16th, Friday, from 6:00pm to 8:00pm. If you have any conflicts, contact me before April 2ed through wenchaochen@zju.edu.cn
 Thanks
 Wenchao CHEN
-Posted by: é™ˆæ–‡è¶… å›½é™…è”åˆå­¦é™¢(æµ·å®å›½é™…æ ¡åŒº)
+Posted by: ³ÂÎÄ³¬ ¹ú¼ÊÁªºÏÑ§Ôº(º£Äş¹ú¼ÊĞ£Çø)
 Posted to: PHYS214:UnivPhysics:QuantumPhysics-LEC-1409(20-21)
 
 Title: Reminder: Midterm Exam will be on Friday 6pm-7:20pm
@@ -765,7 +765,7 @@ Dear ALL
 The midterm will be on Friday 6-7:20pm. Please attend on time. If you don't attend, that will be considered as "you give up the midterm exam", and no make-up exam will be made.
 Thanks
 Wenchao Chen
-Posted by: é™ˆæ–‡è¶… å›½é™…è”åˆå­¦é™¢(æµ·å®å›½é™…æ ¡åŒº)
+Posted by: ³ÂÎÄ³¬ ¹ú¼ÊÁªºÏÑ§Ôº(º£Äş¹ú¼ÊĞ£Çø)
 Posted to: PHYS214:UnivPhysics:QuantumPhysics-LEC-1409(20-21)
 
 Title: Midterm Term Exam on March 19, 6pm-7:20pm
@@ -774,14 +774,14 @@ Dear ALL,
 The midterm is scheduled on March 19, 6pm-7:20pm, in Lecture Theater East 102; 201; 204. Midterm exam covers Lecture 1-12.
 Good Luck.
 Wenchao CHEN
-Posted by: é™ˆæ–‡è¶… å›½é™…è”åˆå­¦é™¢(æµ·å®å›½é™…æ ¡åŒº)
+Posted by: ³ÂÎÄ³¬ ¹ú¼ÊÁªºÏÑ§Ôº(º£Äş¹ú¼ÊĞ£Çø)
 Posted to: PHYS214:UnivPhysics:QuantumPhysics-LEC-1409(20-21)
 
 Title: Midterm Term Exam on March 19, 6pm-7:20pm
 Posted on: Friday, March 5, 2021 11:46:51 AM CST
 Dear All,
 Midterm Term Exam is scheduled on March 19,Friday, 6pm-7:20pm, which covers Lecture 1- 12, Location will be announced later.
-Posted by: é™ˆæ–‡è¶… å›½é™…è”åˆå­¦é™¢(æµ·å®å›½é™…æ ¡åŒº)
+Posted by: ³ÂÎÄ³¬ ¹ú¼ÊÁªºÏÑ§Ôº(º£Äş¹ú¼ÊĞ£Çø)
 Posted to: PHYS214:UnivPhysics:QuantumPhysics-LEC-1409(20-21)
 
 Title: Smart Physics System:https://smart.physics.illinois.edu/
@@ -791,7 +791,7 @@ Please log into: https://smart.physics.illinois.edu/
 Check whether you are enrolled in PHY214 or not. If you have problem, contact me before Wednesday.
 Email: wenchaochen@zju.edu.cn
 Wenchao CHEN
-Posted by: é™ˆæ–‡è¶… å›½é™…è”åˆå­¦é™¢(æµ·å®å›½é™…æ ¡åŒº)
+Posted by: ³ÂÎÄ³¬ ¹ú¼ÊÁªºÏÑ§Ôº(º£Äş¹ú¼ÊĞ£Çø)
 Posted to: PHYS214:UnivPhysics:QuantumPhysics-LEC-1409(20-21)
 
 Title: survey for conflicts of Final Exam
@@ -801,14 +801,14 @@ Please fill the form through
 https://f.wps.cn/w/cXci677W/  or  with the link in the Wechat group.
 If you have class on the evening of April 23.
 Thanks
-Posted by: è®¸æ¬¢ (Xu Huan) ZJU-UIUC Institute
+Posted by: Ğí»¶ (Xu Huan) ZJU-UIUC Institute
 Posted to: PHYS214:UnivPhysics:QuantumPhysics-LEC-1409(20-21)
 
 Title: Office Hour
 Posted on: Wednesday, January 20, 2021 11:29:02 AM CST
 Office hour is from 4pm to 4:40 pm on Monday. Send an email before you come in case I am not in office.
 Office: ZJUI Building B 410
-Posted by: é™ˆæ–‡è¶… å›½é™…è”åˆå­¦é™¢(æµ·å®å›½é™…æ ¡åŒº)
+Posted by: ³ÂÎÄ³¬ ¹ú¼ÊÁªºÏÑ§Ôº(º£Äş¹ú¼ÊĞ£Çø)
 Posted to: PHYS214:UnivPhysics:QuantumPhysics-LEC-1409(20-21)
 
 Title: Discussion material
@@ -816,24 +816,24 @@ Posted on: Wednesday, January 13, 2021 9:08:45 PM CST
 Dear all,
 Please print the discussion material before the discussion session or use your tablet.
 Thank you.
-Posted by: è®¸æ¬¢ (Xu Huan) ZJU-UIUC Institute
+Posted by: Ğí»¶ (Xu Huan) ZJU-UIUC Institute
 Posted to: PHYS214:UnivPhysics:QuantumPhysics-LEC-1409(20-21)
 
-Title: æœ€åæé†’ï¼šhttps://smart.physics.illinois.edu/
+Title: ×îºóÌáĞÑ£ºhttps://smart.physics.illinois.edu/
 Posted on: Wednesday, January 13, 2021 11:14:51 AM CST
-å¦‚æœä½ ç™»å½•ç³»ç»Ÿæœ‰é—®é¢˜ï¼Œæ‰¾ä¸åˆ°è¯¾ç¨‹å°½å¿«è”ç³»æˆ‘ https://smart.physics.illinois.edu/
-æä¾›ä½ çš„åå­—ï¼Œuiuc NetIDï¼Œå‘æˆ‘é‚®ç®±ã€‚
+Èç¹ûÄãµÇÂ¼ÏµÍ³ÓĞÎÊÌâ£¬ÕÒ²»µ½¿Î³Ì¾¡¿ìÁªÏµÎÒ https://smart.physics.illinois.edu/
+Ìá¹©ÄãµÄÃû×Ö£¬uiuc NetID£¬·¢ÎÒÓÊÏä¡£
 Email: wenchaochen@zju.edu.cn
-è¿™å‘¨äº”ä»¥åä¸å†å—ç†ï¼
+ÕâÖÜÎåÒÔºó²»ÔÙÊÜÀí£¡
 Wenchao CHEN
-Posted by: é™ˆæ–‡è¶… å›½é™…è”åˆå­¦é™¢(æµ·å®å›½é™…æ ¡åŒº)
+Posted by: ³ÂÎÄ³¬ ¹ú¼ÊÁªºÏÑ§Ôº(º£Äş¹ú¼ÊĞ£Çø)
 Posted to: PHYS214:UnivPhysics:QuantumPhysics-LEC-1409(20-21)
 
 Title: Residential College online course collection just open up!
 Posted on: Tuesday, February 25, 2020 9:20:21 AM CST
 Hi there, we residential college starts our online course now.
 Here, you can view virous interesting courses related to RC, hope you can enjoy it and don't hesitate to reserve and give us a thumb up :)
-Posted by: è°¢ä½³å¦® åå‹¤é›†å›¢
+Posted by: Ğ»¼ÑÄİ ºóÇÚ¼¯ÍÅ
 Posted to: Residential College
 
 Title: 
