@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="15f32976-6f48-4af0-93b1-d9cf1bc85c53" name="默认变更列表" comment="" />
+    <list default="true" id="15f32976-6f48-4af0-93b1-d9cf1bc85c53" name="默认变更列表" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Doc/Graphs/项目人员架构.drawio" beforeDir="false" afterPath="$PROJECT_DIR$/Doc/Graphs/项目人员架构.drawio" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Doc/Graphs/项目人员架构.png" beforeDir="false" afterPath="$PROJECT_DIR$/Doc/Graphs/项目人员架构.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Doc/Graphs/项目解决方案.drawio" beforeDir="false" afterPath="$PROJECT_DIR$/Doc/Graphs/项目解决方案.drawio" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Doc/Graphs/项目解决方案.png" beforeDir="false" afterPath="$PROJECT_DIR$/Doc/Graphs/项目解决方案.png" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
