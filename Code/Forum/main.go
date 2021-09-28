@@ -1,12 +1,12 @@
 package main
 
 import (
-    "fmt"
+    . "github.com/xueyuanjun/chitchat/config"
+    . "github.com/xueyuanjun/chitchat/routes"
     "log"
     "net/http"
 )
 
-/*
 func main()  {
     startWebServer()
 }
@@ -27,18 +27,5 @@ func startWebServer()  {
     if err != nil {
         log.Println("An error occured starting HTTP listener at " + ViperConfig.App.Address)
         log.Println("Error: " + err.Error())
-    }
-}
-*/
-
-func main() {
-    http.HandleFunc("/hello", func(w http.ResponseWriter, r *http.Request){
-        fmt.Fprintf(w, "Hello!")
-    })
-
-
-    fmt.Printf("Starting server at port 8080\n")
-    if err := http.ListenAndServe(":8080", nil); err != nil {
-        log.Fatal(err)
     }
 }
