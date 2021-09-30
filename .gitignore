@@ -142,3 +142,6 @@ cython_debug/
 
 # MacOS Render File
 .DS_Store
+
+# Go
+./Code/Forum/pkg
