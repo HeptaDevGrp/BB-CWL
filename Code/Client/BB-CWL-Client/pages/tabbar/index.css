@@ -97,7 +97,16 @@
 	top: 170px;
 	font-size: 28rpx;
 }
-.announcementinfo:hover{
+.announcementinfo1:hover{
+	color:rgb(0, 85, 255);
+}
+.announcementinfo2:hover{
+	color:rgb(0, 85, 255);
+}
+.announcementinfo3:hover{
+	color:rgb(0, 85, 255);
+}
+.announcementinfo4:hover{
 	color:rgb(0, 85, 255);
 }
 .updatebutton{
@@ -329,6 +338,24 @@
 .todaymorebutton:hover{
 	color:rgb(0, 85, 255);
 }
+.todayinfo1{
+	position: absolute;
+	left: 72px;
+	top: 375px;
+	font-size: 24rpx;
+}
+.todayinfo2{
+	position: absolute;
+	left: 72px;
+	top: 420px;
+	font-size: 24rpx;
+}
+.todayinfo1:hover{
+	color:rgb(0, 85, 255);
+}
+.todayinfo2:hover{
+	color:rgb(0, 85, 255);
+}
 .tomorrow{
 	position: absolute;
 	left:13rpx;
@@ -364,6 +391,24 @@
 .tomorrowmorebutton:hover{
 	color:rgb(0, 85, 255);
 }
+.tomorrowinfo1{
+	position: absolute;
+	left: 82px;
+	top: 500px;
+	font-size: 24rpx;
+}
+.tomorrowinfo2{
+	position: absolute;
+	left: 82px;
+	top: 540px;
+	font-size: 24rpx;
+}
+.tomorrowinfo1:hover{
+	color:rgb(0, 85, 255);
+}
+.tomorrowinfo2:hover{
+	color:rgb(0, 85, 255);
+}
 .future{
 	position: absolute;
 	left:17rpx;
@@ -397,6 +442,24 @@
 	color : rgb(109, 109, 109);
 }
 .futuremorebutton:hover{
+	color:rgb(0, 85, 255);
+}
+.futureinfo1{
+	position: absolute;
+	left: 72px;
+	top: 625px;
+	font-size: 24rpx;
+}
+.futureinfo2{
+	position: absolute;
+	left: 72px;
+	top: 660px;
+	font-size: 24rpx;
+}
+.futureinfo1:hover{
+	color:rgb(0, 85, 255);
+}
+.futureinfo2:hover{
 	color:rgb(0, 85, 255);
 }
 .todaylogo{

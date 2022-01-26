@@ -5,20 +5,25 @@
 			<view @click="goBack()">
 				Back
 			</view>
-			<view>
-				{{AnnouncementShowList[0]["Title"]}}
+			<view style="white-space: pre-wrap" charset="gbk">
+				{{annoucement["Title"]}}
+				{{'\n'}}
 			</view>
-			<view>
-				{{AnnouncementShowList[0]["Posted By"]}}
+			<view style="white-space: pre-wrap" charset="gbk">
+				{{annoucement["Posted By"]}}
+				{{'\n'}}
 			</view>
-			<view>
-				{{AnnouncementShowList[0]["Posted On"]}}
+			<view style="white-space: pre-wrap" charset="gbk">
+				{{annoucement["Posted On"]}}
+				{{'\n'}}
 			</view>
-			<view>
-				{{AnnouncementShowList[0]["Posted To"]}}
+			<view style="white-space: pre-wrap" charset="gbk">
+				{{annoucement["Posted To"]}}
+				{{'\n'}}
 			</view>
-			<view>
-				{{AnnouncementShowList[0]["Stipulate"]}}
+			<view style="white-space: pre-wrap" charset="gbk">
+				{{annoucement["Stipulate"]}}
+				{{'\n'}}
 			</view>
 		</scroll-view>
 	</view>
@@ -30,12 +35,13 @@
 		data() {
 			return {
 				new_announcements_count:10,
-				AnnouncementShowList:[]
+				annoucement:{}
 			}
 		},
-		onLoad:function(option){
+		onLoad(item){
+			let obj=item.itemlist.replace("\"([^\"]*)\"", "$1");
+			this.annoucement=JSON.parse(obj)
 			let data=json.data;
-			this.datascreening(option.id)
 		},
 		methods: {
 			datascreening(AncNum){
