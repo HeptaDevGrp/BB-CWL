@@ -1,29 +1,45 @@
 <template>
 	<view class="base">
 		<scroll-view scroll-y style="height: 1600rpx;width: 100%;" @scrolltolower="reachBottom">
-			Announcement
-			<view @click="goBack()">
-				Back
+			<meta charset="utf-8">
+			<view class="learn_more">
+				<!-- /*求是鹰图标*/ -->
+				<view class="group_11">              
+					<view class="layer_12"></view>
+					<view class="oval_2"></view>
+				</view>
+				<!-- /*背景*/ -->
+				<view class="title_bar"></view>
+				<view class="layer_3"></view>
+				<view class="shape_3"></view>
+				<view class="rounded_rectangle_5"></view>
+				<view class="background"></view>
+				<!-- /*announcements图标*/ -->
+				<view class="rectangle_5"></view>
+				<view class="rectangle_4"></view>
+				<view class="Announcements">Announcements</view>
+				<!-- /*下方导航栏*/ -->
+				<view class="group_10">             
+					<view class="layer_11"></view>
+					<view class="layer_10"></view>
+					<view class="layer_9"></view>
+					<view class="navigation_bar"></view>
+				</view>
+				<view class="back"></view>
+				<view class="back_text" @click="goBack()">Back</view>
 			</view>
-			<view style="white-space: pre-wrap" charset="gbk">
-				{{annoucement["Title"]}}
-				{{'\n'}}
-			</view>
-			<view style="white-space: pre-wrap" charset="gbk">
-				{{annoucement["Posted By"]}}
-				{{'\n'}}
-			</view>
-			<view style="white-space: pre-wrap" charset="gbk">
-				{{annoucement["Posted On"]}}
-				{{'\n'}}
-			</view>
-			<view style="white-space: pre-wrap" charset="gbk">
-				{{annoucement["Posted To"]}}
-				{{'\n'}}
-			</view>
-			<view style="white-space: pre-wrap" charset="gbk">
-				{{annoucement["Stipulate"]}}
-				{{'\n'}}
+			<view class="ancmstatic">
+				<view style="white-space: pre-wrap" charset="gbk" class="a_title">
+					<view>{{annoucement["Title"]}}</view>
+					<view>{{'\n'}}</view>
+					<view>{{annoucement["Posted By"]}}</view>
+					<view>{{'\n'}}</view>
+					<view>{{annoucement["Posted On"]}}</view>
+					<view>{{'\n'}}</view>
+					<view>{{annoucement["Posted To"]}}</view>
+					<view>{{'\n'}}</view>
+					<view>{{annoucement["Stipulate"]}}</view>
+				</view>
 			</view>
 		</scroll-view>
 	</view>
@@ -67,5 +83,5 @@
 </script>
 
 <style>
-
+@import "/pages/announcement/announcement.css";
 </style>
