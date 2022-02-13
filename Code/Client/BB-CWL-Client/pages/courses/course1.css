@@ -1,0 +1,238 @@
+.courses {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 750px;
+  height: 800px;
+  z-index: 72;
+}
+.title_bar {
+  background-image: url("./images/title_bar.png");
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 375px;
+  height: 64px;
+  z-index: 70;
+}
+.组_1 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 750px;
+  height: 1600px;
+  z-index: 68;
+}
+.courses_str {
+  font-size: 30px;
+  font-family: "Berlin Sans FB";
+  color: rgb(255, 255, 255);
+  line-height: 0.833;
+  position: absolute;
+  left: 11px;
+  top: 80px;
+  width: 104px;
+  height: 22px;
+  z-index: 67;
+}
+.矩形_4 {
+  background-color: rgb(20, 133, 238);
+  position: absolute;
+  left: 23.5px;
+  top: 32px;
+  width: 67.5px;
+  height: 13.75px;
+  z-index: 66;
+}
+.组_2 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 750px;
+  height: 1600px;
+  z-index: 64;
+}
+.矩形_9 {
+  border-radius: 2px;
+  background-color: rgb(20, 133, 238);
+  position: absolute;
+  left: 18px;
+  top: 142px;
+  width: 7.5px;
+  height: 15px;
+  z-index: 63;
+}
+.矩形_91 {
+  border-radius: 2px;
+  background-color: rgb(20, 133, 238);
+  position: absolute;
+  left: 18px;
+  top: 324px;
+  width: 7.5px;
+  height: 15px;
+  z-index: 62;
+}
+.矩形_92 {
+  border-radius: 2px;
+  background-color: rgb(119, 119, 119);
+  position: absolute;
+  left: 18px;
+  top: 232px;
+  width: 7.5px;
+  height: 15px;
+  z-index: 61;
+}
+.图层_12 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 0px;
+  height: 0px;
+  z-index: 58;
+}
+.导航栏1 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 750px;
+  height: 1600px;
+  z-index: 55;
+}
+.layer_11 {
+  background-image: url("./images/layer_11.png");
+  position: absolute;
+  left: 37.5px;
+  top: 760.5px;
+  width: 28px;
+  height: 27px;
+  z-index: 133;
+}
+.layer_10 {
+  background-image: url("./images/layer_10.png");
+  position: absolute;
+  left: 313px;
+  top: 760px;
+  width: 21.5px;
+  height: 29.5px;
+  z-index: 132;
+}
+.layer_9 {
+  background-image: url("./images/layer_9.png");
+  position: absolute;
+  left: 169px;
+  top: 760px;
+  width: 35px;
+  height: 27.5px;
+  z-index: 131;
+}
+.navigation_bar {
+  background-image: url("./images/navigation_bar.png");
+  position: absolute;
+  left: 0px;
+  top: 748px;
+  width: 375px;
+  height: 51px;
+  z-index: 130;
+}
+.task栏 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 750px;
+  height: 1600px;
+  z-index: 49;
+}
+.矩形_8 {
+  background-color: rgb(255, 255, 255);
+  box-shadow: 0px 9px 20.58px 0.42px rgba(180, 174, 174, 0.28);
+  position: absolute;
+  border-radius: 10px;
+  left: 0px;
+  top: 657px;
+  width: 369px;
+  height: 100px;
+  z-index: 48;
+}
+.矩形_81 {
+  background-color: rgb(255, 255, 255);
+  box-shadow: 0px 9px 20.58px 0.42px rgba(180, 174, 174, 0.28);
+  position: absolute;
+  border-radius: 10px;
+  left: 0px;
+  top: 567px;
+  width: 371px;
+  height: 110px;
+  z-index: 47;
+}
+.矩形_82 {
+  background-color: rgb(255, 255, 255);
+  box-shadow: 0px 9px 20.58px 0.42px rgba(180, 174, 174, 0.28);
+  position: absolute;
+  border-radius: 10px;
+  left: 0px;
+  top: 477px;
+  width: 369px;
+  height: 110px;
+  z-index: 46;
+}
+.矩形_83 {
+  background-color: rgb(255, 255, 255);
+  box-shadow: 0px 9px 20.58px 0.42px rgba(180, 174, 174, 0.28);
+  position: absolute;
+  border-radius: 10px;
+  left: 0px;
+  top: 387px;
+  width: 371px;
+  height: 110px;
+  z-index: 45;
+}
+.矩形_84 {
+  background-color: rgb(255, 255, 255);
+  box-shadow: 0px 9px 20.58px 0.42px rgba(180, 174, 174, 0.28);
+  position: absolute;
+  border-radius: 10px;
+  left: 0px;
+  top: 297px;
+  width: 369px;
+  height: 110px;
+  z-index: 44;
+}
+.矩形_85 {
+  background-color: rgb(255, 255, 255);
+  box-shadow: 0px 9px 20.58px 0.42px rgba(180, 174, 174, 0.28);
+  position: absolute;
+  border-radius: 10px;
+  left: 0px;
+  top: 207px;
+  width: 371px;
+  height: 110px;
+  z-index: 43;
+}
+.矩形_86 {
+  background-color: rgb(255, 255, 255);
+  box-shadow: 0px 9px 20.58px 0.42px rgba(180, 174, 174, 0.28);
+  position: absolute;
+  border-radius: 10px;
+  left: 0px;
+  top: 117px;
+  width: 369px;
+  height: 110px;
+  z-index: 42;
+}
+.Announcement框 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 375px;
+  height: 800px;
+  z-index: 40;
+}
+.layer_3 {
+  background-image: url("./images/layer_3.png");
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 375px;
+  height: 1600px;
+  z-index: 39;
+}
