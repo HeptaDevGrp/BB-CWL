@@ -1,0 +1,117 @@
+.Announcements {
+  font-size: 12.5px;
+  font-family: "Adobe Heiti Std";
+  color: rgb(20, 133, 238);
+  line-height: 0.96;
+  -moz-transform: matrix( 1.50760751611042,0,0,1.50602118124508,0,0);
+  -webkit-transform: matrix( 1.50760751611042,0,0,1.50602118124508,0,0);
+  -ms-transform: matrix( 1.50760751611042,0,0,1.50602118124508,0,0);
+  position: absolute;
+  left: 50.415px;
+  top: 22.741px;
+  width: 110.6085px;
+  height: 9.4565px;
+  z-index: 81;
+}
+.矩形_8_拷贝 {
+  background-color: rgb(255, 255, 255);
+  position: absolute;
+  left: 16px;
+  top: 15px;
+  width: 181px;
+  height: 30px;
+  z-index: 80;
+}
+.矩形_8 {
+  background-color: rgb(88, 88, 88);
+  position: absolute;
+  left: -1px;
+  top: 15px;
+  width: 8.5px;
+  height: 30px;
+  z-index: 79;
+}
+.标题栏_拷贝_2 {
+  background-image: url("./images/title_bar.png");
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 375px;
+  height: 64px;
+  z-index: 76;
+}
+
+.形状_1_拷贝_2 {
+  background-image: url("./images/形状 2.png");
+  position: absolute;
+  left: 0px;
+  top: 190px;
+  width: 375px;
+  height: 52px;
+  z-index: 77;
+}
+.形状_1_拷贝 {
+  background-image: url("./images/形状 2.png");
+  position: absolute;
+  left: 0px;
+  top: 176px;
+  width: 375px;
+  height: 52px;
+  z-index: 77;
+}
+.形状_1 {
+  background-image: url("./images/形状 1.png");
+  position: absolute;
+  left: 0px;
+  top: 204px;
+  width: 375px;
+  height: 50px;
+  z-index: 76;
+}
+.图层_3_拷贝 {
+  background-image: url("./images/layer_3.png");
+  position: absolute;
+  left: -45px;
+  top: 64px;
+  width: 508px;
+  height: 141px;
+  z-index: 71;
+}
+.back {
+  background-color: rgb(246, 246, 246);
+  border-radius: 10px;
+  position: absolute;
+  left: 285px;
+  top: 18px;
+  width: 75px;
+  height: 30px;
+  z-index: 150;
+}
+.back_text{
+	font-size: 18.25px;
+	font-family: "Adobe Heiti Std";
+	color: rgb(20, 133, 238);
+	line-height: 1.471;
+	position: absolute;
+	left: 300px;
+	top: 20.5px;
+	z-index: 151;
+}
+.fcourse {
+  background-image: url("./images/fcourse.png");
+  position: absolute;
+  left: 230px;
+  top: 260px;
+  width: 29px;
+  height: 29px;
+  z-index: 76;
+}
+.fdate {
+  background-image: url("./images/fdate.png");
+  position: absolute;
+  left: 120px;
+  top: 260px;
+  width: 30px;
+  height: 30px;
+  z-index: 76;
+}

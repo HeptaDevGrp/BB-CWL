@@ -1,15 +1,35 @@
 <template>
 	<view class="base">
 		<scroll-view scroll-y style="height: 1600rpx;width: 100%;" @scrolltolower="reachBottom">
-			More Future Announcement
-			<view @click="goBack()">
-				Back
-			</view>
-			<view class="annoucementinfo">
-				<view v-for="(item,index) in FutureShowList" :key="index" @click="AnnouncementClick(item)">
-					<view>{{item["Title"]}}</view>
-					<view>{{item["Posted On"]}}</view>
-				</view>
+			<view class="moreannouncement">
+				<!-- 标题栏 -->
+				<view class="矩形_8_拷贝"></view>
+				<view class="矩形_8"></view>
+				<view class="标题栏_拷贝_2"></view>
+				<view class="Announcements">More Future</view>
+				<!-- 三角形 -->
+				<view class="形状_1_拷贝_2"></view>
+				<view class="形状_1_拷贝"></view>
+				<view class="形状_1"></view> 
+				<!-- 背景 -->
+				<view class="图层_3_拷贝"></view>
+				<!-- Back 按钮-->
+				<view class="back"></view>
+				<view class="back_text" @click="goBack()">Back</view>
+				<!-- 查找日期 查找课程-->
+				<view class="fcourse"></view>
+				<view class="fdate"></view>
+			    <view class="nav-list">
+			    	<view class="nav-li"
+			    		 @click="MoreAnnouncementClick(index)"
+			    		  v-for="(item,index) in FutureShowList" :key="index">
+			    		<view class="rectangle_8">
+			    			<view :class="[{'rectangle_91':index%2==0,
+			    							'rectangle_92':index%2==1}]"></view>
+			    		</view>
+			    		 <view class="nav-title">{{FutureShowList[index]["Title"]}}</view>
+			    	</view>
+			    </view>
 			</view>
 		</scroll-view>
 	</view>
@@ -29,8 +49,10 @@
 			let data=json.data;
 		},
 		methods: {
-			AnnouncementClick(item){
-				let items=encodeURIComponent(JSON.stringify(item));
+			MoreAnnouncementClick(item1){
+				var items;
+				console.log(item1)
+				items=encodeURIComponent(JSON.stringify(this.FutureShowList[item1]));
 				uni.navigateTo({
 					url: '../announcement/announcement?itemlist='+items,
 				})
@@ -45,5 +67,6 @@
 </script>
 
 <style>
-
+    @import "/pages/more/moreannouncement.css";
+	@import "/pages/more/moreancm.css";
 </style>
