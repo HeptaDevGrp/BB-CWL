@@ -3,16 +3,16 @@
 		<scroll-view scroll-y style="height: 1600rpx;width: 100%;" @scrolltolower="reachBottom">
 			<view class="moreannouncement">
 				<!-- 标题栏 -->
-				<view class="矩形_8_拷贝"></view>
-				<view class="矩形_8"></view>
-				<view class="标题栏_拷贝_2"></view>
+				<view class="rect_8_copy"></view>
+				<view class="rect_8"></view>
+				<view class="title_copy_2"></view>
 				<view class="Announcements">Announcements</view>
 				<!-- 三角形 -->
-				<view class="形状_1_拷贝_2"></view>
-				<view class="形状_1_拷贝"></view>
-				<view class="形状_1"></view> 
+				<view class="shape_1_copy_2"></view>
+				<view class="shape_1_copy"></view>
+				<view class="shape_1"></view> 
 				<!-- 背景 -->
-				<view class="图层_3_拷贝"></view>
+				<view class="layer_3_copy"></view>
 				<!-- Back 按钮-->
 				<view class="back"></view>
 				<view class="back_text" @click="goBack()">Back</view>

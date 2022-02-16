@@ -13,7 +13,7 @@
   height: 9.4565px;
   z-index: 81;
 }
-.矩形_8_拷贝 {
+.shape_8_copy {
   background-color: rgb(255, 255, 255);
   position: absolute;
   left: 16px;
@@ -22,7 +22,7 @@
   height: 30px;
   z-index: 80;
 }
-.矩形_8 {
+.rect_8 {
   background-color: rgb(88, 88, 88);
   position: absolute;
   left: -1px;
@@ -31,7 +31,7 @@
   height: 30px;
   z-index: 79;
 }
-.标题栏_拷贝_2 {
+.title_copy_2 {
   background-image: url("./images/title_bar.png");
   position: absolute;
   left: 0px;
@@ -41,8 +41,8 @@
   z-index: 76;
 }
 
-.形状_1_拷贝_2 {
-  background-image: url("./images/形状 2.png");
+.shape_1_copy_2 {
+  background-image: url("./images/shape_2.png");
   position: absolute;
   left: 0px;
   top: 190px;
@@ -50,8 +50,8 @@
   height: 52px;
   z-index: 77;
 }
-.形状_1_拷贝 {
-  background-image: url("./images/形状 2.png");
+.shape_1_copy {
+  background-image: url("./images/shape_2.png");
   position: absolute;
   left: 0px;
   top: 176px;
@@ -59,8 +59,8 @@
   height: 52px;
   z-index: 77;
 }
-.形状_1 {
-  background-image: url("./images/形状 1.png");
+.shape_1 {
+  background-image: url("./images/shape_1.png");
   position: absolute;
   left: 0px;
   top: 204px;
@@ -68,7 +68,7 @@
   height: 50px;
   z-index: 76;
 }
-.图层_3_拷贝 {
+.layer_3_copy {
   background-image: url("./images/layer_3.png");
   position: absolute;
   left: -45px;
