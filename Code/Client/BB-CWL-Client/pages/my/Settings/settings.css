@@ -1,0 +1,181 @@
+.Back {
+  background-image: url("./settings_images/Back.png");
+  position: absolute;
+  left: 20px;
+  top: 31.5px;
+  width: 14.5px;
+  height: 14.5px;
+  z-index: 143;
+}
+.underline {
+  border-width: 1.5px;
+  border-color: rgb(35, 35, 35);
+  border-style: solid;
+  background-color: rgb(35, 35, 35);
+  position: absolute;
+  left: 44.5px;
+  top: 267px;
+  width: 283.5px;
+  height: 0;
+  z-index: 142;
+}
+.security {
+  background-image: url("./settings_images/security.png");
+  position: absolute;
+  left: 190.5px;
+  top: 292.5px;
+  width: 166px;
+  height: 153.5px;
+  z-index: 141;
+}
+.profile {
+  background-image: url("./settings_images/profile.png");
+  position: absolute;
+  left: 18.5px;
+  top: 292.5px;
+  width: 166px;
+  height: 153.5px;
+  z-index: 140;
+}
+.Account {
+  font-size: 15px;
+  font-family: "Adobe Heiti Std";
+  color: rgb(0, 0, 0);
+  line-height: 1.0835;
+  position: absolute;
+  left: 160px;
+  top: 240px;
+  width: 66.5px;
+  height: 12px;
+  z-index: 139;
+}
+.Setting {
+  font-size: 36px;
+  font-family: "Adobe Heiti Std";
+  color: rgb(255, 255, 255);
+  line-height: 0.4515;
+  position: absolute;
+  left: 16.937px;
+  top: 90px;
+  width: 139px;
+  height: 37px;
+  z-index: 138;
+}
+.USER1234 {
+  font-size: 15px;
+  font-family: "Adobe Heiti Std";
+  color: rgb(255, 255, 255);
+  line-height: 1.0835;
+  position: absolute;
+  left: 83.969px;
+  top: 164px;
+  width: 79.5px;
+  height: 12px;
+  z-index: 137;
+}
+.profile_photo {
+  background-image: url("./settings_images/profile_photo.png");
+  position: absolute;
+  left: 16px;
+  top: 150.5px;
+  width: 54px;
+  height: 54px;
+  z-index: 136;
+}
+.Logout {
+  font-size: 24px;
+  font-family: "Adobe Heiti Std";
+  color: rgb(255, 255, 255);
+  line-height: 0.677;
+  position: absolute;
+  left: 150px;
+  top: 648px;
+  width: 85.5px;
+  height: 24.5px;
+  z-index: 135;
+}
+.box {
+  background-image: url("./settings_images/box.png");
+  position: absolute;
+  left: 103.5px;
+  top: 628px;
+  width: 168px;
+  height: 54.5px;
+  z-index: 134;
+}
+.top {
+  background-image: url("./settings_images/top.png");
+  position: absolute;
+  left: 0px;
+  top: -8px;
+  width: 375px;
+  height: 64px;
+  z-index: 133;
+}
+.middle {
+  background-color: rgb(255, 255, 255);
+  box-shadow: 0px 6px 6.88px 1.12px rgba(180, 174, 174, 0.14);
+  position: absolute;
+  left: 9.5px;
+  top: 224.5px;
+  width: 356px;
+  height: 470.5px;
+  z-index: 132;
+}
+.top2 {
+  background-image: url("./settings_images/top2.png");
+  position: absolute;
+  left: 0px;
+  top: 54px;
+  width: 374.5px;
+  height: 243px;
+  z-index: 131;
+}
+._1 {
+  background-image: url("./settings_images/1.png");
+  position: absolute;
+  left: 37.5px;
+  top: 760.5px;
+  width: 28px;
+  height: 27px;
+  z-index: 129;
+}
+._2 {
+  background-image: url("./settings_images/2.png");
+  position: absolute;
+  left: 308px;
+  top: 759.5px;
+  width: 21.5px;
+  height: 29.5px;
+  z-index: 128;
+}
+._3 {
+  background-image: url("./settings_images/3.png");
+  position: absolute;
+  left: 169px;
+  top: 760px;
+  width: 35px;
+  height: 28.5px;
+  z-index: 127;
+}
+.bottom {
+  background-image: url("./settings_images/bottom.png");
+  position: absolute;
+  left: 0px;
+  top: 749px;
+  width: 375px;
+  height: 51px;
+  z-index: 126;
+}
+.background {
+  background-color: rgb(246, 246, 246);
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 375px;
+  height: 796px;
+  z-index: 125;
+}
+
+
+
