@@ -21,7 +21,7 @@
 	</view>
 </template>
 <script>
-	import json from '../../../../Node/client_helper/import_data.js';
+	//import json from '../../../../../Node/client_helper/import_data.js';
 	export default {
 		methods: {
 			goBack(){

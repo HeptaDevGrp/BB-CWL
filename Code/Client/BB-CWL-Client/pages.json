@@ -16,7 +16,7 @@
 			"selectedIconPath": "static/courses_icon_chosen.png"
 		},
 		{
-			"pagePath": "pages/my/my",
+			"pagePath": "pages/my/Login",
 			"iconPath": "static/account_icon.png",
 			"selectedIconPath": "static/account_icon_chosen.png"
 		}],
@@ -91,7 +91,33 @@
                 "enablePullDownRefresh": false
             }
             
-        }
+        },
+		{
+			"path": "pages/my/Login",
+			"style": {
+				"navigationBarTitleText": "BB-CWL",
+				"navigationBarBackgroundColor": "#1485ee"
+				
+			}
+		},
+		{
+		    "path" : "pages/my/Settings/settings",
+		    "style" :                                                                                    
+		    {
+		        "navigationBarTitleText": "",
+		        "enablePullDownRefresh": false
+		    }
+		    
+		},
+		{
+		    "path" : "pages/my/Settings/setting_items/profile",
+		    "style" :                                                                                    
+		    {
+		        "navigationBarTitleText": "",
+		        "enablePullDownRefresh": false
+		    }
+		    
+		}
     ],
 	"globalStyle": {
 		"navigationBarTitleText": "BB-CWL",
