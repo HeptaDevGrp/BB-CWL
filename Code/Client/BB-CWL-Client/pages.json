@@ -16,7 +16,7 @@
 			"selectedIconPath": "static/courses_icon_chosen.png"
 		},
 		{
-			"pagePath": "pages/my/Login",
+			"pagePath": "pages/my/my",
 			"iconPath": "static/account_icon.png",
 			"selectedIconPath": "static/account_icon_chosen.png"
 		}],
@@ -111,6 +111,15 @@
 		},
 		{
 		    "path" : "pages/my/Settings/setting_items/profile",
+		    "style" :                                                                                    
+		    {
+		        "navigationBarTitleText": "",
+		        "enablePullDownRefresh": false
+		    }
+		    
+		},
+		{
+		    "path" : "pages/my/Settings/setting_items/security",
 		    "style" :                                                                                    
 		    {
 		        "navigationBarTitleText": "",

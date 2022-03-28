@@ -12,19 +12,44 @@
 			<view class="Setting" @click="my2set()"></view>
 		</view>
 		<view class="User_Guide"></view>
+		<!-- <view class="guide">
+			<view class="_1" @click="my2index()"></view>
+			<view class="_2"></view>
+			<view class="_3" @click="my2crs()"></view>
+			<view class="bottom"></view>
+		</view> -->
 	</view>
 </template>
 
 <script>
 	import json from '../../../../Node/client_helper/import_data.js';
 	export default {
+		onLoad() {
+			this.login();
+		},
 		methods: {
+			login(){
+				uni.navigateTo({
+					url: '/pages/my/Login',
+				})
+			},
 			my2set(){
-				console.log('1');
 				uni.navigateTo({
 					url: './Settings/settings',
 				})
-			}
+			},
+			// my2index(){
+			// 	console.log(1);
+			// 	uni.switchTab({
+			// 		url: '/pages/tabbar/index',
+			// 	})
+			// },
+			// my2crs(){
+			// 	console.log(2);
+			// 	uni.switchTab({
+			// 		url: '/pages/courses/courses',
+			// 	})
+			// }
 		}
 	}
 </script>

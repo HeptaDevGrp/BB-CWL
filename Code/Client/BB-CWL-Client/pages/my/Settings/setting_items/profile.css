@@ -2,49 +2,49 @@
   position: absolute;
   left: 0px;
   top: 0px;
-  width: 750px;
-  height: 1600px;
+  width: 375px;
+  height: 800px;
   z-index: 174;
 }
 .Back {
   background-image: url("./profile-img/Back.png");
   position: absolute;
-  left: 40px;
-  top: 63px;
-  width: 29px;
-  height: 29px;
+  left: 20px;
+  top: 30px;
+  width: 15px;
+  height: 15px;
   z-index: 173;
 }
 .Profile {
-  font-size: 72px;
+  font-size: 36px;
   font-family: "Adobe Heiti Std";
   color: rgb(255, 255, 255);
   line-height: 0.903;
   position: absolute;
-  left: 32.937px;
-  top: 113.488px;
-  width: 253px;
-  height: 61px;
-  z-index: 172;
+  left: 16.5px;
+  top: 56.2px;
+  width: 31px;
+  height: 30px;
+  z-index: 179;
 }
 .User_ID {
   position: absolute;
   left: 0px;
   top: 0px;
-  width: 750px;
-  height: 1600px;
+  width: 375px;
+  height: 800px;
   z-index: 171;
 }
 .useID123_ {
-  font-size: 25px;
+  font-size: 13px;
   font-family: "Adobe Heiti Std";
   color: rgba(0, 0, 0, 0.302);
   line-height: 2.6;
   position: absolute;
-  left: 482.938px;
-  top: 655.938px;
-  width: 127px;
-  height: 19px;
+  left: 241.4px;
+  top: 328px;
+  width: 63px;
+  height: 8px;
   z-index: 170;
 }
 .box {
@@ -52,20 +52,20 @@
   background-color: rgb(222, 222, 222);
   opacity: 0.2;
   position: absolute;
-  left: 472px;
-  top: 672px;
-  width: 223px;
-  height: 38px;
+  left: 236px;
+  top: 336px;
+  width: 111.5px;
+  height: 19px;
   z-index: 169;
 }
 .User_ID1 {
-  font-size: 30px;
+  font-size: 20px;
   font-family: "Adobe Heiti Std";
   color: rgb(0, 0, 0);
   line-height: 2.167;
   position: absolute;
-  left: 53.938px;
-  top: 650.614px;
+  left: 26px;
+  top: 325px;
   width: 109px;
   height: 23px;
   z-index: 168;
@@ -75,28 +75,28 @@
   background-color: rgb(255, 255, 255);
   box-shadow: 0px 0px 4.65px 0.35px rgba(0, 0, 0, 0.17);
   position: absolute;
-  left: 38px;
-  top: 623px;
-  width: 675px;
-  height: 144px;
+  left: 19px;
+  top: 311px;
+  width: 337.5px;
+  height: 72px;
   z-index: 167;
 }
 .Name {
   position: absolute;
   left: 0px;
   top: 0px;
-  width: 750px;
-  height: 1600px;
+  width: 375px;
+  height: 800px;
   z-index: 165;
 }
 .USER1234 {
-  font-size: 25px;
+  font-size: 13px;
   font-family: "Adobe Heiti Std";
   color: rgba(0, 0, 0, 0.302);
   line-height: 2.6;
   position: absolute;
-  left: 482.938px;
-  top: 479.938px;
+  left: 241px;
+  top: 240px;
   width: 127px;
   height: 19px;
   z-index: 164;
@@ -106,20 +106,20 @@
   background-color: rgb(222, 222, 222);
   opacity: 0.2;
   position: absolute;
-  left: 472px;
-  top: 497px;
-  width: 223px;
-  height: 38px;
+  left: 236px;
+  top: 248px;
+  width: 111.5px;
+  height: 19px;
   z-index: 163;
 }
 .Name_ {
-  font-size: 30px;
+  font-size: 20px;
   font-family: "Adobe Heiti Std";
   color: rgb(0, 0, 0);
   line-height: 2.167;
   position: absolute;
-  left: 53.938px;
-  top: 479.537px;
+  left: 27px;
+  top: 240px;
   width: 85px;
   height: 23px;
   z-index: 162;
@@ -129,28 +129,28 @@
   background-color: rgb(255, 255, 255);
   box-shadow: 0px 0px 4.65px 0.35px rgba(0, 0, 0, 0.17);
   position: absolute;
-  left: 38px;
-  top: 452px;
-  width: 675px;
-  height: 144px;
+  left: 19px;
+  top: 226px;
+  width: 337.5px;
+  height: 72px;
   z-index: 161;
 }
 .profile_photo {
   position: absolute;
   left: 0px;
   top: 0px;
-  width: 750px;
-  height: 1600px;
+  width: 375px;
+  height: 800px;
   z-index: 159;
 }
 .Profile_Photo_ {
-  font-size: 30px;
+  font-size: 20px;
   font-family: "Adobe Heiti Std";
   color: rgb(0, 0, 0);
   line-height: 2.167;
   position: absolute;
-  left: 53.938px;
-  top: 309.769px;
+  left: 27px;
+  top: 155px;
   width: 203px;
   height: 25px;
   z-index: 158;
@@ -158,10 +158,10 @@
 .profile_photo2 {
   background-image: url("./profile-img/profile photo.png");
   position: absolute;
-  left: 500px;
-  top: 301px;
-  width: 108px;
-  height: 108px;
+  left: 250px;
+  top: 150px;
+  width: 54px;
+  height: 54px;
   z-index: 157;
 }
 .box4 {
@@ -169,38 +169,39 @@
   background-color: rgb(255, 255, 255);
   box-shadow: 0px 0px 4.65px 0.35px rgba(0, 0, 0, 0.17);
   position: absolute;
-  left: 38px;
-  top: 281px;
-  width: 675px;
-  height: 144px;
+  left: 19px;
+  top: 140px;
+  width: 337.5px;
+  height: 72px;
   z-index: 156;
 }
 .top {
   background-image: url("./profile-img/top.png");
   position: absolute;
   left: 0px;
-  top: -16px;
-  width: 750px;
-  height: 128px;
+  top: -8px;
+  width: 375px;
+  height: 64px;
   z-index: 155;
 }
 .middle {
+  border-radius: 10px;
   background-color: rgb(255, 255, 255);
   box-shadow: 0px 6px 6.88px 1.12px rgba(180, 174, 174, 0.14);
   position: absolute;
-  left: 19px;
-  top: 243px;
-  width: 712px;
-  height: 1147px;
+  left: 10px;
+  top: 121px;
+  width: 356px;
+  height: 600.5px;
   z-index: 153;
 }
 .top2 {
   background-image: url("./profile-img/top2.png");
   position: absolute;
-  left: -109px;
-  top: 112px;
-  width: 860px;
-  height: 486px;
+  left: -54px;
+  top: 56px;
+  width: 430px;
+  height: 243px;
   z-index: 152;
 }
 .guide {
@@ -214,19 +215,19 @@
 ._1 {
   background-image: url("./profile-img/1.png");
   position: absolute;
-  left: 75px;
+  left: 37px;
   top: 1521px;
-  width: 56px;
-  height: 54px;
+  width: 28px;
+  height: 27px;
   z-index: 150;
 }
 ._2 {
   background-image: url("./profile-img/2.png");
   position: absolute;
-  left: 616px;
+  left: 198px;
   top: 1519px;
-  width: 43px;
-  height: 59px;
+  width: 19px;
+  height: 27px;
   z-index: 149;
 }
 ._3 {
@@ -234,8 +235,8 @@
   position: absolute;
   left: 338px;
   top: 1520px;
-  width: 70px;
-  height: 57px;
+  width: 35px;
+  height: 28px;
   z-index: 148;
 }
 .bottom {
@@ -243,7 +244,16 @@
   position: absolute;
   left: 0px;
   top: 1498px;
-  width: 750px;
-  height: 102px;
+  width: 375px;
+  height: 51px;
   z-index: 147;
+}
+.background {
+  background-color: rgb(246, 246, 246);
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 375px;
+  height: 796px;
+  z-index: 125;
 }

@@ -1,0 +1,112 @@
+.edit_profile {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 375px;
+  height: 800px;
+  z-index: 174;
+}
+.Back {
+  background-image: url("./security-img/Back.png");
+  position: absolute;
+  left: 20px;
+  top: 30px;
+  width: 15px;
+  height: 15px;
+  z-index: 173;
+}
+.Security {
+  font-size: 36px;
+  font-family: "Adobe Heiti Std";
+  color: rgb(255, 255, 255);
+  line-height: 0.903;
+  position: absolute;
+  left: 16.5px;
+  top: 56.2px;
+  width: 31px;
+  height: 30px;
+  z-index: 179;
+}
+.Password {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 375px;
+  height: 800px;
+  z-index: 165;
+}
+.password123 {
+  font-size: 13px;
+  font-family: "Adobe Heiti Std";
+  color: rgba(0, 0, 0, 0.302);
+  line-height: 2.6;
+  position: absolute;
+  left: 241px;
+  top: 154px;
+  width: 127px;
+  height: 19px;
+  z-index: 164;
+}
+.box2 {
+  border-radius: 6px;
+  background-color: rgb(222, 222, 222);
+  opacity: 0.2;
+  position: absolute;
+  left: 236px;
+  top: 162px;
+  width: 111.5px;
+  height: 19px;
+  z-index: 163;
+}
+.Password_ {
+  font-size: 20px;
+  font-family: "Adobe Heiti Std";
+  color: rgb(0, 0, 0);
+  line-height: 2.167;
+  position: absolute;
+  left: 27px;
+  top: 154px;
+  width: 85px;
+  height: 23px;
+  z-index: 162;
+}
+.box3 {
+  border-radius: 10px;
+  background-color: rgb(255, 255, 255);
+  box-shadow: 0px 0px 4.65px 0.35px rgba(0, 0, 0, 0.17);
+  position: absolute;
+  left: 19px;
+  top: 140px;
+  width: 337.5px;
+  height: 72px;
+  z-index: 161;
+}
+.top {
+  background-image: url("./security-img/top.png");
+  position: absolute;
+  left: 0px;
+  top: -8px;
+  width: 375px;
+  height: 64px;
+  z-index: 155;
+}
+.middle {
+  border-radius: 10px;
+  background-color: rgb(255, 255, 255);
+  box-shadow: 0px 6px 6.88px 1.12px rgba(180, 174, 174, 0.14);
+  position: absolute;
+  left: 10px;
+  top: 121px;
+  width: 356px;
+  height: 573.5px;
+  z-index: 153;
+}
+.top2 {
+  background-image: url("./security-img/top2.png");
+  position: absolute;
+  left: -54px;
+  top: 56px;
+  width: 430px;
+  height: 243px;
+  z-index: 152;
+}

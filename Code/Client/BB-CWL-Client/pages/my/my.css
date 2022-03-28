@@ -105,52 +105,52 @@
     left: 0px;
     top: 0px;
     width: 750px;
-    height: 1600px;
+    height: 800px;
     z-index: 113;
   }
-  ._1 {
-    background-image: url("./img/1.png");
-    position: absolute;
-    left: 75px;
-    top: 1521px;
-    width: 56px;
-    height: 54px;
-    z-index: 112;
-  }
-  ._2 {
-    background-image: url("./img/2.png");
-    position: absolute;
-    left: 616px;
-    top: 1519px;
-    width: 43px;
-    height: 59px;
-    z-index: 111;
-  }
-  ._3 {
-    background-image: url("./img/3.png");
-    position: absolute;
-    left: 338px;
-    top: 1520px;
-    width: 70px;
-    height: 57px;
-    z-index: 110;
-  }
-  .bottom {
-    background-image: url("./img/bottom.png");
-    position: absolute;
-    left: 0px;
-    top: 1498px;
-    width: 750px;
-    height: 102px;
-    z-index: 109;
-  }
+._1 {
+  background-image: url("./img/1.png");
+  position: absolute;
+  left: 37.5px;
+  top: 760.5px;
+  width: 28px;
+  height: 27px;
+  z-index: 129;
+}
+._2 {
+  background-image: url("./img/2.png");
+  position: absolute;
+  left: 308px;
+  top: 759.5px;
+  width: 21.5px;
+  height: 29.5px;
+  z-index: 128;
+}
+._3 {
+  background-image: url("./img/3.png");
+  position: absolute;
+  left: 169px;
+  top: 760px;
+  width: 35px;
+  height: 28.5px;
+  z-index: 127;
+}
+.bottom {
+  background-image: url("./img/bottom.png");
+  position: absolute;
+  left: 0px;
+  top: 749px;
+  width: 375px;
+  height: 51px;
+  z-index: 126;
+}
   .background-image {
     background-image: url("./img/background-image.png");
     position: absolute;
     left: 0px;
     top: 0px;
     width: 750px;
-    height: 1600px;
+    height: 800px;
     z-index: 1;
   }
   

@@ -113,6 +113,7 @@
   z-index: 133;
 }
 .middle {
+  border-radius: 10px;
   background-color: rgb(255, 255, 255);
   box-shadow: 0px 6px 6.88px 1.12px rgba(180, 174, 174, 0.14);
   position: absolute;
