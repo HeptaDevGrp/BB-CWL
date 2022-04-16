@@ -1,10 +1,11 @@
 from selenium.webdriver.common.keys import Keys
 from selenium.webdriver.support.wait import WebDriverWait
 import configparser
+import time
 
 
 class login:
-    refresh_limit_number = 100
+    refresh_limit_number = 5
     def __init__(self, driver=None):
         # local variable initialization
         self.driver = driver
@@ -21,101 +22,104 @@ class login:
 
     def logging_in_process(self):
         # click on "INTL ID"
-        # self.driver.implicitly_wait(10)
-        # INTL_ID_button = self.driver.find_element_by_xpath("/html/body/div[2]/div/div[1]/a/img")
-        INTL_ID_button = WebDriverWait(self.driver,10).until(lambda d:d.find_element_by_xpath("/html/body/div[2]/div/div[1]/a/img"))
+        INTL_ID_button = WebDriverWait(self.driver,10).until(lambda d:d.find_element_by_xpath("/html/body/div/div[2]/div[2]/div/div/div[1]/a/img"))
         INTL_ID_button.click()
+        print("clicked the INTL ID button -> finish")
 
         # enter the account name
         max_refresh_number=0
         while(True):
+            try:
+                # due to ZJU portal code change, must use time.sleep() here!
+                time.sleep(5)
+                account_input_box = WebDriverWait(self.driver, 10).until(lambda d: d.find_element_by_id('i0116'))
+                account_input_box.send_keys(self.account)
+                next_step_button = WebDriverWait(self.driver, 10).until(lambda d: d.find_element_by_id('idSIButton9'))
+                next_step_button.click()
+                break
+            except:
+                print("fail to enter account name -> try again")
+                self.driver.refresh()
+                time.sleep(2)
+                max_refresh_number += 1
             if(max_refresh_number > self.refresh_limit_number):
-                print("fail to enter account name")
+                print("fail to enter account name -> finish")
                 return
-            else:
-                try:
-                    # self.driver.implicitly_wait(10)
-                    # account_input_box = self.driver.find_element_by_xpath(
-                    #     '/html/body/div/form[1]/div/div/div[2]/div[1]/div/div/div/div/div/div[3]/div/div/div/div[2]/div[2]/div/input[1]')
-                    account_input_box = WebDriverWait(self.driver,10).until(lambda d:d.find_element_by_xpath('/html/body/div/form[1]/div/div/div[2]/div[1]/div/div/div/div/div/div[3]/div/div/div/div[2]/div[2]/div/input[1]'))
-                    account_input_box.send_keys(self.account)
-                    account_input_box.send_keys(Keys.ENTER)
-                    break
-                except:
-                    max_refresh_number += 1
+        print("entered the account name -> finish")
 
         # enter the password and confirm
         max_refresh_number = 0
         while(max_refresh_number <= self.refresh_limit_number):
             try:
-                # self.driver.implicitly_wait(10)
-                # password_input_box = self.driver.find_element_by_xpath(
-                #     '/html/body/div/form[1]/div/div/div[2]/div[1]/div/div/div/div/div/div[3]/div/div[2]/div/div[2]/div/div[2]/input')
-                password_input_box = WebDriverWait(self.driver,10).until(lambda d:d.find_element_by_xpath('/html/body/div/form[1]/div/div/div[2]/div[1]/div/div/div/div/div/div[3]/div/div[2]/div/div[2]/div/div[2]/input'))
+                time.sleep(5)
+                password_input_box = WebDriverWait(self.driver, 10).until(lambda d: d.find_element_by_id('i0118'))
                 password_input_box.send_keys(self.password)
-                password_input_box.send_keys(Keys.ENTER)
+                signin_button = WebDriverWait(self.driver, 10).until(lambda d: d.find_element_by_xpath('//*[@id="idSIButton9"]'))
+                signin_button.click()
                 break
             except:
-                self.driver.refresh()
+                print("fail to enter password -> try again")
+                # do NOT refresh!
                 max_refresh_number += 1
         if(max_refresh_number > self.refresh_limit_number):
-            print("fail to enter password")
+            print("fail to enter password -> finish")
             return
-        
+        print("entered the password -> finish")
+
         # click the YES button
         max_refresh_number = 0
         while(max_refresh_number <= self.refresh_limit_number):
             try:
-                # self.driver.implicitly_wait(10)
-                # YES_button = self.driver.find_element_by_xpath(
-                #     '/html/body/div/form/div/div/div[2]/div[1]/div/div/div/div/div/div/div[1]/div[2]/div/div[2]/div/div[3]/div[2]/div/div/div[2]/input')
-                YES_button = WebDriverWait(self.driver,30).until(lambda d:d.find_element_by_xpath('/html/body/div/form/div/div/div[2]/div[1]/div/div/div/div/div/div/div[1]/div[2]/div/div[2]/div/div[3]/div[2]/div/div/div[2]/input'))
+                time.sleep(5)
+                YES_button = WebDriverWait(self.driver, 10).until(lambda d: d.find_element_by_xpath('//*[@id="idSIButton9"]'))
                 YES_button.click()
                 break
             except:
+                print("fail to click yes button -> try again")
                 self.driver.refresh()
                 max_refresh_number += 1
         if(max_refresh_number > self.refresh_limit_number):
-            print("fail to click yes button")
+            print("fail to click yes button -> finish")
             return
+        print("clicked the YES button -> finish")
 
         # click the "click this link" button
         max_refresh_number = 0
         while(max_refresh_number <= self.refresh_limit_number):
             try:
-                # self.driver.implicitly_wait(10)
-                # click_this_link_button = self.driver.find_element_by_xpath('/html/body/div/div/div[3]/p[2]/span/a[1]')
                 click_this_link_button = WebDriverWait(self.driver,10).until(lambda d:d.find_element_by_xpath('/html/body/div/div/div[3]/p[2]/span/a[1]'))
                 click_this_link_button.click()
                 break
             except:
-                self.driver.refresh()
+                print("fail to click the 'this link' button -> try again")
                 max_refresh_number += 1
         if(max_refresh_number > self.refresh_limit_number):
-            print("fail to click this link")
+            print("fail to click the 'this link' button -> finish")
             return
-        
+        print("clicked the 'this link' button -> finish")
+
         # click the "INTL ID" button again
         max_refresh_number = 0
         while(max_refresh_number <= self.refresh_limit_number):
-            if(max_refresh_number > self.refresh_limit_number):
-                print("fail to click INTL ID button again")
+            try:
+                INTL_ID_button_second = WebDriverWait(self.driver,10).until(lambda d:d.find_element_by_xpath('/html/body/div/div[3]/div[2]/div/div[2]/div/div[1]/div/div[1]/a/img'))
+                INTL_ID_button_second.click()
+                break
+            except:
+                print("fail to click the 'INTL ID' button again -> try again")
+                self.driver.refresh()
+                max_refresh_number += 1
+            if (max_refresh_number > self.refresh_limit_number):
+                print("fail to click 'INTL ID' button again -> finish")
                 return
-            else:
-                try:
-                    # self.driver.implicitly_wait(10)
-                    # INTL_ID_button_second = self.driver.find_element_by_xpath(
-                    #     '/html/body/div/div[3]/div[2]/div/div[2]/div/div[1]/div/div[1]/a/img')
-                    INTL_ID_button_second = WebDriverWait(self.driver,10).until(lambda d:d.find_element_by_xpath('/html/body/div/div[3]/div[2]/div/div[2]/div/div[1]/div/div[1]/a/img'))
-                    INTL_ID_button_second.click()
-                    break
-                except:
-                    self.driver.refresh()
-                    max_refresh_number += 1
+        print("clicked the 'INTL ID' button again -> finish")
 
+        print("You've now successfully logged in -> finish")
         return
 
     def login_caller(self):
+        # load the account info from config file to the program
         self.load_account_info()
+        # login the BlackBoard portal
         self.logging_in_process()
         return
