@@ -1,12 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="15f32976-6f48-4af0-93b1-d9cf1bc85c53" name="默认变更列表" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Doc/Graphs/项目人员架构.drawio" beforeDir="false" afterPath="$PROJECT_DIR$/Doc/Graphs/项目人员架构.drawio" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Doc/Graphs/项目人员架构.png" beforeDir="false" afterPath="$PROJECT_DIR$/Doc/Graphs/项目人员架构.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Doc/Graphs/项目解决方案.drawio" beforeDir="false" afterPath="$PROJECT_DIR$/Doc/Graphs/项目解决方案.drawio" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Doc/Graphs/项目解决方案.png" beforeDir="false" afterPath="$PROJECT_DIR$/Doc/Graphs/项目解决方案.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Code/Client/BB-CWL-Client/database/client_helper/import_data.js" beforeDir="false" afterPath="$PROJECT_DIR$/Code/Client/BB-CWL-Client/database/client_helper/import_data.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Code/Client/BB-CWL-Client/database/data/formatted_data.json" beforeDir="false" afterPath="$PROJECT_DIR$/Code/Client/BB-CWL-Client/database/data/formatted_data.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Code/Client/BB-CWL-Client/pages/announcement/announcement.vue" beforeDir="false" afterPath="$PROJECT_DIR$/Code/Client/BB-CWL-Client/pages/announcement/announcement.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Code/Client/BB-CWL-Client/pages/courses/courses.vue" beforeDir="false" afterPath="$PROJECT_DIR$/Code/Client/BB-CWL-Client/pages/courses/courses.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Code/Client/BB-CWL-Client/pages/more/moreannouncement.vue" beforeDir="false" afterPath="$PROJECT_DIR$/Code/Client/BB-CWL-Client/pages/more/moreannouncement.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Code/Client/BB-CWL-Client/pages/more/morefuture.vue" beforeDir="false" afterPath="$PROJECT_DIR$/Code/Client/BB-CWL-Client/pages/more/morefuture.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Code/Client/BB-CWL-Client/pages/more/moretoday.vue" beforeDir="false" afterPath="$PROJECT_DIR$/Code/Client/BB-CWL-Client/pages/more/moretoday.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Code/Client/BB-CWL-Client/pages/more/moretomorrow.vue" beforeDir="false" afterPath="$PROJECT_DIR$/Code/Client/BB-CWL-Client/pages/more/moretomorrow.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Code/Client/BB-CWL-Client/pages/my/Settings/settings.vue" beforeDir="false" afterPath="$PROJECT_DIR$/Code/Client/BB-CWL-Client/pages/my/Settings/settings.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Code/Client/BB-CWL-Client/pages/my/my.vue" beforeDir="false" afterPath="$PROJECT_DIR$/Code/Client/BB-CWL-Client/pages/my/my.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Code/Client/BB-CWL-Client/pages/tabbar/index.vue" beforeDir="false" afterPath="$PROJECT_DIR$/Code/Client/BB-CWL-Client/pages/tabbar/index.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Code/Node/client_helper/import_data.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Code/Node/data/formatted_data.json" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,6 +27,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="1wkTuUajZbZbOZxl6h4noDFDrmY" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -25,6 +40,11 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
   </component>
   <component name="RunManager">
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" singleton="false" nameIsGenerated="true">
@@ -34,11 +54,12 @@
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
-      <option name="SDK_HOME" value="$USER_HOME$/opt/anaconda3/envs/ScrapyPrograms/bin/python" />
+      <option name="SDK_HOME" value="$USER_HOME$/.conda/envs/pythonProject/bin/python" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Code/Selenium" />
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Code/Selenium/main.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
@@ -57,10 +78,17 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1629001811253</updated>
+      <workItem from="1650148689271" duration="618000" />
     </task>
     <servers />
   </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
   <component name="UnknownFeatures">
     <option featureType="com.intellij.fileTypeFactory" implementationName="*.js" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/BB_CWL$main.coverage" NAME="main 覆盖结果" MODIFIED="1650148885747" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Code/Selenium" />
   </component>
 </project>

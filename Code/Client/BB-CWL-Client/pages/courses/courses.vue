@@ -25,7 +25,7 @@
 </template>
 
 <script>
-	import json from '../../../../Node/client_helper/import_data_0.js';
+	import json from 'database/client_helper/import_data.js';
 	export default {
 		data() {
 			return {
