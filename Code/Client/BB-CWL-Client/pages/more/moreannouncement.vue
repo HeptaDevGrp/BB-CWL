@@ -44,14 +44,13 @@
 			}
 		},
 		onLoad(item){
-			let obj=item.itemlist.replace("\"([^\"]*)\"", "$1");
-			this.AnnouncementShowList=JSON.parse(obj);
+			let obj=decodeURIComponent(item.itemlist.replace("\"([^\"]*)\"", "$1"));
+			this.AnnouncementShowList=JSON.parse(obj)
 			let data=json.data;
 		},
 		methods: {
 			MoreAnnouncementClick(item1){
 				var items;
-				console.log(item1)
 				items=encodeURIComponent(JSON.stringify(this.AnnouncementShowList[item1]));
 				uni.navigateTo({
 					url: '../announcement/announcement?itemlist='+items,

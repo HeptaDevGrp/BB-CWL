@@ -55,7 +55,8 @@
 			}
 		},
 		onLoad(item){
-			let obj=item.itemlist.replace("\"([^\"]*)\"", "$1");
+			let obj=decodeURIComponent(item.itemlist.replace("\"([^\"]*)\"", "$1"));
+			console.log(item)
 			this.annoucement=JSON.parse(obj)
 			let data=json.data;
 		},
