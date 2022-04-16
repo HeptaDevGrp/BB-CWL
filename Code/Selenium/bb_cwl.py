@@ -11,6 +11,9 @@ def BB_CWL_retrieve_data(file_postfix = ''):
     
     # count the each function's run time
     count = 1
+    last_form = ''
+    form = ''
+
     while(True):
         print("This is "+str(count)+" time of refreshing for Thread" + file_postfix)
         
@@ -19,7 +22,7 @@ def BB_CWL_retrieve_data(file_postfix = ''):
         # driver = webdriver.Chrome(options=chrome_options)
         
         # set up firefox
-        firefox_options = ''# firefox_headless_mode_initialization() # turn on this when running on server!!!
+        firefox_options = firefox_headless_mode_initialization() # turn on this when running on server!!!
         driver = webdriver.Firefox(options=firefox_options)
         
         # open the Blackboard Website
@@ -54,27 +57,56 @@ def BB_CWL_retrieve_data(file_postfix = ''):
         raw_file_path='products/raw_data.txt'
         clean_file_path='products/clean_data.txt'
         formatted_data_path = 'products/formatted_data.json'
-        formatted_data_for_node_path = '../Node/data/formatted_data.json'
-        formatted_data_for_javascript_path = '../Node/client_helper/import_data.js'
+        formatted_data_for_node_path = '../Client/BB-CWL-Client/database/data/formatted_data.json'
+        formatted_data_for_javascript_path = '../Client/BB-CWL-Client/database/client_helper/import_data.js'
 
         # retrieve the form and save into 'raw_data.txt'
-        form = page_form_extract(driver)
-        write_file(raw_file_path, form, 'txt')  # 'raw_data.txt' extant or not, this will always execute
-        
-        # read from 'raw_data.txt' and clean the data, save to 'clean_data.txt'
-        content = read_file(raw_file_path, 'txt')
-        data_cleaner_obj = data_cleaner(content)
-        content_clean = data_cleaner_obj.data_cleaner_process()
-        write_file(clean_file_path, content_clean, 'txt')
+        if (count == 1):
+            form = page_form_extract(driver)
 
-        # read from 'clean_data' and format the data, save to 'formatted_data.json'
-        clean_data = read_file(clean_file_path, 'txt')
-        format_data_obj = format_data(clean_data)
-        write_file(formatted_data_path, format_data_obj, 'json')  # json copy for Selenium
+            last_form = form
+            write_file('../Client/BB-CWL-Client/database/client_helper/flag_change.txt', 'New content in BlackBoard available!',
+                       'txt')
+            write_file(raw_file_path, form, 'txt')  # 'raw_data.txt' extant or not, this will always execute
+            
+            # read from 'raw_data.txt' and clean the data, save to 'clean_data.txt'
+            content = read_file(raw_file_path, 'txt')
+            data_cleaner_obj = data_cleaner(content)
+            content_clean = data_cleaner_obj.data_cleaner_process()
+            write_file(clean_file_path, content_clean, 'txt')
 
-        write_file(formatted_data_for_node_path, format_data_obj, 'json')  # json copy for Node
-        write_file(formatted_data_for_javascript_path, format_data_obj, 'js')  # javascript copy for Node
-        
+            # read from 'clean_data' and format the data, save to 'formatted_data.json'
+            clean_data = read_file(clean_file_path, 'txt')
+            format_data_obj = format_data(clean_data)
+
+            write_file(formatted_data_path, format_data_obj, 'json')  # json copy for Selenium
+            write_file(formatted_data_for_node_path, format_data_obj, 'json')  # json copy for Node
+            write_file(formatted_data_for_javascript_path, format_data_obj, 'js')  # javascript copy for Node
+        else:
+            form = page_form_extract(driver)
+            # only read the new form when last form is different from current form
+            if (form != last_form):
+                # indicate that the file has changed
+                write_file('../Client/BB-CWL-Client/database/client_helper/flag_change.txt', 'New content in BlackBoard available!',
+                           'txt')
+
+                last_form = form
+                write_file(raw_file_path, form, 'txt')  # 'raw_data.txt' extant or not, this will always execute
+                
+                # read from 'raw_data.txt' and clean the data, save to 'clean_data.txt'
+                content = read_file(raw_file_path, 'txt')
+                data_cleaner_obj = data_cleaner(content)
+                content_clean = data_cleaner_obj.data_cleaner_process()
+                write_file(clean_file_path, content_clean, 'txt')
+
+                # read from 'clean_data' and format the data, save to 'formatted_data.json'
+                clean_data = read_file(clean_file_path, 'txt')
+                format_data_obj = format_data(clean_data)
+
+                write_file(formatted_data_path, format_data_obj, 'json')  # json copy for Selenium
+                write_file(formatted_data_for_node_path, format_data_obj, 'json')  # json copy for Node
+                write_file(formatted_data_for_javascript_path, format_data_obj, 'js')  # javascript copy for Node
+            
         # # import data to MySQL database, will be implemented later
         # content = read_file('products/formatted_data.json', 'json')
         # read_into_mysql(content)
